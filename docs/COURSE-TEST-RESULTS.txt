@@ -1,0 +1,124 @@
+Buildfile: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\ProjectPrj_GiaSu\build.xml
+
+-pre-init:
+
+-init-private:
+
+-init-user:
+
+-init-project:
+
+-init-macrodef-property:
+
+standalone-init:
+     [echo] Compiler: javac 17 (C:\Program Files\Java\jdk-17)
+
+compile:
+
+test:
+     [java] PASS: 18 core checks
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+PASS Creator teacher assigned
+PASS Other teacher denied
+PASS Only admin publishes
+PASS Empty curriculum denied
+PASS Cross-course editing denied
+PASS Concurrent enrollments unique
+PASS Unenrolled student cannot write
+PASS Opening is not completion
+PASS Persistent note
+PASS Bookmark persists
+PASS Optional lessons excluded from completion
+PASS Completion idempotent
+PASS Enrolled curriculum frozen
+PASS Referenced lecture protected
+PASS Other teacher content protected
+PASS Archived enrollment keeps access
+PASS Archived no new enrollments
+PASS Revocation effective
+PASS Resume valid
+PASS Pending enrollment
+PASS Pending not active
+PASS Approval grants access
+PASS Submission before AI has no score
+PASS Submission image persisted
+PASS Duplicate submission blocked
+PASS AI unavailable does not assign zero
+PASS AI failure preserves image
+PASS Other student cannot read submission
+PASS Profile persisted
+PASS: 29 SQL Server integration checks; isolated test data retained for inspection.
+PASS Login 55
+PASS Login 56
+PASS Login 57
+PASS Login 58
+PASS Login 59
+PASS Public homepage (HTTP 200)
+PASS Empty search (HTTP 200)
+PASS New stylesheet (HTTP 200)
+PASS Guest dashboard blocked (HTTP 302)
+PASS Teacher course screen (HTTP 200)
+PASS Course POST requires CSRF (HTTP 403)
+PASS Create draft (HTTP 302)
+PASS Edit draft JSP (HTTP 200)
+PASS Draft hidden publicly (HTTP 404)
+PASS Other teacher cannot manage (HTTP 403)
+PASS Add curriculum 0 (HTTP 302)
+PASS Add curriculum 1 (HTTP 302)
+PASS Teacher cannot publish (HTTP 403)
+PASS Admin publishes (HTTP 302)
+PASS Published detail JSP (HTTP 200)
+PASS Allowed preview (HTTP 200)
+PASS Private preview denied (HTTP 404)
+PASS Legacy route does not expose private body
+PASS Not enrolled cannot read lesson (HTTP 403)
+PASS Enrollment CSRF (HTTP 403)
+PASS Pending enrollment (HTTP 302)
+PASS Repeated enrollment idempotent (HTTP 302)
+PASS My courses JSP (HTTP 200)
+PASS Pending access blocked (HTTP 403)
+PASS Approve enrollment (HTTP 302)
+PASS Lesson JSP (HTTP 200)
+PASS Enrolled reads content
+PASS Page view not completed
+PASS Save private note (HTTP 302)
+PASS Notes escaped in HTML
+PASS Other student cannot overwrite note (HTTP 403)
+PASS Bookmark POST (HTTP 302)
+PASS Complete lesson (HTTP 302)
+PASS Resume redirect (HTTP 302)
+PASS Dashboard JSP (HTTP 200)
+PASS Teacher progress JSP (HTTP 200)
+PASS Outside teacher cannot revoke (HTTP 403)
+PASS Teacher cannot see private practice (HTTP 403)
+PASS Teacher cannot read global upload (HTTP 403)
+PASS Other content owner blocked (HTTP 403)
+PASS Catalog regression (HTTP 200)
+PASS AI generation screen regression (HTTP 200)
+PASS Scoped students screen (HTTP 200)
+PASS Profile JSP (HTTP 200)
+PASS Save profile (HTTP 302)
+PASS Practice history regression (HTTP 200)
+PASS Library regression (HTTP 200)
+PASS Admin regression (HTTP 200)
+PASS Login 57
+PASS Note survives logout
+PASS Student role blocked (HTTP 403)
+PASS Start essay HTTP (HTTP 302)
+PASS Essay practice JSP (HTTP 200)
+PASS Fake image rejected (HTTP 400)
+PASS Image submission without AI (HTTP 302)
+PASS Pending grade review JSP (HTTP 200)
+PASS Summary pending grade JSP (HTTP 200)
+PASS Owner reads uploaded image (HTTP 200)
+PASS Other student image blocked (HTTP 404)
+PASS AI unavailable handled HTTP (HTTP 302)
+PASS No zero grade after HTTP AI failure
+PASS Pending history JSP (HTTP 200)
+PASS Login 57
+PASS Password change (HTTP 302)
+PASS Password change invalidates other session (HTTP 302)
+PASS: 70 HTTP checks on isolated SQL Server/Tomcat; no production data written.
+All course tests passed. Synthetic data exists only in the isolated test database.

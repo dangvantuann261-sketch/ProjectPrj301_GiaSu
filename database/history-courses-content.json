@@ -1,0 +1,1700 @@
+{
+    "seed_key":  "seed.history_6_12.v1",
+    "description":  "Nội dung tự biên soạn để học thử và kiểm thử; 3 bài tiêu biểu mỗi khối, không thay thế chương trình cả năm. Nguồn đọc/video được ghi riêng cho từng bài.",
+    "courses":  [
+                    {
+                        "grade":  6,
+                        "title":  "Lịch sử 6: Khám phá quá khứ và các quốc gia cổ đại",
+                        "summary":  "Làm quen với sử liệu, các nền văn minh bên sông và buổi đầu dựng nước của người Việt.",
+                        "objectives":  "Phân biệt các loại sử liệu; giải thích vai trò của sông ngòi; nhận biết Văn Lang và Âu Lạc.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  2,
+                                            "title":  "Đọc dấu tích quá khứ: hiện vật, chữ viết và lời kể",
+                                            "section":  "Phần 1. Kĩ năng học lịch sử",
+                                            "body":  "MỤC TIÊU\nNhận diện tư liệu và biết đối chiếu thông tin.\n\nGHI NHỚ\n• Hiện vật như công cụ, đồ gốm cho biết đời sống vật chất.\n• Văn bia, nhật kí cung cấp thông tin bằng chữ viết.\n• Truyền thuyết phản ánh kí ức cộng đồng, cần kiểm chứng khi dùng để xác định sự kiện.\n• Luôn hỏi ai tạo tư liệu, vào thời điểm nào và với mục đích gì.\n\nTHỰC HÀNH\nChọn một đồ vật cũ trong gia đình và ghi lại nguồn gốc của nó.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Một mảnh gốm khai quật là tư liệu gì?",
+                                                                  "options":  [
+                                                                                  "Hiện vật",
+                                                                                  "Truyền miệng",
+                                                                                  "Dự báo",
+                                                                                  "Hư cấu"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Mảnh gốm là dấu tích vật chất của quá khứ.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Thông tin khắc trên văn bia thuộc loại nào?",
+                                                                  "options":  [
+                                                                                  "Truyền miệng",
+                                                                                  "Chữ viết",
+                                                                                  "Âm thanh",
+                                                                                  "Dự đoán"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Chữ khắc truyền tải thông tin; bản thân bia cũng là hiện vật.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Muốn kiểm chứng một lời kể, nên làm gì?",
+                                                                  "options":  [
+                                                                                  "Tin ngay",
+                                                                                  "Bỏ mọi chứng cứ",
+                                                                                  "Đối chiếu nguồn khác",
+                                                                                  "Chỉ xem lượt thích"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Đối chiếu giúp phát hiện thông tin chưa thống nhất.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Câu hỏi nào giúp đánh giá nguồn sử liệu?",
+                                                                  "options":  [
+                                                                                  "Có nhiều màu không?",
+                                                                                  "Có đắt không?",
+                                                                                  "Có nổi tiếng không?",
+                                                                                  "Ai tạo ra và khi nào?"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Tác giả và thời điểm giúp hiểu bối cảnh của nguồn.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Dùng truyền thuyết để xác định sự kiện cần lưu ý gì?",
+                                                                  "options":  [
+                                                                                  "Kiểm chứng thêm",
+                                                                                  "Coi mọi chi tiết là thật",
+                                                                                  "Bỏ qua bối cảnh",
+                                                                                  "Chỉ dựa vào cảm xúc"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Truyền thuyết có thể chứa yếu tố tưởng tượng.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  6,
+                                                           "lesson":  2,
+                                                           "source_url":  "https://vietjack.com/lich-su-6-ket-noi/bai-2-cac-nha-su-hoc-dua-vao-dau-de-biet-va-phuc-hung-lai-lich-su.jsp",
+                                                           "source_title":  "Lịch Sử lớp 6 Kết nối tri thức Bài 2: Dựa vào đâu để biết và phục dựng lại lịch sử? | Giải Lịch Sử 6",
+                                                           "video_url":  "https://www.youtube.com/watch?v=0yY6nrAILik",
+                                                           "video_title":  "Lịch sử lớp 6 Bài 2: Dựa vào đâu để biết và phục dựng lại lịch sử - trang 11, 13 | Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  7,
+                                            "title":  "Ai Cập và Lưỡng Hà: những nền văn minh bên sông",
+                                            "section":  "Phần 2. Thế giới cổ đại",
+                                            "body":  "MỤC TIÊU\nLiên hệ điều kiện tự nhiên với sản xuất và nhà nước.\n\nGHI NHỚ\n• Ai Cập cổ đại gắn với sông Nin; Lưỡng Hà nằm giữa sông Ti-grơ và Ơ-phơ-rát.\n• Phù sa hỗ trợ nông nghiệp, nhưng cư dân phải phối hợp làm thủy lợi.\n• Pha-ra-ông đứng đầu nhà nước Ai Cập.\n• Kim tự tháp và chữ tượng hình là thành tựu tiêu biểu của Ai Cập; chữ hình nêm gắn với Lưỡng Hà.\n\nTHỰC HÀNH\nGiải thích vì sao nguồn nước có thể thúc đẩy sự hợp tác giữa cộng đồng.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Ai Cập cổ đại gắn với dòng sông nào?",
+                                                                  "options":  [
+                                                                                  "Mê Công",
+                                                                                  "Nin",
+                                                                                  "Hằng",
+                                                                                  "Hoàng Hà"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Sông Nin cung cấp nước và phù sa cho Ai Cập.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Lưỡng Hà nằm giữa hai sông nào?",
+                                                                  "options":  [
+                                                                                  "Nin và Hằng",
+                                                                                  "Hồng và Đà",
+                                                                                  "Ti-grơ và Ơ-phơ-rát",
+                                                                                  "Mã và Cả"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Tên Lưỡng Hà chỉ vùng đất giữa hai dòng sông này.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Người đứng đầu Ai Cập cổ đại được gọi là gì?",
+                                                                  "options":  [
+                                                                                  "Chấp chính quan",
+                                                                                  "Lãnh chúa",
+                                                                                  "Thiên tử",
+                                                                                  "Pha-ra-ông"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Pha-ra-ông nắm quyền lực tối cao ở Ai Cập cổ đại.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Làm thủy lợi đòi hỏi cư dân phải làm gì?",
+                                                                  "options":  [
+                                                                                  "Hợp tác lao động",
+                                                                                  "Ngừng trồng trọt",
+                                                                                  "Rời bỏ mọi đồng bằng",
+                                                                                  "Chỉ săn bắt"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Công trình dẫn nước cần sức lao động của nhiều người.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chữ hình nêm gắn với nền văn minh nào?",
+                                                                  "options":  [
+                                                                                  "La Mã",
+                                                                                  "Lưỡng Hà",
+                                                                                  "Văn Lang",
+                                                                                  "Hy Lạp"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Cư dân Lưỡng Hà dùng các dấu hình nêm để ghi chép.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  6,
+                                                           "lesson":  7,
+                                                           "source_url":  "https://vietjack.com/lich-su-6-ket-noi/bai-7-ai-cap-va-luong-ha-co-dai.jsp",
+                                                           "source_title":  "Lịch Sử lớp 6 Kết nối tri thức Bài 7: Ai Cập và Lưỡng Hà cổ đại | Giải Lịch Sử 6",
+                                                           "video_url":  "https://www.youtube.com/watch?v=ZTAphd0MH_E",
+                                                           "video_title":  "Lịch sử lớp 6 Bài 7: Ai Cập và Lưỡng Hà cổ đại - trang 29, 33 | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  14,
+                                            "title":  "Văn Lang và Âu Lạc: buổi đầu dựng nước",
+                                            "section":  "Phần 3. Việt Nam cổ đại",
+                                            "body":  "MỤC TIÊU\nNhận biết nhà nước đầu tiên và đời sống cư dân Việt cổ.\n\nGHI NHỚ\n• Văn Lang do các vua Hùng đứng đầu, kinh đô ở Phong Châu.\n• An Dương Vương đứng đầu Âu Lạc, xây dựng kinh đô tại Cổ Loa.\n• Trồng lúa nước giữ vai trò quan trọng; đúc đồng và làm gốm phát triển.\n• Trống đồng là nguồn tư liệu về kĩ thuật và sinh hoạt cộng đồng.\n\nTHỰC HÀNH\nLập bảng so sánh người đứng đầu và kinh đô của hai nhà nước.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Người đứng đầu Văn Lang mang danh xưng nào?",
+                                                                  "options":  [
+                                                                                  "Pha-ra-ông",
+                                                                                  "Hoàng đế La Mã",
+                                                                                  "Hùng Vương",
+                                                                                  "Lãnh chúa"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Các vua Hùng đứng đầu nhà nước Văn Lang.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Kinh đô Âu Lạc đặt tại đâu?",
+                                                                  "options":  [
+                                                                                  "Hoa Lư",
+                                                                                  "Huế",
+                                                                                  "Thăng Long",
+                                                                                  "Cổ Loa"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "An Dương Vương chọn Cổ Loa làm kinh đô.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hoạt động sản xuất quan trọng của cư dân Việt cổ là gì?",
+                                                                  "options":  [
+                                                                                  "Trồng lúa nước",
+                                                                                  "Chế tạo ô tô",
+                                                                                  "Khai thác dầu biển",
+                                                                                  "Sản xuất điện"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Nông nghiệp lúa nước gắn với điều kiện đồng bằng và sông ngòi.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ai đứng đầu nhà nước Âu Lạc?",
+                                                                  "options":  [
+                                                                                  "Lý Công Uẩn",
+                                                                                  "An Dương Vương",
+                                                                                  "Lê Lợi",
+                                                                                  "Quang Trung"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "An Dương Vương là người đứng đầu Âu Lạc.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hoa văn trên trống đồng hỗ trợ nghiên cứu điều gì?",
+                                                                  "options":  [
+                                                                                  "Dự báo tương lai",
+                                                                                  "Mật mã máy tính",
+                                                                                  "Sinh hoạt cư dân xưa",
+                                                                                  "Công nghiệp hiện đại"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Hình trang trí cung cấp dấu vết về sinh hoạt và tín ngưỡng.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  6,
+                                                           "lesson":  14,
+                                                           "source_url":  "https://vietjack.com/lich-su-6-ket-noi/bai-14-nha-nuoc-van-lang-au-lac.jsp",
+                                                           "source_title":  "Lịch Sử lớp 6 Kết nối tri thức Bài 14: Nhà nước Văn Lang, Âu Lạc | Giải Lịch Sử 6",
+                                                           "video_url":  "https://www.youtube.com/watch?v=ksnsGMiIu6g",
+                                                           "video_title":  "Lịch sử lớp 6 Bài 14: Nhà nước Văn Lang - Âu Lạc - trang 60, 64 | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  7,
+                        "title":  "Lịch sử 7: Đại Việt thời Lý, Trần và khởi nghĩa Lam Sơn",
+                        "summary":  "Tìm hiểu xây dựng quốc gia, bảo vệ độc lập và những chiến thắng tiêu biểu thời trung đại.",
+                        "objectives":  "Sắp xếp mốc lịch sử; nhận biết nhân vật; giải thích vai trò đoàn kết và cách đánh phù hợp.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  11,
+                                            "title":  "Nhà Lý: dời đô và xây dựng Đại Việt",
+                                            "section":  "Phần 1. Xây dựng quốc gia",
+                                            "body":  "MỤC TIÊU\nNhận biết những mốc xây dựng đất nước thời Lý.\n\nGHI NHỚ\n• Năm 1009, Lý Công Uẩn lên ngôi.\n• Năm 1010, nhà vua dời đô từ Hoa Lư ra Đại La, đổi tên thành Thăng Long.\n• Năm 1054, quốc hiệu đổi thành Đại Việt.\n• Văn Miếu được xây dựng năm 1070; Quốc Tử Giám thành lập năm 1076.\n\nTHỰC HÀNH\nVẽ trục thời gian gồm năm mốc trên và nêu ý nghĩa của việc chú trọng giáo dục.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Ai sáng lập triều Lý?",
+                                                                  "options":  [
+                                                                                  "Lê Hoàn",
+                                                                                  "Đinh Bộ Lĩnh",
+                                                                                  "Trần Cảnh",
+                                                                                  "Lý Công Uẩn"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Lý Công Uẩn lên ngôi năm 1009, mở đầu triều Lý.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Việc dời đô ra Thăng Long diễn ra năm nào?",
+                                                                  "options":  [
+                                                                                  "1010",
+                                                                                  "938",
+                                                                                  "1288",
+                                                                                  "1428"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Năm 1010 là mốc dời đô từ Hoa Lư ra Đại La.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Quốc hiệu Đại Việt được đặt năm nào?",
+                                                                  "options":  [
+                                                                                  "1009",
+                                                                                  "1054",
+                                                                                  "1076",
+                                                                                  "1226"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Năm 1054, dưới thời Lý Thánh Tông, quốc hiệu là Đại Việt.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Cơ sở giáo dục nào thành lập năm 1076?",
+                                                                  "options":  [
+                                                                                  "Đông Kinh Nghĩa Thục",
+                                                                                  "Trường Quốc học Huế",
+                                                                                  "Quốc Tử Giám",
+                                                                                  "Đại học Đông Dương"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Quốc Tử Giám được thành lập dưới triều Lý.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Địa danh Đại La được đổi thành tên nào?",
+                                                                  "options":  [
+                                                                                  "Phú Xuân",
+                                                                                  "Gia Định",
+                                                                                  "Hoa Lư",
+                                                                                  "Thăng Long"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Lý Công Uẩn đổi tên Đại La thành Thăng Long.",
+                                                                  "difficulty":  "EASY"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  7,
+                                                           "lesson":  11,
+                                                           "source_url":  "https://vietjack.com/lich-su-7-kn/bai-11-nha-ly-xay-dung-va-phat-trien-dat-nuoc-1009-1225.jsp",
+                                                           "source_title":  "Lịch Sử 7 Kết nối tri thức Bài 11: Nhà Lý xây dựng và phát triển đất nước (1009 - 1225) | Giải Lịch Sử 7",
+                                                           "video_url":  "https://www.youtube.com/watch?v=bc3P0rn_hsM",
+                                                           "video_title":  "Lịch sử Lớp 7 Bài 11: Nhà Lý xây dựng và phát triển đất nước (1009 - 1225) | Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  14,
+                                            "title":  "Nhà Trần và ba lần kháng chiến chống Mông – Nguyên",
+                                            "section":  "Phần 2. Bảo vệ độc lập",
+                                            "body":  "MỤC TIÊU\nGhi nhớ ba cuộc kháng chiến và phân tích cách đánh.\n\nGHI NHỚ\n• Đại Việt chống quân Mông – Nguyên vào các năm 1258, 1285 và 1287–1288.\n• Trần Quốc Tuấn giữ vai trò chỉ huy quan trọng.\n• Rút lui bảo toàn lực lượng kết hợp phản công làm thất bại ưu thế ban đầu của địch.\n• Trận Bạch Đằng năm 1288 tận dụng địa hình, thủy triều và trận địa cọc.\n\nTHỰC HÀNH\nPhân biệt rút lui chiến thuật với từ bỏ kháng chiến.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Cuộc kháng chiến đầu tiên chống quân Mông Cổ diễn ra năm nào?",
+                                                                  "options":  [
+                                                                                  "1258",
+                                                                                  "1285",
+                                                                                  "1288",
+                                                                                  "1427"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Năm 1258 mở đầu ba lần kháng chiến thời Trần.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Trần Hưng Đạo là tên gọi của ai?",
+                                                                  "options":  [
+                                                                                  "Trần Thủ Độ",
+                                                                                  "Trần Quốc Tuấn",
+                                                                                  "Trần Nhân Tông",
+                                                                                  "Trần Quang Khải"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Trần Quốc Tuấn được phong Hưng Đạo Đại Vương.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chiến thắng Bạch Đằng thời Trần diễn ra năm nào?",
+                                                                  "options":  [
+                                                                                  "938",
+                                                                                  "1077",
+                                                                                  "1288",
+                                                                                  "1789"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Bạch Đằng năm 1288 thuộc lần kháng chiến thứ ba.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Yếu tố tự nhiên nào được tận dụng ở Bạch Đằng?",
+                                                                  "options":  [
+                                                                                  "Núi lửa",
+                                                                                  "Băng tuyết",
+                                                                                  "Bão cát",
+                                                                                  "Thủy triều"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Thủy triều phối hợp với bãi cọc và phục kích.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Mục đích của rút lui chiến thuật là gì?",
+                                                                  "options":  [
+                                                                                  "Giữ lực lượng để phản công",
+                                                                                  "Đầu hàng hoàn toàn",
+                                                                                  "Bỏ mọi phòng tuyến mãi mãi",
+                                                                                  "Ngừng tổ chức quân đội"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Tránh giao chiến bất lợi tạo điều kiện phản công sau đó.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  7,
+                                                           "lesson":  14,
+                                                           "source_url":  "https://vietjack.com/lich-su-7-kn/bai-14-ba-lan-khang-chien-chong-quan-xam-luoc-mong-nguyen.jsp",
+                                                           "source_title":  "Lịch Sử 7 Kết nối tri thức Bài 14: Ba lần kháng chiến chống quân xâm lược Mông - Nguyên | Giải Lịch Sử 7",
+                                                           "video_url":  "https://www.youtube.com/watch?v=9Qz4xUrwZKk",
+                                                           "video_title":  "Lịch sử Lớp 7 Bài 14: Ba lần kháng chiến chống quân xâm lược Mông - Nguyên | Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  16,
+                                            "title":  "Khởi nghĩa Lam Sơn: từ gian khó đến thắng lợi",
+                                            "section":  "Phần 3. Giành lại độc lập",
+                                            "body":  "MỤC TIÊU\nXác định lãnh đạo, địa bàn khởi đầu và mốc thắng lợi.\n\nGHI NHỚ\n• Lê Lợi dựng cờ khởi nghĩa tại Lam Sơn, Thanh Hóa năm 1418.\n• Nguyễn Trãi tham gia hoạch định kế sách và hoạt động ngoại giao.\n• Tốt Động – Chúc Động năm 1426, Chi Lăng – Xương Giang năm 1427 là những thắng lợi lớn.\n• Khởi nghĩa kết thúc ách đô hộ của nhà Minh; triều Lê sơ ra đời năm 1428.\n\nTHỰC HÀNH\nXếp các mốc trên theo trình tự và giải thích vai trò của nhân dân.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Ai lãnh đạo khởi nghĩa Lam Sơn?",
+                                                                  "options":  [
+                                                                                  "Ngô Quyền",
+                                                                                  "Lê Lợi",
+                                                                                  "Nguyễn Huệ",
+                                                                                  "Lý Bí"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Lê Lợi là lãnh tụ của cuộc khởi nghĩa.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Khởi nghĩa Lam Sơn bắt đầu năm nào?",
+                                                                  "options":  [
+                                                                                  "1400",
+                                                                                  "1407",
+                                                                                  "1418",
+                                                                                  "1428"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Lê Lợi dựng cờ khởi nghĩa năm 1418.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Lam Sơn thuộc địa bàn tỉnh nào hiện nay?",
+                                                                  "options":  [
+                                                                                  "Nghệ An",
+                                                                                  "Hà Tĩnh",
+                                                                                  "Ninh Bình",
+                                                                                  "Thanh Hóa"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Lam Sơn là địa bàn khởi đầu ở Thanh Hóa.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chi Lăng – Xương Giang là thắng lợi năm nào?",
+                                                                  "options":  [
+                                                                                  "1427",
+                                                                                  "1258",
+                                                                                  "1785",
+                                                                                  "1858"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Chiến thắng năm 1427 góp phần quyết định kết thúc chiến tranh.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Triều đại nào ra đời sau thắng lợi Lam Sơn?",
+                                                                  "options":  [
+                                                                                  "Nhà Hồ",
+                                                                                  "Lê sơ",
+                                                                                  "Nhà Lý",
+                                                                                  "Nhà Nguyễn"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Năm 1428, Lê Lợi lên ngôi, mở đầu triều Lê sơ.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  7,
+                                                           "lesson":  16,
+                                                           "source_url":  "https://vietjack.com/lich-su-7-kn/bai-16-khoi-nghia-lam-son-1418-1427.jsp",
+                                                           "source_title":  "Lịch Sử 7 Kết nối tri thức Bài 16: Khởi nghĩa Lam Sơn (1418 - 1427) | Giải Lịch Sử 7",
+                                                           "video_url":  "https://www.youtube.com/watch?v=7GW3_Ab5l0Q",
+                                                           "video_title":  "Lịch sử Lớp 7 Bài 16 Khởi nghĩa Lam Sơn (1418 - 1427) | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  8,
+                        "title":  "Lịch sử 8: Những chuyển biến thời cận đại",
+                        "summary":  "Khám phá Cách mạng Pháp, cách mạng công nghiệp và phong trào Tây Sơn.",
+                        "objectives":  "Nhận biết biến đổi chính trị, kinh tế; phân biệt nguyên nhân và kết quả; ghi nhớ chiến thắng Tây Sơn.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  2,
+                                            "title":  "Cách mạng Pháp năm 1789 và những thay đổi xã hội",
+                                            "section":  "Phần 1. Cách mạng tư sản",
+                                            "body":  "MỤC TIÊU\nNhận diện mâu thuẫn xã hội và mốc mở đầu cách mạng.\n\nGHI NHỚ\n• Trước cách mạng, xã hội Pháp chia thành ba đẳng cấp.\n• Tăng lữ và quý tộc có đặc quyền; đẳng cấp thứ ba chịu nhiều gánh nặng.\n• Ngày 14/7/1789, nhân dân tấn công ngục Ba-xti.\n• Tuyên ngôn Nhân quyền và Dân quyền nêu các quyền tự do, bình đẳng; cách mạng làm suy yếu và xóa bỏ nhiều ràng buộc phong kiến.\n\nTHỰC HÀNH\nGiải thích vì sao đặc quyền gây mâu thuẫn trong xã hội.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Trước năm 1789, xã hội Pháp có mấy đẳng cấp?",
+                                                                  "options":  [
+                                                                                  "Một",
+                                                                                  "Hai",
+                                                                                  "Ba",
+                                                                                  "Bốn"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Ba đẳng cấp gồm tăng lữ, quý tộc và đẳng cấp thứ ba.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Sự kiện nào diễn ra ngày 14/7/1789?",
+                                                                  "options":  [
+                                                                                  "Thành lập ASEAN",
+                                                                                  "Chiến thắng Waterloo",
+                                                                                  "Công xã Paris ra đời",
+                                                                                  "Tấn công ngục Ba-xti"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Cuộc tấn công Ba-xti trở thành biểu tượng của cách mạng.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhóm nào có đặc quyền trong chế độ đẳng cấp?",
+                                                                  "options":  [
+                                                                                  "Tăng lữ và quý tộc",
+                                                                                  "Công nhân và nông dân",
+                                                                                  "Mọi cư dân như nhau",
+                                                                                  "Chỉ thợ thủ công"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Hai đẳng cấp đầu được hưởng nhiều đặc quyền.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Văn kiện năm 1789 đề cao những quyền nào?",
+                                                                  "options":  [
+                                                                                  "Đặc quyền dòng họ",
+                                                                                  "Tự do và bình đẳng",
+                                                                                  "Quyền nô dịch",
+                                                                                  "Quyền độc chiếm thuế"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Tuyên ngôn Nhân quyền và Dân quyền nêu quyền tự do, bình đẳng.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Mâu thuẫn đẳng cấp là loại nguyên nhân nào?",
+                                                                  "options":  [
+                                                                                  "Tự nhiên",
+                                                                                  "Khí hậu",
+                                                                                  "Xã hội",
+                                                                                  "Địa chất"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Đây là xung đột về địa vị, quyền lợi và gánh nặng xã hội.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  8,
+                                                           "lesson":  2,
+                                                           "source_url":  "https://vietjack.com/lich-su-8-kn/bai-2-cach-mang-tu-san-phap-cuoi-the-ki-xviii.jsp",
+                                                           "source_title":  "Lịch Sử 8 Kết nối tri thức Bài 2: Cách mạng tư sản Pháp cuối thế kỉ XVIII | Giải Lịch Sử 8",
+                                                           "video_url":  "https://www.youtube.com/watch?v=-XC9yBGlNdk",
+                                                           "video_title":  "Lịch sử 8 Bài 2: Cách mạng tư sản Pháp cuối thế kỉ XVIII - trang 12, 14 | Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  3,
+                                            "title":  "Cách mạng công nghiệp: từ thủ công đến máy móc",
+                                            "section":  "Phần 2. Biến đổi kinh tế",
+                                            "body":  "MỤC TIÊU\nGiải thích bước chuyển trong sản xuất và đời sống.\n\nGHI NHỚ\n• Cách mạng công nghiệp khởi đầu ở Anh vào nửa sau thế kỉ XVIII.\n• Ngành dệt xuất hiện nhiều cải tiến sớm; James Watt cải tiến máy hơi nước.\n• Máy móc và nhà máy làm năng suất tăng, thúc đẩy đô thị hóa.\n• Giai cấp tư sản công nghiệp và công nhân phát triển; ô nhiễm và điều kiện lao động trở thành vấn đề xã hội.\n\nTHỰC HÀNH\nNêu một lợi ích và một thách thức của sản xuất bằng máy.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Cách mạng công nghiệp khởi đầu ở nước nào?",
+                                                                  "options":  [
+                                                                                  "Pháp",
+                                                                                  "Nhật Bản",
+                                                                                  "Nga",
+                                                                                  "Anh"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Anh là nước khởi đầu cách mạng công nghiệp.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ngành nào có nhiều phát minh sớm ở Anh?",
+                                                                  "options":  [
+                                                                                  "Dệt",
+                                                                                  "Điện tử",
+                                                                                  "Hàng không",
+                                                                                  "Điện hạt nhân"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Nhu cầu ngành dệt thúc đẩy cải tiến máy kéo sợi, dệt vải.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "James Watt nổi bật với đóng góp nào?",
+                                                                  "options":  [
+                                                                                  "Phát minh internet",
+                                                                                  "Cải tiến máy hơi nước",
+                                                                                  "Chế tạo vệ tinh",
+                                                                                  "Tìm ra penicillin"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Cải tiến của Watt giúp máy hơi nước được ứng dụng rộng hơn.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hệ quả kinh tế tiêu biểu của cơ giới hóa là gì?",
+                                                                  "options":  [
+                                                                                  "Mất mọi giao thương",
+                                                                                  "Xóa bỏ nhà máy",
+                                                                                  "Năng suất tăng",
+                                                                                  "Chấm dứt đô thị hóa"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Máy móc giúp tăng quy mô và năng suất sản xuất.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Thách thức nào gắn với công nghiệp hóa ban đầu?",
+                                                                  "options":  [
+                                                                                  "Không còn công nhân",
+                                                                                  "Mọi người hết phải làm việc",
+                                                                                  "Không cần nguyên liệu",
+                                                                                  "Ô nhiễm và lao động khắc nghiệt"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Tăng trưởng công nghiệp đi kèm nhiều vấn đề môi trường, lao động.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  8,
+                                                           "lesson":  3,
+                                                           "source_url":  "https://vietjack.com/lich-su-8-kn/bai-3-cach-mang-cong-nghiep.jsp",
+                                                           "source_title":  "Lịch Sử 8 Kết nối tri thức Bài 3: Cách mạng công nghiệp | Giải Lịch Sử 8",
+                                                           "video_url":  "https://www.youtube.com/watch?v=p8tAAIAyyP4",
+                                                           "video_title":  "Lịch sử 8 Bài 3: Cách mạng công nghiệp - trang 15, 16, 18 | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  8,
+                                            "title":  "Phong trào Tây Sơn và sự nghiệp của Quang Trung",
+                                            "section":  "Phần 3. Việt Nam thế kỉ XVIII",
+                                            "body":  "MỤC TIÊU\nSắp xếp các mốc quan trọng của phong trào Tây Sơn.\n\nGHI NHỚ\n• Phong trào khởi đầu năm 1771 với Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ.\n• Năm 1785, Nguyễn Huệ chỉ huy chiến thắng Rạch Gầm – Xoài Mút chống quân Xiêm.\n• Cuối năm 1788, Nguyễn Huệ lên ngôi, lấy niên hiệu Quang Trung.\n• Năm 1789, chiến thắng Ngọc Hồi – Đống Đa đánh bại quân Thanh.\n\nTHỰC HÀNH\nLập bảng phân biệt đối phương và thời gian của hai chiến thắng lớn.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Phong trào Tây Sơn khởi đầu năm nào?",
+                                                                  "options":  [
+                                                                                  "1771",
+                                                                                  "1785",
+                                                                                  "1789",
+                                                                                  "1802"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Ba anh em Tây Sơn khởi nghĩa năm 1771.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chiến thắng Rạch Gầm – Xoài Mút đánh bại quân nào?",
+                                                                  "options":  [
+                                                                                  "Thanh",
+                                                                                  "Xiêm",
+                                                                                  "Minh",
+                                                                                  "Tống"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Trận đánh năm 1785 đánh bại quân Xiêm.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Quang Trung là niên hiệu của ai?",
+                                                                  "options":  [
+                                                                                  "Nguyễn Nhạc",
+                                                                                  "Nguyễn Lữ",
+                                                                                  "Nguyễn Huệ",
+                                                                                  "Nguyễn Ánh"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Nguyễn Huệ lên ngôi hoàng đế với niên hiệu Quang Trung.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ngọc Hồi – Đống Đa diễn ra năm nào?",
+                                                                  "options":  [
+                                                                                  "1418",
+                                                                                  "1771",
+                                                                                  "1785",
+                                                                                  "1789"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Chiến thắng diễn ra vào mùa xuân năm 1789.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Cặp sự kiện nào đúng trình tự thời gian?",
+                                                                  "options":  [
+                                                                                  "Rạch Gầm rồi Ngọc Hồi",
+                                                                                  "Ngọc Hồi rồi Rạch Gầm",
+                                                                                  "Hai trận cùng năm",
+                                                                                  "Hai trận cùng ngày"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Rạch Gầm năm 1785, Ngọc Hồi năm 1789.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  8,
+                                                           "lesson":  8,
+                                                           "source_url":  "https://vietjack.com/lich-su-8-kn/bai-8-phong-trao-tay-son.jsp",
+                                                           "source_title":  "Lịch Sử 8 Kết nối tri thức Bài 8: Phong trào Tây Sơn | Giải Lịch Sử 8",
+                                                           "video_url":  "https://www.youtube.com/watch?v=jIV7dC8Ciuk",
+                                                           "video_title":  "Lịch sử lớp 8 Bài 8: Phong trào Tây Sơn - trang 34, 36, 39 | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  9,
+                        "title":  "Lịch sử 9: Thế giới và Việt Nam trong thế kỉ XX",
+                        "summary":  "Ba chủ đề tiêu biểu: Chiến tranh thế giới thứ hai, Cách mạng tháng Tám và Điện Biên Phủ.",
+                        "objectives":  "Ghi nhớ sự kiện; nhận biết thời cơ, kết quả và ý nghĩa; liên hệ giá trị của hòa bình.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  4,
+                                            "title":  "Chiến tranh thế giới thứ hai, 1939–1945",
+                                            "section":  "Phần 1. Thế giới trong chiến tranh",
+                                            "body":  "MỤC TIÊU\nNhận biết mốc mở đầu, kết thúc và hậu quả chiến tranh.\n\nGHI NHỚ\n• Ngày 1/9/1939, Đức tấn công Ba Lan, mở đầu chiến tranh ở châu Âu.\n• Đức, Italia và Nhật thuộc phe Trục; lực lượng Đồng minh chống phát xít phát triển trong chiến tranh.\n• Đức đầu hàng tháng 5/1945; Nhật kí văn kiện đầu hàng ngày 2/9/1945.\n• Chiến tranh gây tổn thất nặng nề về người và của, nhắc nhở trách nhiệm bảo vệ hòa bình.\n\nTHỰC HÀNH\nPhân biệt kết thúc chiến tranh tại châu Âu và kết thúc trên toàn thế giới.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Đức tấn công quốc gia nào ngày 1/9/1939?",
+                                                                  "options":  [
+                                                                                  "Tây Ban Nha",
+                                                                                  "Ba Lan",
+                                                                                  "Thụy Sĩ",
+                                                                                  "Thụy Điển"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Cuộc tấn công Ba Lan mở đầu chiến tranh ở châu Âu.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhóm nước nào thuộc phe Trục?",
+                                                                  "options":  [
+                                                                                  "Anh, Pháp, Mỹ",
+                                                                                  "Mỹ, Liên Xô, Anh",
+                                                                                  "Đức, Italia, Nhật",
+                                                                                  "Anh, Đức, Mỹ"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Đức, Italia và Nhật là các nước chủ chốt của phe Trục.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Đức đầu hàng Đồng minh vào tháng nào?",
+                                                                  "options":  [
+                                                                                  "9/1939",
+                                                                                  "6/1941",
+                                                                                  "12/1941",
+                                                                                  "5/1945"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Tháng 5/1945 đánh dấu thất bại của Đức Quốc xã.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhật kí văn kiện đầu hàng ngày nào?",
+                                                                  "options":  [
+                                                                                  "2/9/1945",
+                                                                                  "1/9/1939",
+                                                                                  "7/5/1954",
+                                                                                  "30/4/1975"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Ngày 2/9/1945 là ngày kí văn kiện đầu hàng chính thức.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Bài học phù hợp từ hậu quả chiến tranh là gì?",
+                                                                  "options":  [
+                                                                                  "Cổ vũ xâm lược",
+                                                                                  "Bảo vệ hòa bình",
+                                                                                  "Tôn vinh phân biệt chủng tộc",
+                                                                                  "Phủ nhận mọi hợp tác"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Tổn thất chiến tranh cho thấy giá trị của hòa bình và hợp tác.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  9,
+                                                           "lesson":  4,
+                                                           "source_url":  "https://vietjack.com/lich-su-9-kn/bai-4-chien-tranh-the-gioi-thu-hai.jsp",
+                                                           "source_title":  "Lịch Sử 9 Kết nối tri thức Bài 4: Chiến tranh thế giới thứ hai (1939 - 1945) | Giải Lịch Sử 9",
+                                                           "video_url":  "https://www.youtube.com/watch?v=zTOb0F51GWQ",
+                                                           "video_title":  "Lịch sử 9 Bài 4: Chiến tranh thế giới thứ hai 1939 – 1945 - trang 18, 20, 21 | Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  8,
+                                            "title":  "Cách mạng tháng Tám và nước Việt Nam Dân chủ Cộng hòa",
+                                            "section":  "Phần 2. Giành chính quyền",
+                                            "body":  "MỤC TIÊU\nNêu các mốc giành chính quyền và sự ra đời nhà nước mới.\n\nGHI NHỚ\n• Nhật đầu hàng Đồng minh tạo thời cơ cho tổng khởi nghĩa tháng 8/1945.\n• Nhân dân giành chính quyền ở Hà Nội ngày 19/8, Huế ngày 23/8, Sài Gòn ngày 25/8.\n• Ngày 2/9/1945, Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Ba Đình.\n• Nước Việt Nam Dân chủ Cộng hòa ra đời.\n\nTHỰC HÀNH\nGiải thích vì sao cần kết hợp chuẩn bị lực lượng với nắm bắt thời cơ.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Sự kiện quốc tế nào tạo thời cơ tháng 8/1945?",
+                                                                  "options":  [
+                                                                                  "ASEAN thành lập",
+                                                                                  "Chiến tranh lạnh kết thúc",
+                                                                                  "Nhật đầu hàng Đồng minh",
+                                                                                  "Cách mạng công nghiệp"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Nhật đầu hàng làm xuất hiện thời cơ thuận lợi cho tổng khởi nghĩa.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hà Nội giành chính quyền ngày nào?",
+                                                                  "options":  [
+                                                                                  "23/8/1945",
+                                                                                  "25/8/1945",
+                                                                                  "2/9/1945",
+                                                                                  "19/8/1945"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Ngày 19/8/1945 là mốc giành chính quyền tại Hà Nội.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ai đọc Tuyên ngôn Độc lập ngày 2/9/1945?",
+                                                                  "options":  [
+                                                                                  "Hồ Chí Minh",
+                                                                                  "Võ Nguyên Giáp",
+                                                                                  "Phan Bội Châu",
+                                                                                  "Phan Châu Trinh"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Hồ Chí Minh thay mặt Chính phủ lâm thời đọc Tuyên ngôn.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Lễ tuyên bố độc lập diễn ra tại đâu?",
+                                                                  "options":  [
+                                                                                  "Cổ Loa",
+                                                                                  "Ba Đình",
+                                                                                  "Hoa Lư",
+                                                                                  "Bến Nhà Rồng"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Lễ diễn ra tại Quảng trường Ba Đình, Hà Nội.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhà nước ra đời ngày 2/9/1945 mang tên gì?",
+                                                                  "options":  [
+                                                                                  "Đại Việt",
+                                                                                  "Đại Nam",
+                                                                                  "Việt Nam Dân chủ Cộng hòa",
+                                                                                  "Cộng hòa xã hội chủ nghĩa Việt Nam"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Tên nước năm 1945 là Việt Nam Dân chủ Cộng hòa.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  9,
+                                                           "lesson":  8,
+                                                           "source_url":  "https://vietjack.com/lich-su-9-kn/bai-8-cach-mang-thang-tam-nam-1945.jsp",
+                                                           "source_title":  "Lịch Sử 9 Kết nối tri thức Bài 8: Cách mạng tháng Tám năm 1945 | Giải Lịch Sử 9",
+                                                           "video_url":  "https://www.youtube.com/watch?v=6C4vX8w7FEo",
+                                                           "video_title":  "Lịch sử 9 Bài 8: Cách mạng tháng Tám năm 1945 - trang 34, 40 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  15,
+                                            "title":  "Điện Biên Phủ và kết thúc cuộc kháng chiến chống Pháp",
+                                            "section":  "Phần 3. Kháng chiến 1951–1954",
+                                            "body":  "MỤC TIÊU\nNhận biết diễn biến chính và quan hệ giữa quân sự, ngoại giao.\n\nGHI NHỚ\n• Chiến dịch Điện Biên Phủ diễn ra từ 13/3 đến 7/5/1954.\n• Đại tướng Võ Nguyên Giáp là chỉ huy chiến dịch.\n• Phương châm tác chiến chuyển sang đánh chắc, tiến chắc.\n• Thắng lợi góp phần quyết định vào việc kí Hiệp định Giơ-ne-vơ năm 1954 về Đông Dương.\n\nTHỰC HÀNH\nGiải thích vì sao chiến thắng quân sự có thể tạo thuận lợi cho đàm phán.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Chiến dịch Điện Biên Phủ bắt đầu ngày nào?",
+                                                                  "options":  [
+                                                                                  "19/8/1945",
+                                                                                  "19/12/1946",
+                                                                                  "7/5/1954",
+                                                                                  "13/3/1954"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Ngày 13/3/1954 mở đầu chiến dịch.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Điện Biên Phủ toàn thắng ngày nào?",
+                                                                  "options":  [
+                                                                                  "7/5/1954",
+                                                                                  "2/9/1945",
+                                                                                  "30/4/1975",
+                                                                                  "1/5/1954"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Ngày 7/5/1954, tập đoàn cứ điểm bị tiêu diệt.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ai chỉ huy chiến dịch Điện Biên Phủ?",
+                                                                  "options":  [
+                                                                                  "Nguyễn Trãi",
+                                                                                  "Võ Nguyên Giáp",
+                                                                                  "Lê Lợi",
+                                                                                  "Trần Quốc Tuấn"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Đại tướng Võ Nguyên Giáp trực tiếp chỉ huy chiến dịch.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Phương châm được chọn cho chiến dịch là gì?",
+                                                                  "options":  [
+                                                                                  "Chỉ đàm phán",
+                                                                                  "Không tiến công",
+                                                                                  "Đánh chắc, tiến chắc",
+                                                                                  "Rút khỏi mọi vị trí"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Phương châm được điều chỉnh phù hợp với thực tế chiến trường.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hiệp định nào về Đông Dương được kí năm 1954?",
+                                                                  "options":  [
+                                                                                  "Versailles",
+                                                                                  "Paris 1973",
+                                                                                  "Bali",
+                                                                                  "Giơ-ne-vơ"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Hiệp định Giơ-ne-vơ năm 1954 kết thúc chiến tranh ở Đông Dương.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  9,
+                                                           "lesson":  15,
+                                                           "source_url":  "https://vietjack.com/lich-su-9-kn/bai-15-viet-nam-khang-chien-chong-thuc-dan-phap.jsp",
+                                                           "source_title":  "Lịch Sử 9 Kết nối tri thức Bài 15: Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954 | Giải Lịch Sử 9",
+                                                           "video_url":  "https://www.youtube.com/watch?v=UshyGA4JG2Q",
+                                                           "video_title":  "Lịch sử 9 Bài 15: Việt Nam kháng chiến chống thực dân Pháp xâm lược 1951–1954 - trang 73, 78 | KNTT",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  10,
+                        "title":  "Lịch sử 10: Sử học và những nền văn minh tiêu biểu",
+                        "summary":  "Rèn tư duy sử học và khám phá đóng góp của văn minh phương Đông, phương Tây thời cổ – trung đại.",
+                        "objectives":  "Phân biệt sự kiện và nhận thức; đánh giá chứng cứ; nhận diện thành tựu văn minh.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  1,
+                                            "title":  "Hiện thực lịch sử và cách con người nhận thức quá khứ",
+                                            "section":  "Phần 1. Tư duy sử học",
+                                            "body":  "MỤC TIÊU\nPhân biệt quá khứ đã xảy ra với cách giải thích về nó.\n\nGHI NHỚ\n• Hiện thực lịch sử là những gì đã diễn ra, tồn tại khách quan.\n• Nhận thức lịch sử là hiểu biết, tái hiện và giải thích của con người về quá khứ.\n• Nguồn tư liệu mới có thể bổ sung hoặc điều chỉnh nhận thức.\n• Cần đánh giá xuất xứ, bối cảnh và đối chiếu chứng cứ thay vì chỉ dựa vào ý kiến cá nhân.\n\nTHỰC HÀNH\nPhân biệt một niên đại sự kiện với một nhận xét về ý nghĩa của sự kiện đó.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Hiện thực lịch sử là gì?",
+                                                                  "options":  [
+                                                                                  "Quá khứ đã diễn ra",
+                                                                                  "Mọi dự đoán tương lai",
+                                                                                  "Chỉ truyền thuyết",
+                                                                                  "Chỉ ý kiến cá nhân"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Hiện thực lịch sử tồn tại khách quan, không phụ thuộc nhận xét sau này.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhận thức lịch sử có thể thay đổi khi nào?",
+                                                                  "options":  [
+                                                                                  "Tùy ý không cần chứng cứ",
+                                                                                  "Có thêm tư liệu đáng tin cậy",
+                                                                                  "Quá khứ tự thay đổi",
+                                                                                  "Không bao giờ"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Chứng cứ mới có thể làm hiểu biết đầy đủ hơn.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Cách nào giúp đánh giá một tư liệu?",
+                                                                  "options":  [
+                                                                                  "Chỉ xem độ dài",
+                                                                                  "Chỉ xem hình thức",
+                                                                                  "Xét xuất xứ và bối cảnh",
+                                                                                  "Bỏ qua tác giả"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Xuất xứ và bối cảnh giúp đánh giá giá trị thông tin.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hai cách giải thích khác nhau cần được so sánh dựa trên gì?",
+                                                                  "options":  [
+                                                                                  "Lượt chia sẻ",
+                                                                                  "Sở thích",
+                                                                                  "Độ nổi tiếng",
+                                                                                  "Chứng cứ và lập luận"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Kết luận sử học cần chứng cứ phù hợp và lập luận có cơ sở.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Phát hiện tư liệu mới trực tiếp làm thay đổi điều gì?",
+                                                                  "options":  [
+                                                                                  "Hiểu biết về quá khứ",
+                                                                                  "Sự kiện đã diễn ra",
+                                                                                  "Ngày sinh người đã mất",
+                                                                                  "Trình tự thời gian thực tế"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Tư liệu mới thay đổi nhận thức, không thay đổi bản thân quá khứ.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  10,
+                                                           "lesson":  1,
+                                                           "source_url":  "https://vietjack.com/lich-su-10-kn/bai-1-hien-thuc-lich-su-va-nhan-thuc-lich-su.jsp",
+                                                           "source_title":  "Lịch Sử 10 Kết nối tri thức Bài 1: Hiện thực lịch sử và lịch sử được con người nhận thức | Giải Lịch Sử 10",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  4,
+                                            "title":  "Văn minh phương Đông: thành tựu và sự lan tỏa",
+                                            "section":  "Phần 2. Văn minh phương Đông",
+                                            "body":  "MỤC TIÊU\nNhận diện thành tựu và giải thích giá trị sử dụng.\n\nGHI NHỚ\n• Ai Cập để lại kim tự tháp và hệ thống chữ tượng hình.\n• Ấn Độ có đóng góp quan trọng về chữ số, đặc biệt là số 0, và hệ đếm thập phân.\n• Trung Hoa có các phát minh giấy, kĩ thuật in, la bàn và thuốc súng.\n• Thành tựu lan truyền qua giao lưu, được các cộng đồng tiếp nhận và cải tiến.\n\nTHỰC HÀNH\nChọn một phát minh và giải thích ảnh hưởng tới đời sống ngày nay.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Kim tự tháp Giza gắn với nền văn minh nào?",
+                                                                  "options":  [
+                                                                                  "La Mã",
+                                                                                  "Ai Cập",
+                                                                                  "Hy Lạp",
+                                                                                  "Maya"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Quần thể Giza là di sản nổi bật của Ai Cập cổ đại.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nền văn minh nào đóng góp nổi bật về số 0?",
+                                                                  "options":  [
+                                                                                  "Văn Lang",
+                                                                                  "La Mã",
+                                                                                  "Ấn Độ",
+                                                                                  "Inca"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Toán học Ấn Độ có đóng góp quan trọng về số 0.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nhóm nào thuộc các phát minh nổi tiếng của Trung Hoa?",
+                                                                  "options":  [
+                                                                                  "Ô tô, điện thoại",
+                                                                                  "Máy bay, radar",
+                                                                                  "Động cơ diesel, laser",
+                                                                                  "Giấy, in, la bàn, thuốc súng"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Bốn phát minh này có ảnh hưởng rộng tới lịch sử thế giới.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "La bàn hỗ trợ trực tiếp hoạt động nào?",
+                                                                  "options":  [
+                                                                                  "Xác định phương hướng",
+                                                                                  "Đo khối lượng",
+                                                                                  "Đếm dân số",
+                                                                                  "Đo nhiệt độ"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "La bàn hỗ trợ định hướng, đặc biệt trong đi biển.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Vì sao giao lưu có ý nghĩa với văn minh?",
+                                                                  "options":  [
+                                                                                  "Ngăn mọi sáng tạo",
+                                                                                  "Giúp lan truyền và cải tiến thành tựu",
+                                                                                  "Xóa mọi khác biệt ngay",
+                                                                                  "Làm tri thức bất biến"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Trao đổi giúp tri thức được tiếp nhận và phát triển.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  10,
+                                                           "lesson":  4,
+                                                           "source_url":  "https://vietjack.com/lich-su-10-kn/bai-4-su-hoc-voi-mot-so-linh-vuc-nganh-nghe-hien-dai.jsp",
+                                                           "source_title":  "Lịch Sử 10 Kết nối tri thức Bài 4: Khái niệm văn minh. Một số nền văn minh Phương Đông thời cổ - trung đại | Giải Lịch Sử 10",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  5,
+                                            "title":  "Văn minh phương Tây: Hy Lạp, La Mã và Phục hưng",
+                                            "section":  "Phần 3. Văn minh phương Tây",
+                                            "body":  "MỤC TIÊU\nNhận biết di sản cổ đại và tinh thần Phục hưng.\n\nGHI NHỚ\n• Hy Lạp có đóng góp về triết học, toán học, văn học và thể thao.\n• La Mã để lại di sản về luật pháp, kiến trúc và hệ chữ cái La-tinh.\n• Phong trào Phục hưng khởi đầu ở Italia, đề cao giá trị con người và khơi dậy tinh thần tìm tòi.\n• Leonardo da Vinci là gương mặt tiêu biểu của thời Phục hưng.\n\nTHỰC HÀNH\nTìm một di sản cổ đại còn ảnh hưởng tới đời sống hiện nay.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Olympic cổ đại bắt nguồn từ đâu?",
+                                                                  "options":  [
+                                                                                  "Ấn Độ",
+                                                                                  "Trung Hoa",
+                                                                                  "Hy Lạp",
+                                                                                  "Ai Cập"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Các kì thi đấu Olympic cổ đại diễn ra ở Hy Lạp.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Di sản tiêu biểu của La Mã là gì?",
+                                                                  "options":  [
+                                                                                  "Chữ hình nêm",
+                                                                                  "Kim tự tháp Giza",
+                                                                                  "Trống đồng Đông Sơn",
+                                                                                  "Luật pháp và chữ La-tinh"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Luật La Mã và chữ La-tinh ảnh hưởng lâu dài tới nhiều xã hội.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Phong trào Phục hưng khởi đầu ở đâu?",
+                                                                  "options":  [
+                                                                                  "Italia",
+                                                                                  "Nhật Bản",
+                                                                                  "Việt Nam",
+                                                                                  "Mông Cổ"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Các đô thị Italia là nơi khởi đầu phong trào.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ai là nhân vật tiêu biểu của Phục hưng?",
+                                                                  "options":  [
+                                                                                  "James Watt",
+                                                                                  "Leonardo da Vinci",
+                                                                                  "Lê Lợi",
+                                                                                  "Tần Thủy Hoàng"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Leonardo da Vinci hoạt động nổi bật trong nghệ thuật và nghiên cứu.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Tinh thần nhân văn Phục hưng đề cao điều gì?",
+                                                                  "options":  [
+                                                                                  "Phủ nhận mọi tri thức",
+                                                                                  "Đặc quyền huyết thống",
+                                                                                  "Giá trị và khả năng con người",
+                                                                                  "Cấm nghiên cứu tự nhiên"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Tinh thần nhân văn nhấn mạnh giá trị, năng lực của con người.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  10,
+                                                           "lesson":  5,
+                                                           "source_url":  "https://vietjack.com/lich-su-10-kn/bai-5-khai-niem-van-minh-mot-so-nen-van-minh-phuong-dong-thoi-ki-co-trung-dai.jsp",
+                                                           "source_title":  "Lịch Sử 10 Kết nối tri thức Bài 5: Một số nền văn minh phương Tây thời cổ - trung đại | Giải Lịch Sử 10",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  11,
+                        "title":  "Lịch sử 11: Cách mạng, thuộc địa và bảo vệ Tổ quốc",
+                        "summary":  "Học các khái niệm về cách mạng tư sản, chủ nghĩa thực dân ở Đông Nam Á và chiến tranh bảo vệ đất nước.",
+                        "objectives":  "So sánh mục tiêu các cuộc cách mạng; nhận biết quan hệ thuộc địa; phân tích các yếu tố bảo vệ độc lập.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  1,
+                                            "title":  "Cách mạng tư sản: mục tiêu và hình thức",
+                                            "section":  "Phần 1. Biến đổi xã hội",
+                                            "body":  "MỤC TIÊU\nNhận biết điểm chung và sự đa dạng của cách mạng tư sản.\n\nGHI NHỚ\n• Cách mạng tư sản giải quyết những cản trở đối với sự phát triển của chủ nghĩa tư bản.\n• Các cuộc cách mạng có thể mang hình thức nội chiến, chiến tranh giành độc lập hoặc thống nhất đất nước.\n• Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ là một ví dụ.\n• Kết quả và mức độ thực hiện quyền tự do, bình đẳng khác nhau theo hoàn cảnh.\n\nTHỰC HÀNH\nSo sánh mục tiêu chống phong kiến với mục tiêu chống thống trị thuộc địa.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Cách mạng tư sản tạo điều kiện cho quan hệ nào phát triển?",
+                                                                  "options":  [
+                                                                                  "Thị tộc",
+                                                                                  "Chiếm hữu nô lệ",
+                                                                                  "Lãnh địa khép kín",
+                                                                                  "Tư bản chủ nghĩa"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Cách mạng tháo gỡ những trở ngại đối với sự phát triển tư bản.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chiến tranh của 13 thuộc địa Bắc Mỹ chống nước nào?",
+                                                                  "options":  [
+                                                                                  "Anh",
+                                                                                  "Nga",
+                                                                                  "Nhật Bản",
+                                                                                  "Italia"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Các thuộc địa đấu tranh chống sự thống trị của Anh.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Hình thức nào có thể là cách mạng tư sản?",
+                                                                  "options":  [
+                                                                                  "Chỉ một cuộc bầu cử",
+                                                                                  "Chiến tranh giành độc lập",
+                                                                                  "Chỉ một lễ hội",
+                                                                                  "Chỉ thay đổi thời tiết"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Trường hợp Bắc Mỹ cho thấy hình thức chiến tranh giành độc lập.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Tuyên ngôn Độc lập Hoa Kỳ được thông qua năm nào?",
+                                                                  "options":  [
+                                                                                  "1640",
+                                                                                  "1789",
+                                                                                  "1776",
+                                                                                  "1917"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Ngày 4/7/1776 là mốc thông qua Tuyên ngôn Độc lập.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Khi so sánh các cuộc cách mạng, nên xem xét gì?",
+                                                                  "options":  [
+                                                                                  "Chỉ tên gọi",
+                                                                                  "Chỉ độ dài văn kiện",
+                                                                                  "Chỉ số tranh minh họa",
+                                                                                  "Bối cảnh, mục tiêu và kết quả"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Những yếu tố này giúp nhận ra điểm chung và khác biệt.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  11,
+                                                           "lesson":  1,
+                                                           "source_url":  "https://vietjack.com/lich-su-11-kn/bai-1-mot-so-van-de-chung-ve-cach-mang-tu-san.jsp",
+                                                           "source_title":  "Lịch Sử 11 Kết nối tri thức Bài 1: Một số vấn đề chung về cách mạng tư sản | Giải Lịch Sử 11",
+                                                           "video_url":  "https://www.youtube.com/watch?v=ssZBimOs2r0",
+                                                           "video_title":  "Lịch sử 11 Bài 1: Một số vấn đề chung về cách mạng tư sản | Kết nối tri thức (HAY NHẤT)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  5,
+                                            "title":  "Đông Nam Á trước làn sóng xâm lược thực dân",
+                                            "section":  "Phần 2. Đông Nam Á thời cận đại",
+                                            "body":  "MỤC TIÊU\nNhận biết các thế lực thực dân và cách thức cai trị.\n\nGHI NHỚ\n• Tài nguyên và vị trí hàng hải khiến Đông Nam Á trở thành mục tiêu xâm lược.\n• Hà Lan thống trị phần lớn Indonesia; Anh chiếm Miến Điện và nhiều vùng ở bán đảo Mã Lai.\n• Pháp thiết lập quyền cai trị ở Việt Nam, Lào, Campuchia.\n• Xiêm duy trì được độc lập tương đối nhờ cải cách và ngoại giao linh hoạt.\n\nTHỰC HÀNH\nĐánh dấu các khu vực thuộc địa trên bản đồ lịch sử cuối thế kỉ XIX.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Thực dân nào thống trị phần lớn Indonesia?",
+                                                                  "options":  [
+                                                                                  "Hà Lan",
+                                                                                  "Bồ Đào Nha",
+                                                                                  "Nga",
+                                                                                  "Đức"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Indonesia là thuộc địa chủ yếu của Hà Lan trong khu vực.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Việt Nam, Lào, Campuchia chịu sự cai trị của nước nào?",
+                                                                  "options":  [
+                                                                                  "Italia",
+                                                                                  "Pháp",
+                                                                                  "Nga",
+                                                                                  "Thụy Điển"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Pháp thiết lập Liên bang Đông Dương và bộ máy cai trị.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Quốc gia nào giữ độc lập tương đối ở Đông Nam Á?",
+                                                                  "options":  [
+                                                                                  "Miến Điện",
+                                                                                  "Indonesia",
+                                                                                  "Xiêm",
+                                                                                  "Philippines"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Xiêm sử dụng cải cách và ngoại giao để giữ độc lập tương đối.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Điều gì khiến Đông Nam Á hấp dẫn các nước thực dân?",
+                                                                  "options":  [
+                                                                                  "Không có cư dân",
+                                                                                  "Không có biển",
+                                                                                  "Không có tài nguyên",
+                                                                                  "Tài nguyên và vị trí giao thương"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Khu vực giàu tài nguyên và nằm trên tuyến hàng hải quan trọng.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Chính sách chia để trị nhằm mục đích gì?",
+                                                                  "options":  [
+                                                                                  "Làm suy yếu sự đoàn kết",
+                                                                                  "Tăng quyền tự quyết hoàn toàn",
+                                                                                  "Xóa bộ máy thực dân",
+                                                                                  "Trao độc lập ngay"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Chia rẽ cộng đồng giúp chính quyền thực dân dễ kiểm soát.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  11,
+                                                           "lesson":  5,
+                                                           "source_url":  "https://vietjack.com/lich-su-11-kn/bai-5-qua-trinh-xam-luoc-va-cai-tri-cua-chu-nghia-thuc-dan-o-dong-nam-a.jsp",
+                                                           "source_title":  "Lịch Sử 11 Kết nối tri thức Bài 5: Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á | Giải Lịch Sử 11",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  7,
+                                            "title":  "Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+                                            "section":  "Phần 3. Bảo vệ độc lập",
+                                            "body":  "MỤC TIÊU\nPhân tích những yếu tố góp phần bảo vệ đất nước.\n\nGHI NHỚ\n• Chiến tranh bảo vệ Tổ quốc nhằm chống xâm lược, giữ độc lập và chủ quyền.\n• Đoàn kết nhân dân, sự lãnh đạo và cách đánh phù hợp là các yếu tố quan trọng.\n• Ngô Quyền thắng quân Nam Hán trên sông Bạch Đằng năm 938.\n• Không nên giải thích mọi thắng lợi bằng một yếu tố duy nhất; phải xét lực lượng, địa hình và hoàn cảnh.\n\nTHỰC HÀNH\nDùng một chiến thắng đã học để minh họa vai trò của địa hình.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Mục tiêu của chiến tranh bảo vệ Tổ quốc là gì?",
+                                                                  "options":  [
+                                                                                  "Chiếm thuộc địa",
+                                                                                  "Giữ độc lập, chủ quyền",
+                                                                                  "Mở rộng nô dịch",
+                                                                                  "Cướp tài nguyên"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Đây là cuộc đấu tranh chống xâm lược và bảo vệ đất nước.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Ai chỉ huy chiến thắng Bạch Đằng năm 938?",
+                                                                  "options":  [
+                                                                                  "Lê Lợi",
+                                                                                  "Quang Trung",
+                                                                                  "Ngô Quyền",
+                                                                                  "Trần Thủ Độ"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Ngô Quyền chỉ huy đánh bại quân Nam Hán.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Đối phương trong trận Bạch Đằng năm 938 là ai?",
+                                                                  "options":  [
+                                                                                  "Quân Minh",
+                                                                                  "Quân Thanh",
+                                                                                  "Quân Xiêm",
+                                                                                  "Quân Nam Hán"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Trận đánh năm 938 chống quân Nam Hán xâm lược.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Yếu tố nào góp phần tạo sức mạnh bảo vệ đất nước?",
+                                                                  "options":  [
+                                                                                  "Đoàn kết nhân dân",
+                                                                                  "Chia rẽ cộng đồng",
+                                                                                  "Bỏ chuẩn bị hậu cần",
+                                                                                  "Không xét địa hình"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Sự đoàn kết giúp huy động nguồn lực và ý chí kháng chiến.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Cách giải thích thắng lợi nào có cơ sở hơn?",
+                                                                  "options":  [
+                                                                                  "Chỉ do may mắn",
+                                                                                  "Xét nhiều yếu tố và chứng cứ",
+                                                                                  "Chỉ do truyền thuyết",
+                                                                                  "Bỏ qua hoàn cảnh"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Phân tích đa chiều tránh đơn giản hóa nguyên nhân lịch sử.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  11,
+                                                           "lesson":  7,
+                                                           "source_url":  "https://vietjack.com/lich-su-11-kn/bai-7-khai-quat-ve-chien-tranh-bao-ve-to-quoc-trong-lich-su-viet-nam.jsp",
+                                                           "source_title":  "Lịch Sử 11 Kết nối tri thức Bài 7: Khái quát về chiến tranh bảo vệ tổ quốc trong lịch sử Việt Nam | Giải Lịch Sử 11",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    },
+                    {
+                        "grade":  12,
+                        "title":  "Lịch sử 12: Hợp tác quốc tế và công cuộc Đổi mới",
+                        "summary":  "Tìm hiểu Liên hợp quốc, sự hình thành ASEAN và đường lối Đổi mới ở Việt Nam.",
+                        "objectives":  "Ghi nhớ mốc ra đời các tổ chức; hiểu nguyên tắc hợp tác; nhận biết bối cảnh và nội dung Đổi mới.",
+                        "lessons":  [
+                                        {
+                                            "source_lesson":  1,
+                                            "title":  "Liên hợp quốc: ra đời, mục tiêu và nguyên tắc",
+                                            "section":  "Phần 1. Hợp tác toàn cầu",
+                                            "body":  "MỤC TIÊU\nHiểu vai trò và nguyên tắc cơ bản của Liên hợp quốc.\n\nGHI NHỚ\n• Liên hợp quốc chính thức ra đời ngày 24/10/1945 khi Hiến chương có hiệu lực.\n• Mục tiêu quan trọng là duy trì hòa bình, an ninh quốc tế và thúc đẩy hợp tác.\n• Các nguyên tắc gồm bình đẳng chủ quyền và giải quyết tranh chấp bằng biện pháp hòa bình.\n• Việt Nam gia nhập ngày 20/9/1977.\n\nTHỰC HÀNH\nPhân biệt mục tiêu của một tổ chức với nguyên tắc hoạt động của tổ chức đó.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Liên hợp quốc chính thức ra đời ngày nào?",
+                                                                  "options":  [
+                                                                                  "8/8/1967",
+                                                                                  "2/9/1945",
+                                                                                  "24/10/1945",
+                                                                                  "20/9/1977"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Hiến chương có hiệu lực ngày 24/10/1945.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Mục tiêu nổi bật của Liên hợp quốc là gì?",
+                                                                  "options":  [
+                                                                                  "Thiết lập thuộc địa",
+                                                                                  "Xóa chủ quyền quốc gia",
+                                                                                  "Chỉ quản lí thương mại",
+                                                                                  "Duy trì hòa bình và an ninh"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Duy trì hòa bình, an ninh quốc tế là mục tiêu trung tâm.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Việt Nam gia nhập Liên hợp quốc năm nào?",
+                                                                  "options":  [
+                                                                                  "1977",
+                                                                                  "1945",
+                                                                                  "1954",
+                                                                                  "1995"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Việt Nam trở thành thành viên ngày 20/9/1977.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nguyên tắc nào phù hợp với Hiến chương?",
+                                                                  "options":  [
+                                                                                  "Nước lớn có mọi quyền",
+                                                                                  "Bình đẳng chủ quyền",
+                                                                                  "Cưỡng chiếm lãnh thổ",
+                                                                                  "Cấm mọi đối thoại"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Các quốc gia thành viên bình đẳng về chủ quyền.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Tranh chấp quốc tế cần được giải quyết bằng cách nào?",
+                                                                  "options":  [
+                                                                                  "Luôn dùng vũ lực",
+                                                                                  "Luôn đóng cửa biên giới",
+                                                                                  "Biện pháp hòa bình",
+                                                                                  "Bỏ mọi thương lượng"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Giải quyết hòa bình là nguyên tắc của Liên hợp quốc.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  12,
+                                                           "lesson":  1,
+                                                           "source_url":  "https://vietjack.com/lich-su-12-kn/bai-1-lien-hop-quoc.jsp",
+                                                           "source_title":  "Lịch Sử 12 Kết nối tri thức Bài 1: Liên hợp quốc | Giải Lịch Sử 12",
+                                                           "video_url":  "https://www.youtube.com/watch?v=HKNKn-Uc63Q",
+                                                           "video_title":  "Lịch sử 12 Bài 1: Liên hợp quốc - Kết nối tri thức (SGK Mới 2026)",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  4,
+                                            "title":  "ASEAN: từ năm nước sáng lập đến hợp tác khu vực",
+                                            "section":  "Phần 2. Hợp tác Đông Nam Á",
+                                            "body":  "MỤC TIÊU\nNhận biết sự ra đời ASEAN và mốc Việt Nam gia nhập.\n\nGHI NHỚ\n• ASEAN thành lập ngày 8/8/1967 tại Bangkok.\n• Năm nước sáng lập là Indonesia, Malaysia, Philippines, Singapore và Thái Lan.\n• Việt Nam gia nhập ngày 28/7/1995.\n• Hợp tác khu vực góp phần phát triển kinh tế, văn hóa, xã hội và duy trì ổn định.\n\nTHỰC HÀNH\nPhân biệt danh sách nước sáng lập năm 1967 với danh sách thành viên ở những thời điểm sau.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "ASEAN thành lập ngày nào?",
+                                                                  "options":  [
+                                                                                  "24/10/1945",
+                                                                                  "20/9/1977",
+                                                                                  "28/7/1995",
+                                                                                  "8/8/1967"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Tuyên bố Bangkok ngày 8/8/1967 đánh dấu sự thành lập ASEAN.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "ASEAN được thành lập tại thành phố nào?",
+                                                                  "options":  [
+                                                                                  "Bangkok",
+                                                                                  "Hà Nội",
+                                                                                  "Manila",
+                                                                                  "Jakarta"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Năm nước sáng lập kí tuyên bố tại Bangkok.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "ASEAN có bao nhiêu nước sáng lập năm 1967?",
+                                                                  "options":  [
+                                                                                  "Ba",
+                                                                                  "Năm",
+                                                                                  "Bảy",
+                                                                                  "Mười"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Năm nước cùng sáng lập tổ chức năm 1967.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Việt Nam gia nhập ASEAN năm nào?",
+                                                                  "options":  [
+                                                                                  "1967",
+                                                                                  "1977",
+                                                                                  "1995",
+                                                                                  "2007"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Việt Nam chính thức gia nhập ngày 28/7/1995.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Nước nào thuộc nhóm sáng lập ASEAN?",
+                                                                  "options":  [
+                                                                                  "Việt Nam",
+                                                                                  "Lào",
+                                                                                  "Campuchia",
+                                                                                  "Singapore"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Singapore là một trong năm nước sáng lập.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  12,
+                                                           "lesson":  4,
+                                                           "source_url":  "https://vietjack.com/lich-su-12-kn/bai-4-su-ra-doi-va-phat-trien-cua-hiep-hoi-ca-quoc-gia.jsp",
+                                                           "source_title":  "Lịch Sử 12 Kết nối tri thức Bài 4: Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN) | Giải Lịch Sử 12",
+                                                           "video_url":  "https://www.youtube.com/watch?v=ImO4j3Ww4fs",
+                                                           "video_title":  "Lịch sử 12 Bài 4: Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á - Kết nối tri thức",
+                                                           "verification":  "YouTube oEmbed HTTP 200",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        },
+                                        {
+                                            "source_lesson":  10,
+                                            "title":  "Đổi mới ở Việt Nam: bối cảnh và định hướng",
+                                            "section":  "Phần 3. Việt Nam từ năm 1986",
+                                            "body":  "MỤC TIÊU\nNhận biết mốc khởi đầu và nội dung cơ bản của Đổi mới.\n\nGHI NHỚ\n• Đại hội VI của Đảng tháng 12/1986 đề ra đường lối Đổi mới.\n• Bối cảnh trong nước có nhiều khó khăn kinh tế, xã hội; tình hình quốc tế cũng chuyển biến.\n• Đổi mới được tiến hành toàn diện, lấy đổi mới kinh tế làm trọng tâm.\n• Quá trình này gắn với phát triển kinh tế hàng hóa nhiều thành phần, mở rộng quan hệ đối ngoại và hội nhập.\n\nTHỰC HÀNH\nPhân biệt bối cảnh, chủ trương và kết quả khi trình bày một quá trình lịch sử.",
+                                            "questions":  [
+                                                              {
+                                                                  "prompt":  "Đại hội nào đề ra đường lối Đổi mới năm 1986?",
+                                                                  "options":  [
+                                                                                  "Đại hội VI",
+                                                                                  "Đại hội III",
+                                                                                  "Đại hội IV",
+                                                                                  "Đại hội V"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Đại hội VI tháng 12/1986 mở đầu công cuộc Đổi mới.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Trọng tâm của công cuộc Đổi mới là lĩnh vực nào?",
+                                                                  "options":  [
+                                                                                  "Chỉ thể thao",
+                                                                                  "Kinh tế",
+                                                                                  "Chỉ lễ hội",
+                                                                                  "Chỉ kiến trúc"
+                                                                              ],
+                                                                  "answer":  "B",
+                                                                  "explanation":  "Đổi mới toàn diện được triển khai với trọng tâm kinh tế.",
+                                                                  "difficulty":  "EASY"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Bối cảnh nào đặt ra nhu cầu Đổi mới?",
+                                                                  "options":  [
+                                                                                  "Mọi khó khăn đã hết",
+                                                                                  "Không có thay đổi quốc tế",
+                                                                                  "Khó khăn kinh tế, xã hội",
+                                                                                  "Không cần phát triển"
+                                                                              ],
+                                                                  "answer":  "C",
+                                                                  "explanation":  "Khó khăn trong nước và biến đổi quốc tế đòi hỏi điều chỉnh.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Xu hướng đối ngoại gắn với Đổi mới là gì?",
+                                                                  "options":  [
+                                                                                  "Cắt mọi quan hệ",
+                                                                                  "Chỉ tự cung tự cấp",
+                                                                                  "Ngừng trao đổi",
+                                                                                  "Mở rộng quan hệ và hội nhập"
+                                                                              ],
+                                                                  "answer":  "D",
+                                                                  "explanation":  "Mở rộng đối ngoại tạo thêm điều kiện phát triển đất nước.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              },
+                                                              {
+                                                                  "prompt":  "Đánh giá kết quả Đổi mới nên dựa vào gì?",
+                                                                  "options":  [
+                                                                                  "Dữ liệu và bối cảnh cụ thể",
+                                                                                  "Một khẩu hiệu duy nhất",
+                                                                                  "Một lời đồn",
+                                                                                  "Suy đoán không chứng cứ"
+                                                                              ],
+                                                                  "answer":  "A",
+                                                                  "explanation":  "Dữ liệu có nguồn và bối cảnh giúp đánh giá khách quan hơn.",
+                                                                  "difficulty":  "MEDIUM"
+                                                              }
+                                                          ],
+                                            "source":  {
+                                                           "grade":  12,
+                                                           "lesson":  10,
+                                                           "source_url":  "https://vietjack.com/lich-su-12-kn/bai-10-khai-quat-ve-cong-cuoc-doi-moi-tu-nam-1986-den-nay.jsp",
+                                                           "source_title":  "Lịch Sử 12 Kết nối tri thức Bài 10: Khái quát về công cuộc Đổi mới từ năm 1986 đến nay | Giải Lịch Sử 12",
+                                                           "video_url":  "",
+                                                           "video_title":  "",
+                                                           "verification":  "No embedded video found; use source page",
+                                                           "checked_on":  "2026-10-07"
+                                                       }
+                                        }
+                                    ]
+                    }
+                ]
+}

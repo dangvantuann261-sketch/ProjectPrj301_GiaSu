@@ -1,0 +1,12 @@
+SET NOCOUNT ON;
+DECLARE @manifest nvarchar(max)=(SELECT setting_value FROM app_settings WHERE setting_key='seed.history6.kntt.v1');
+IF ISJSON(@manifest)<>1 OR @manifest IS NULL THROW 51000,'Missing curriculum marker.',1;
+DECLARE @course int=TRY_CONVERT(int,JSON_VALUE(@manifest,'$.course_id'));
+IF NOT EXISTS(SELECT 1 FROM courses c JOIN subjects s ON s.id=c.subject_id WHERE c.id=@course AND c.status='PUBLISHED' AND s.grade=6 AND s.deleted=0) THROW 51000,'Course is not published.',1;
+IF (SELECT COUNT(*) FROM course_items WHERE course_id=@course)<>20 THROW 51000,'Expected 20 course items.',1;
+IF (SELECT COUNT(*) FROM OPENJSON(@manifest,'$.items'))<>20 THROW 51000,'Invalid manifest.',1;
+IF EXISTS(SELECT i.id FROM course_items i JOIN lectures x ON x.id=i.lecture_id JOIN topics t ON t.id=x.topic_id JOIN lessons l ON l.id=t.lesson_id JOIN courses c ON c.id=i.course_id LEFT JOIN questions q ON q.topic_id=x.topic_id AND q.deleted=0 AND q.library_visible=1 AND q.kind='MCQ' WHERE i.course_id=@course GROUP BY i.id,x.deleted,t.deleted,l.deleted,x.library_visible,l.subject_id,c.subject_id HAVING COUNT(q.id)<>5 OR x.deleted<>0 OR t.deleted<>0 OR l.deleted<>0 OR x.library_visible<>1 OR l.subject_id<>c.subject_id) THROW 51000,'Invalid topic/questions.',1;
+IF (SELECT COUNT(DISTINCT x.video_url) FROM course_items i JOIN lectures x ON x.id=i.lecture_id WHERE i.course_id=@course AND x.video_url LIKE 'https://www.youtube.com/watch?v=%')<>20 THROW 51000,'Video count mismatch.',1;
+IF EXISTS(SELECT 1 FROM subjects WHERE name=N'Lịch sử' AND grade BETWEEN 7 AND 12 AND deleted=0) THROW 51000,'Higher grades still visible.',1;
+SELECT @course course_id,COUNT(DISTINCT i.id) lessons,COUNT(q.id) questions,COUNT(DISTINCT x.video_url) videos FROM course_items i JOIN lectures x ON x.id=i.lecture_id JOIN questions q ON q.topic_id=x.topic_id AND q.deleted=0 WHERE i.course_id=@course;
+SELECT i.position,i.id item_id,x.topic_id,x.title,x.video_url FROM course_items i JOIN lectures x ON x.id=i.lecture_id WHERE i.course_id=@course ORDER BY i.position;

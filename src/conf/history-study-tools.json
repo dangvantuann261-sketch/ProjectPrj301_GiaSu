@@ -1,0 +1,357 @@
+{
+    "seed_key":  "seed.history6.experience.v1",
+    "lessons":  [
+                    {
+                        "number":  1,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Vì sao cần học lịch sử? Nêu một ví dụ từ gia đình hoặc quê hương.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Lịch sử bao gồm những việc đã diễn ra. Môn học này tìm hiểu đời sống con người qua thời gian bằng chứng cứ. Biết chuyện gia đình, quê hương giúp em hiểu nguồn gốc và trân trọng di sản."
+                                       },
+                                       {
+                                           "prompt":  "Chọn một việc đã xảy ra ở trường. Em cần tìm những thông tin nào để kể lại việc đó một cách đáng tin cậy?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Lịch sử bao gồm những việc đã diễn ra. Môn học này tìm hiểu đời sống con người qua thời gian bằng chứng cứ. Biết chuyện gia đình, quê hương giúp em hiểu nguồn gốc và trân trọng di sản."
+                                       }
+                                   ],
+                        "front":  "Vì sao cần học lịch sử? Nêu một ví dụ từ gia đình hoặc quê hương.",
+                        "back":  "Lịch sử bao gồm những việc đã diễn ra. Môn học này tìm hiểu đời sống con người qua thời gian bằng chứng cứ. Biết chuyện gia đình, quê hương giúp em hiểu nguồn gốc và trân trọng di sản."
+                    },
+                    {
+                        "number":  2,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Phân biệt tư liệu hiện vật, chữ viết và truyền miệng; cho ví dụ.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Đồ vật và di tích cung cấp dấu vết vật chất; văn bản lưu thông tin bằng chữ; lời kể truyền qua nhiều thế hệ phản ánh ký ức cộng đồng. Tư liệu gốc gắn trực tiếp với sự kiện được nghiên cứu. Một hiện vật có chữ có thể thuộc nhiều nhóm."
+                                       },
+                                       {
+                                           "prompt":  "Một câu chuyện truyền miệng về di tích khác với văn bản em đọc. Em sẽ kiểm tra và đối chiếu như thế nào?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Đồ vật và di tích cung cấp dấu vết vật chất; văn bản lưu thông tin bằng chữ; lời kể truyền qua nhiều thế hệ phản ánh ký ức cộng đồng. Tư liệu gốc gắn trực tiếp với sự kiện được nghiên cứu. Một hiện vật có chữ có thể thuộc nhiều nhóm."
+                                       }
+                                   ],
+                        "front":  "Phân biệt tư liệu hiện vật, chữ viết và truyền miệng; cho ví dụ.",
+                        "back":  "Đồ vật và di tích cung cấp dấu vết vật chất; văn bản lưu thông tin bằng chữ; lời kể truyền qua nhiều thế hệ phản ánh ký ức cộng đồng. Tư liệu gốc gắn trực tiếp với sự kiện được nghiên cứu. Một hiện vật có chữ có thể thuộc nhiều nhóm."
+                    },
+                    {
+                        "number":  3,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Phân biệt trước Công nguyên và Công nguyên. Năm 938 thuộc thế kỉ nào? Giải thích.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Trục thời gian giúp thấy trước, sau. Âm lịch dựa trên chu kỳ Mặt Trăng; dương lịch dựa trên năm Mặt Trời. Một thế kỉ gồm 100 năm; một thiên niên kỉ gồm 1.000 năm. Năm 1–100 thuộc thế kỉ I, năm 101–200 thuộc thế kỉ II. Trong lịch truyền thống không có năm 0."
+                                       },
+                                       {
+                                           "prompt":  "Sắp xếp các năm 179 TCN, 40, 248 và 938 theo thứ tự thời gian. Nêu cách em xác định thứ tự.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Trục thời gian giúp thấy trước, sau. Âm lịch dựa trên chu kỳ Mặt Trăng; dương lịch dựa trên năm Mặt Trời. Một thế kỉ gồm 100 năm; một thiên niên kỉ gồm 1.000 năm. Năm 1–100 thuộc thế kỉ I, năm 101–200 thuộc thế kỉ II. Trong lịch truyền thống không có năm 0."
+                                       }
+                                   ],
+                        "front":  "Phân biệt trước Công nguyên và Công nguyên. Năm 938 thuộc thế kỉ nào? Giải thích.",
+                        "back":  "Trục thời gian giúp thấy trước, sau. Âm lịch dựa trên chu kỳ Mặt Trăng; dương lịch dựa trên năm Mặt Trời. Một thế kỉ gồm 100 năm; một thiên niên kỉ gồm 1.000 năm. Năm 1–100 thuộc thế kỉ I, năm 101–200 thuộc thế kỉ II. Trong lịch truyền thống không có năm 0."
+                    },
+                    {
+                        "number":  4,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Nêu các bước chính từ Người tối cổ đến Người tinh khôn và vai trò của lao động.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Loài người hình thành qua quá trình tiến hóa lâu dài. Bài học khái quát từ vượn người cổ, Người tối cổ đến Người tinh khôn. Hóa thạch và công cụ giúp nghiên cứu quá trình này. Đông Nam Á có dấu tích tại Gia-va; ở Việt Nam có Thẩm Khuyên, Thẩm Hai, Núi Đọ và An Khê."
+                                       },
+                                       {
+                                           "prompt":  "Vì sao các dấu tích công cụ và hóa thạch có thể giúp tìm hiểu nguồn gốc loài người?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Loài người hình thành qua quá trình tiến hóa lâu dài. Bài học khái quát từ vượn người cổ, Người tối cổ đến Người tinh khôn. Hóa thạch và công cụ giúp nghiên cứu quá trình này. Đông Nam Á có dấu tích tại Gia-va; ở Việt Nam có Thẩm Khuyên, Thẩm Hai, Núi Đọ và An Khê."
+                                       }
+                                   ],
+                        "front":  "Nêu các bước chính từ Người tối cổ đến Người tinh khôn và vai trò của lao động.",
+                        "back":  "Loài người hình thành qua quá trình tiến hóa lâu dài. Bài học khái quát từ vượn người cổ, Người tối cổ đến Người tinh khôn. Hóa thạch và công cụ giúp nghiên cứu quá trình này. Đông Nam Á có dấu tích tại Gia-va; ở Việt Nam có Thẩm Khuyên, Thẩm Hai, Núi Đọ và An Khê."
+                    },
+                    {
+                        "number":  5,
+                        "essays":  [
+                                       {
+                                           "prompt":  "So sánh cách kiếm sống và tổ chức cộng đồng của người nguyên thủy ở các giai đoạn.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Con người ban đầu sống thành bầy, kiếm thức ăn bằng hái lượm và săn bắt. Về sau, công cụ cải tiến, trồng trọt và chăn nuôi phát triển. Những nhóm cùng huyết thống tạo thành thị tộc; các thị tộc có quan hệ hợp thành bộ lạc. Hợp tác lao động giúp cộng đồng tồn tại. Trang sức, tranh vẽ và mai táng cho thấy đời sống tinh thần."
+                                       },
+                                       {
+                                           "prompt":  "Trồng trọt, chăn nuôi đã làm thay đổi đời sống con người so với chỉ săn bắt, hái lượm như thế nào?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Con người ban đầu sống thành bầy, kiếm thức ăn bằng hái lượm và săn bắt. Về sau, công cụ cải tiến, trồng trọt và chăn nuôi phát triển. Những nhóm cùng huyết thống tạo thành thị tộc; các thị tộc có quan hệ hợp thành bộ lạc. Hợp tác lao động giúp cộng đồng tồn tại. Trang sức, tranh vẽ và mai táng cho thấy đời sống tinh thần."
+                                       }
+                                   ],
+                        "front":  "So sánh cách kiếm sống và tổ chức cộng đồng của người nguyên thủy ở các giai đoạn.",
+                        "back":  "Con người ban đầu sống thành bầy, kiếm thức ăn bằng hái lượm và săn bắt. Về sau, công cụ cải tiến, trồng trọt và chăn nuôi phát triển. Những nhóm cùng huyết thống tạo thành thị tộc; các thị tộc có quan hệ hợp thành bộ lạc. Hợp tác lao động giúp cộng đồng tồn tại. Trang sức, tranh vẽ và mai táng cho thấy đời sống tinh thần."
+                    },
+                    {
+                        "number":  6,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Công cụ kim loại làm thay đổi sản xuất và xã hội nguyên thủy như thế nào?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Việc dùng kim loại tạo bước tiến trong sản xuất. Công cụ bền, sắc giúp khai phá đất, tạo thêm sản phẩm. Khi của cải dư thừa bị chiếm hữu không đều, khoảng cách giàu nghèo tăng và quan hệ cộng đồng biến đổi. Ở Việt Nam, các dấu tích Phùng Nguyên, Đồng Đậu, Gò Mun cho thấy sự phát triển luyện kim."
+                                       },
+                                       {
+                                           "prompt":  "Giải thích mối liên hệ giữa sản phẩm dư thừa, của cải riêng và sự phân hóa xã hội.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Việc dùng kim loại tạo bước tiến trong sản xuất. Công cụ bền, sắc giúp khai phá đất, tạo thêm sản phẩm. Khi của cải dư thừa bị chiếm hữu không đều, khoảng cách giàu nghèo tăng và quan hệ cộng đồng biến đổi. Ở Việt Nam, các dấu tích Phùng Nguyên, Đồng Đậu, Gò Mun cho thấy sự phát triển luyện kim."
+                                       }
+                                   ],
+                        "front":  "Công cụ kim loại làm thay đổi sản xuất và xã hội nguyên thủy như thế nào?",
+                        "back":  "Việc dùng kim loại tạo bước tiến trong sản xuất. Công cụ bền, sắc giúp khai phá đất, tạo thêm sản phẩm. Khi của cải dư thừa bị chiếm hữu không đều, khoảng cách giàu nghèo tăng và quan hệ cộng đồng biến đổi. Ở Việt Nam, các dấu tích Phùng Nguyên, Đồng Đậu, Gò Mun cho thấy sự phát triển luyện kim."
+                    },
+                    {
+                        "number":  7,
+                        "essays":  [
+                                       {
+                                           "prompt":  "So sánh vai trò của các dòng sông đối với Ai Cập và Lưỡng Hà cổ đại.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Ai Cập phát triển bên sông Nin; Lưỡng Hà nằm giữa Ti-grơ và Ơ-phrat. Nước và phù sa thuận lợi cho trồng trọt, nhưng cư dân cần hợp tác trị thủy. Ai Cập nổi bật với kim tự tháp và chữ tượng hình; Lưỡng Hà dùng chữ hình nêm. Những thành tựu toán học, lịch và kỹ thuật bắt nguồn từ nhu cầu đời sống."
+                                       },
+                                       {
+                                           "prompt":  "Chọn một thành tựu văn hóa Ai Cập hoặc Lưỡng Hà. Trình bày giá trị của thành tựu đó.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Ai Cập phát triển bên sông Nin; Lưỡng Hà nằm giữa Ti-grơ và Ơ-phrat. Nước và phù sa thuận lợi cho trồng trọt, nhưng cư dân cần hợp tác trị thủy. Ai Cập nổi bật với kim tự tháp và chữ tượng hình; Lưỡng Hà dùng chữ hình nêm. Những thành tựu toán học, lịch và kỹ thuật bắt nguồn từ nhu cầu đời sống."
+                                       }
+                                   ],
+                        "front":  "So sánh vai trò của các dòng sông đối với Ai Cập và Lưỡng Hà cổ đại.",
+                        "back":  "Ai Cập phát triển bên sông Nin; Lưỡng Hà nằm giữa Ti-grơ và Ơ-phrat. Nước và phù sa thuận lợi cho trồng trọt, nhưng cư dân cần hợp tác trị thủy. Ai Cập nổi bật với kim tự tháp và chữ tượng hình; Lưỡng Hà dùng chữ hình nêm. Những thành tựu toán học, lịch và kỹ thuật bắt nguồn từ nhu cầu đời sống."
+                    },
+                    {
+                        "number":  8,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Điều kiện tự nhiên ảnh hưởng thế nào đến đời sống cư dân Ấn Độ cổ đại?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Lưu vực sông Ấn và sông Hằng thuận lợi cho cư trú, canh tác. Xã hội cổ đại có sự phân chia đẳng cấp Va-na, tạo địa vị khác nhau. Ấn Độ là quê hương Phật giáo và Ấn Độ giáo; chữ Phạn, sử thi cùng hệ chữ số có ảnh hưởng rộng. Đặc biệt, chữ số 0 góp phần quan trọng trong toán học."
+                                       },
+                                       {
+                                           "prompt":  "Trình bày một thành tựu văn hóa Ấn Độ cổ đại và ý nghĩa của nó đối với đời sống.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Lưu vực sông Ấn và sông Hằng thuận lợi cho cư trú, canh tác. Xã hội cổ đại có sự phân chia đẳng cấp Va-na, tạo địa vị khác nhau. Ấn Độ là quê hương Phật giáo và Ấn Độ giáo; chữ Phạn, sử thi cùng hệ chữ số có ảnh hưởng rộng. Đặc biệt, chữ số 0 góp phần quan trọng trong toán học."
+                                       }
+                                   ],
+                        "front":  "Điều kiện tự nhiên ảnh hưởng thế nào đến đời sống cư dân Ấn Độ cổ đại?",
+                        "back":  "Lưu vực sông Ấn và sông Hằng thuận lợi cho cư trú, canh tác. Xã hội cổ đại có sự phân chia đẳng cấp Va-na, tạo địa vị khác nhau. Ấn Độ là quê hương Phật giáo và Ấn Độ giáo; chữ Phạn, sử thi cùng hệ chữ số có ảnh hưởng rộng. Đặc biệt, chữ số 0 góp phần quan trọng trong toán học."
+                    },
+                    {
+                        "number":  9,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Nêu ý nghĩa việc Tần thống nhất Trung Quốc năm 221 TCN.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Hoàng Hà và Trường Giang tạo không gian nông nghiệp lớn. Năm 221 TCN, nhà Tần thống nhất Trung Quốc, tổ chức quyền lực tập trung và thống nhất nhiều quy định. Sau thời Tần, lịch sử tiếp diễn qua các giai đoạn Hán, chia cắt và Tùy. Chữ viết, sử học, nghề giấy và tơ lụa là những đóng góp nổi bật."
+                                       },
+                                       {
+                                           "prompt":  "Chọn một thành tựu văn hóa Trung Quốc cổ đại. Giải thích vì sao nó có ảnh hưởng lâu dài.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Hoàng Hà và Trường Giang tạo không gian nông nghiệp lớn. Năm 221 TCN, nhà Tần thống nhất Trung Quốc, tổ chức quyền lực tập trung và thống nhất nhiều quy định. Sau thời Tần, lịch sử tiếp diễn qua các giai đoạn Hán, chia cắt và Tùy. Chữ viết, sử học, nghề giấy và tơ lụa là những đóng góp nổi bật."
+                                       }
+                                   ],
+                        "front":  "Nêu ý nghĩa việc Tần thống nhất Trung Quốc năm 221 TCN.",
+                        "back":  "Hoàng Hà và Trường Giang tạo không gian nông nghiệp lớn. Năm 221 TCN, nhà Tần thống nhất Trung Quốc, tổ chức quyền lực tập trung và thống nhất nhiều quy định. Sau thời Tần, lịch sử tiếp diễn qua các giai đoạn Hán, chia cắt và Tùy. Chữ viết, sử học, nghề giấy và tơ lụa là những đóng góp nổi bật."
+                    },
+                    {
+                        "number":  10,
+                        "essays":  [
+                                       {
+                                           "prompt":  "So sánh ảnh hưởng của điều kiện tự nhiên đối với kinh tế Hy Lạp, La Mã và Ai Cập.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Bờ biển, vũng vịnh và vị trí Địa Trung Hải thuận lợi cho thương mại. Hy Lạp có nhiều thành bang; A-ten nổi bật với nền dân chủ cổ đại nhưng không trao quyền bình đẳng cho mọi cư dân. La Mã phát triển thành đế chế rộng lớn. Di sản gồm chữ viết, luật pháp, toán học, kiến trúc và điêu khắc."
+                                       },
+                                       {
+                                           "prompt":  "Nêu một thành tựu của Hy Lạp hoặc La Mã còn được nhắc đến ngày nay. Giải thích ý nghĩa.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Bờ biển, vũng vịnh và vị trí Địa Trung Hải thuận lợi cho thương mại. Hy Lạp có nhiều thành bang; A-ten nổi bật với nền dân chủ cổ đại nhưng không trao quyền bình đẳng cho mọi cư dân. La Mã phát triển thành đế chế rộng lớn. Di sản gồm chữ viết, luật pháp, toán học, kiến trúc và điêu khắc."
+                                       }
+                                   ],
+                        "front":  "So sánh ảnh hưởng của điều kiện tự nhiên đối với kinh tế Hy Lạp, La Mã và Ai Cập.",
+                        "back":  "Bờ biển, vũng vịnh và vị trí Địa Trung Hải thuận lợi cho thương mại. Hy Lạp có nhiều thành bang; A-ten nổi bật với nền dân chủ cổ đại nhưng không trao quyền bình đẳng cho mọi cư dân. La Mã phát triển thành đế chế rộng lớn. Di sản gồm chữ viết, luật pháp, toán học, kiến trúc và điêu khắc."
+                    },
+                    {
+                        "number":  11,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Vì sao vị trí địa lí và gió mùa thuận lợi cho sự hình thành các quốc gia sơ kì Đông Nam Á?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Đông Nam Á gồm lục địa và hải đảo. Khí hậu gió mùa, sông ngòi và đồng bằng thuận lợi cho lúa nước. Khu vực còn nằm trên tuyến hàng hải nối Ấn Độ Dương với Thái Bình Dương. Sản xuất, trao đổi và phân hóa xã hội góp phần hình thành các quốc gia sơ kì như Văn Lang, Chăm-pa, Phù Nam."
+                                       },
+                                       {
+                                           "prompt":  "Nêu mối liên hệ giữa nông nghiệp, thương mại biển và sự hình thành quốc gia ở Đông Nam Á.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Đông Nam Á gồm lục địa và hải đảo. Khí hậu gió mùa, sông ngòi và đồng bằng thuận lợi cho lúa nước. Khu vực còn nằm trên tuyến hàng hải nối Ấn Độ Dương với Thái Bình Dương. Sản xuất, trao đổi và phân hóa xã hội góp phần hình thành các quốc gia sơ kì như Văn Lang, Chăm-pa, Phù Nam."
+                                       }
+                                   ],
+                        "front":  "Vì sao vị trí địa lí và gió mùa thuận lợi cho sự hình thành các quốc gia sơ kì Đông Nam Á?",
+                        "back":  "Đông Nam Á gồm lục địa và hải đảo. Khí hậu gió mùa, sông ngòi và đồng bằng thuận lợi cho lúa nước. Khu vực còn nằm trên tuyến hàng hải nối Ấn Độ Dương với Thái Bình Dương. Sản xuất, trao đổi và phân hóa xã hội góp phần hình thành các quốc gia sơ kì như Văn Lang, Chăm-pa, Phù Nam."
+                    },
+                    {
+                        "number":  12,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Trình bày những cơ sở dẫn tới sự hình thành các vương quốc phong kiến Đông Nam Á.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Từ nền tảng quốc gia sơ kì, nhiều vương quốc phát triển với bộ máy quản lý chặt chẽ hơn. Vùng lục địa thường có thế mạnh nông nghiệp; các đảo và eo biển thuận lợi cho giao thương. Chân Lạp và Sri Vi-giay-a là những ví dụ tiêu biểu. Hương liệu, gia vị và thương cảng nối khu vực với các mạng lưới trao đổi."
+                                       },
+                                       {
+                                           "prompt":  "Giải thích vai trò của giao thương đối với sự phát triển các vương quốc Đông Nam Á trong giai đoạn đầu.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Từ nền tảng quốc gia sơ kì, nhiều vương quốc phát triển với bộ máy quản lý chặt chẽ hơn. Vùng lục địa thường có thế mạnh nông nghiệp; các đảo và eo biển thuận lợi cho giao thương. Chân Lạp và Sri Vi-giay-a là những ví dụ tiêu biểu. Hương liệu, gia vị và thương cảng nối khu vực với các mạng lưới trao đổi."
+                                       }
+                                   ],
+                        "front":  "Trình bày những cơ sở dẫn tới sự hình thành các vương quốc phong kiến Đông Nam Á.",
+                        "back":  "Từ nền tảng quốc gia sơ kì, nhiều vương quốc phát triển với bộ máy quản lý chặt chẽ hơn. Vùng lục địa thường có thế mạnh nông nghiệp; các đảo và eo biển thuận lợi cho giao thương. Chân Lạp và Sri Vi-giay-a là những ví dụ tiêu biểu. Hương liệu, gia vị và thương cảng nối khu vực với các mạng lưới trao đổi."
+                    },
+                    {
+                        "number":  13,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Văn hóa Ấn Độ và Trung Quốc ảnh hưởng đến Đông Nam Á qua những con đường nào?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Giao thương tạo điều kiện truyền bá Phật giáo, Ấn Độ giáo, chữ viết và nghệ thuật. Cư dân Đông Nam Á kết hợp yếu tố từ Ấn Độ, Trung Quốc với tín ngưỡng và truyền thống bản địa. Họ sáng tạo chữ viết, đền tháp, tượng và truyện kể mang nét riêng."
+                                       },
+                                       {
+                                           "prompt":  "Vì sao tiếp nhận văn hóa bên ngoài không có nghĩa là mất bản sắc? Nêu một biểu hiện ở Đông Nam Á.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Giao thương tạo điều kiện truyền bá Phật giáo, Ấn Độ giáo, chữ viết và nghệ thuật. Cư dân Đông Nam Á kết hợp yếu tố từ Ấn Độ, Trung Quốc với tín ngưỡng và truyền thống bản địa. Họ sáng tạo chữ viết, đền tháp, tượng và truyện kể mang nét riêng."
+                                       }
+                                   ],
+                        "front":  "Văn hóa Ấn Độ và Trung Quốc ảnh hưởng đến Đông Nam Á qua những con đường nào?",
+                        "back":  "Giao thương tạo điều kiện truyền bá Phật giáo, Ấn Độ giáo, chữ viết và nghệ thuật. Cư dân Đông Nam Á kết hợp yếu tố từ Ấn Độ, Trung Quốc với tín ngưỡng và truyền thống bản địa. Họ sáng tạo chữ viết, đền tháp, tượng và truyện kể mang nét riêng."
+                    },
+                    {
+                        "number":  14,
+                        "essays":  [
+                                       {
+                                           "prompt":  "So sánh những nét chính của nhà nước Văn Lang và Âu Lạc.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Khoảng thế kỉ VII TCN, Văn Lang hình thành, đứng đầu là Hùng Vương. Nhu cầu sản xuất, trị thủy và tự vệ thúc đẩy liên kết cộng đồng. Sau đó, Âu Lạc do An Dương Vương đứng đầu, đặt kinh đô tại Cổ Loa. Cư dân trồng lúa, đúc đồng, sống trong nhà sàn và duy trì thờ cúng tổ tiên."
+                                       },
+                                       {
+                                           "prompt":  "Đời sống vật chất và tinh thần của cư dân Văn Lang, Âu Lạc thể hiện điều gì về nền văn minh lúa nước?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Khoảng thế kỉ VII TCN, Văn Lang hình thành, đứng đầu là Hùng Vương. Nhu cầu sản xuất, trị thủy và tự vệ thúc đẩy liên kết cộng đồng. Sau đó, Âu Lạc do An Dương Vương đứng đầu, đặt kinh đô tại Cổ Loa. Cư dân trồng lúa, đúc đồng, sống trong nhà sàn và duy trì thờ cúng tổ tiên."
+                                       }
+                                   ],
+                        "front":  "So sánh những nét chính của nhà nước Văn Lang và Âu Lạc.",
+                        "back":  "Khoảng thế kỉ VII TCN, Văn Lang hình thành, đứng đầu là Hùng Vương. Nhu cầu sản xuất, trị thủy và tự vệ thúc đẩy liên kết cộng đồng. Sau đó, Âu Lạc do An Dương Vương đứng đầu, đặt kinh đô tại Cổ Loa. Cư dân trồng lúa, đúc đồng, sống trong nhà sàn và duy trì thờ cúng tổ tiên."
+                    },
+                    {
+                        "number":  15,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Nêu những chính sách cai trị chủ yếu của các triều đại phong kiến phương Bắc thời Bắc thuộc.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Chính quyền phương Bắc tổ chức bộ máy cai trị, thu thuế, đòi cống nạp và tìm cách đồng hóa cư dân. Kinh tế, kỹ thuật và các tầng lớp xã hội có biến đổi, nhưng làng xã và truyền thống người Việt vẫn có sức sống. Mâu thuẫn với chính quyền đô hộ là nguyên nhân quan trọng của đấu tranh giành độc lập."
+                                       },
+                                       {
+                                           "prompt":  "Phân tích mục đích của chính sách đồng hóa và phản ứng của người Việt.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Chính quyền phương Bắc tổ chức bộ máy cai trị, thu thuế, đòi cống nạp và tìm cách đồng hóa cư dân. Kinh tế, kỹ thuật và các tầng lớp xã hội có biến đổi, nhưng làng xã và truyền thống người Việt vẫn có sức sống. Mâu thuẫn với chính quyền đô hộ là nguyên nhân quan trọng của đấu tranh giành độc lập."
+                                       }
+                                   ],
+                        "front":  "Nêu những chính sách cai trị chủ yếu của các triều đại phong kiến phương Bắc thời Bắc thuộc.",
+                        "back":  "Chính quyền phương Bắc tổ chức bộ máy cai trị, thu thuế, đòi cống nạp và tìm cách đồng hóa cư dân. Kinh tế, kỹ thuật và các tầng lớp xã hội có biến đổi, nhưng làng xã và truyền thống người Việt vẫn có sức sống. Mâu thuẫn với chính quyền đô hộ là nguyên nhân quan trọng của đấu tranh giành độc lập."
+                    },
+                    {
+                        "number":  16,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Chọn một cuộc khởi nghĩa trước thế kỉ X. Trình bày thời gian, người lãnh đạo, kết quả và ý nghĩa.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Hai Bà Trưng khởi nghĩa năm 40; Bà Triệu năm 248. Lý Bí nổi dậy năm 542 và lập nước Vạn Xuân năm 544. Mai Thúc Loan, Phùng Hưng tiếp nối đấu tranh trong thời Đường. Kết quả từng cuộc khác nhau nhưng đều thể hiện ý chí tự chủ."
+                                       },
+                                       {
+                                           "prompt":  "So sánh điểm chung về mục tiêu và tinh thần đấu tranh của khởi nghĩa Hai Bà Trưng và Bà Triệu.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Hai Bà Trưng khởi nghĩa năm 40; Bà Triệu năm 248. Lý Bí nổi dậy năm 542 và lập nước Vạn Xuân năm 544. Mai Thúc Loan, Phùng Hưng tiếp nối đấu tranh trong thời Đường. Kết quả từng cuộc khác nhau nhưng đều thể hiện ý chí tự chủ."
+                                       }
+                                   ],
+                        "front":  "Chọn một cuộc khởi nghĩa trước thế kỉ X. Trình bày thời gian, người lãnh đạo, kết quả và ý nghĩa.",
+                        "back":  "Hai Bà Trưng khởi nghĩa năm 40; Bà Triệu năm 248. Lý Bí nổi dậy năm 542 và lập nước Vạn Xuân năm 544. Mai Thúc Loan, Phùng Hưng tiếp nối đấu tranh trong thời Đường. Kết quả từng cuộc khác nhau nhưng đều thể hiện ý chí tự chủ."
+                    },
+                    {
+                        "number":  17,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Người Việt đã bảo tồn tiếng nói và phong tục trong thời Bắc thuộc như thế nào?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Người Việt tiếp tục sử dụng tiếng nói, gìn giữ thờ cúng tổ tiên và các phong tục trong gia đình, làng xã. Đồng thời, họ tiếp nhận chữ viết, kỹ thuật và tín ngưỡng bên ngoài một cách có chọn lọc. Bảo tồn và tiếp thu có thể cùng diễn ra, giúp văn hóa phát triển."
+                                       },
+                                       {
+                                           "prompt":  "Giải thích vì sao bảo tồn văn hóa có ý nghĩa đối với cuộc đấu tranh giành độc lập của người Việt.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Người Việt tiếp tục sử dụng tiếng nói, gìn giữ thờ cúng tổ tiên và các phong tục trong gia đình, làng xã. Đồng thời, họ tiếp nhận chữ viết, kỹ thuật và tín ngưỡng bên ngoài một cách có chọn lọc. Bảo tồn và tiếp thu có thể cùng diễn ra, giúp văn hóa phát triển."
+                                       }
+                                   ],
+                        "front":  "Người Việt đã bảo tồn tiếng nói và phong tục trong thời Bắc thuộc như thế nào?",
+                        "back":  "Người Việt tiếp tục sử dụng tiếng nói, gìn giữ thờ cúng tổ tiên và các phong tục trong gia đình, làng xã. Đồng thời, họ tiếp nhận chữ viết, kỹ thuật và tín ngưỡng bên ngoài một cách có chọn lọc. Bảo tồn và tiếp thu có thể cùng diễn ra, giúp văn hóa phát triển."
+                    },
+                    {
+                        "number":  18,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Trình bày những bước giành quyền tự chủ từ Khúc Thừa Dụ đến Ngô Quyền.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Năm 905, Khúc Thừa Dụ giành quyền tự chủ. Khúc Hạo củng cố quản lý; Dương Đình Nghệ đánh đuổi quân Nam Hán năm 931. Năm 938, Ngô Quyền bố trí cọc trên sông Bạch Đằng, phối hợp thủy triều và phục kích để đánh bại quân xâm lược. Chiến thắng mở ra thời kì độc lập lâu dài."
+                                       },
+                                       {
+                                           "prompt":  "Vì sao chiến thắng Bạch Đằng năm 938 được xem là bước ngoặt lịch sử?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Năm 905, Khúc Thừa Dụ giành quyền tự chủ. Khúc Hạo củng cố quản lý; Dương Đình Nghệ đánh đuổi quân Nam Hán năm 931. Năm 938, Ngô Quyền bố trí cọc trên sông Bạch Đằng, phối hợp thủy triều và phục kích để đánh bại quân xâm lược. Chiến thắng mở ra thời kì độc lập lâu dài."
+                                       }
+                                   ],
+                        "front":  "Trình bày những bước giành quyền tự chủ từ Khúc Thừa Dụ đến Ngô Quyền.",
+                        "back":  "Năm 905, Khúc Thừa Dụ giành quyền tự chủ. Khúc Hạo củng cố quản lý; Dương Đình Nghệ đánh đuổi quân Nam Hán năm 931. Năm 938, Ngô Quyền bố trí cọc trên sông Bạch Đằng, phối hợp thủy triều và phục kích để đánh bại quân xâm lược. Chiến thắng mở ra thời kì độc lập lâu dài."
+                    },
+                    {
+                        "number":  19,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Nêu những nét chính về kinh tế và văn hóa của Chăm-pa từ thế kỉ II đến thế kỉ X.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Năm 192, Khu Liên lãnh đạo cư dân Tượng Lâm nổi dậy, hình thành Lâm Ấp, gắn với khởi đầu Chăm-pa. Cư dân trồng lúa, làm nghề thủ công, khai thác sản vật và giao thương biển. Chữ Chăm phát triển trên cơ sở tiếp nhận chữ Ấn Độ. Mỹ Sơn và các tháp Chăm phản ánh nghệ thuật cùng đời sống tôn giáo."
+                                       },
+                                       {
+                                           "prompt":  "Giải thích ảnh hưởng của vị trí ven biển đối với hoạt động kinh tế và giao lưu văn hóa Chăm-pa.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Năm 192, Khu Liên lãnh đạo cư dân Tượng Lâm nổi dậy, hình thành Lâm Ấp, gắn với khởi đầu Chăm-pa. Cư dân trồng lúa, làm nghề thủ công, khai thác sản vật và giao thương biển. Chữ Chăm phát triển trên cơ sở tiếp nhận chữ Ấn Độ. Mỹ Sơn và các tháp Chăm phản ánh nghệ thuật cùng đời sống tôn giáo."
+                                       }
+                                   ],
+                        "front":  "Nêu những nét chính về kinh tế và văn hóa của Chăm-pa từ thế kỉ II đến thế kỉ X.",
+                        "back":  "Năm 192, Khu Liên lãnh đạo cư dân Tượng Lâm nổi dậy, hình thành Lâm Ấp, gắn với khởi đầu Chăm-pa. Cư dân trồng lúa, làm nghề thủ công, khai thác sản vật và giao thương biển. Chữ Chăm phát triển trên cơ sở tiếp nhận chữ Ấn Độ. Mỹ Sơn và các tháp Chăm phản ánh nghệ thuật cùng đời sống tôn giáo."
+                    },
+                    {
+                        "number":  20,
+                        "essays":  [
+                                       {
+                                           "prompt":  "Trình bày cơ sở hình thành và những nét chính về kinh tế của Phù Nam.",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Phù Nam hình thành khoảng thế kỉ I, gắn với văn hóa Óc Eo ở Nam Bộ và vùng lân cận. Cư dân làm nông, thủ công và buôn bán. Óc Eo là cảng thị kết nối trao đổi quốc tế. Phật giáo và Ấn Độ giáo góp phần tạo dấu ấn nghệ thuật. Nhà sàn, ghe thuyền thể hiện sự thích nghi với môi trường sông nước."
+                                       },
+                                       {
+                                           "prompt":  "Vì sao di tích Óc Eo là nguồn tư liệu quan trọng để tìm hiểu giao thương của Phù Nam?",
+                                           "rubric":  "Chấm tối đa 10 điểm: kiến thức chính xác, phù hợp yêu cầu (4 điểm); giải thích hoặc đối chiếu có căn cứ, ví dụ phù hợp (4 điểm); diễn đạt rõ, dùng đúng thuật ngữ và thời gian (2 điểm). Chấp nhận cách diễn đạt tương đương. Chỉ chấm phần học sinh thực sự viết, không suy diễn chữ khó đọc. Kiến thức tham chiếu: Phù Nam hình thành khoảng thế kỉ I, gắn với văn hóa Óc Eo ở Nam Bộ và vùng lân cận. Cư dân làm nông, thủ công và buôn bán. Óc Eo là cảng thị kết nối trao đổi quốc tế. Phật giáo và Ấn Độ giáo góp phần tạo dấu ấn nghệ thuật. Nhà sàn, ghe thuyền thể hiện sự thích nghi với môi trường sông nước."
+                                       }
+                                   ],
+                        "front":  "Trình bày cơ sở hình thành và những nét chính về kinh tế của Phù Nam.",
+                        "back":  "Phù Nam hình thành khoảng thế kỉ I, gắn với văn hóa Óc Eo ở Nam Bộ và vùng lân cận. Cư dân làm nông, thủ công và buôn bán. Óc Eo là cảng thị kết nối trao đổi quốc tế. Phật giáo và Ấn Độ giáo góp phần tạo dấu ấn nghệ thuật. Nhà sàn, ghe thuyền thể hiện sự thích nghi với môi trường sông nước."
+                    }
+                ],
+    "events":  [
+                   {
+                       "lesson":  14,
+                       "time":  "Khoảng thế kỉ VII TCN",
+                       "title":  "Nhà nước Văn Lang hình thành"
+                   },
+                   {
+                       "lesson":  9,
+                       "time":  "Năm 221 TCN",
+                       "title":  "Tần thống nhất Trung Quốc"
+                   },
+                   {
+                       "lesson":  16,
+                       "time":  "Năm 40",
+                       "title":  "Khởi nghĩa Hai Bà Trưng"
+                   },
+                   {
+                       "lesson":  19,
+                       "time":  "Năm 192",
+                       "title":  "Nhà nước Lâm Ấp ra đời, gắn với quá trình hình thành Chăm-pa"
+                   },
+                   {
+                       "lesson":  16,
+                       "time":  "Năm 248",
+                       "title":  "Khởi nghĩa Bà Triệu"
+                   },
+                   {
+                       "lesson":  16,
+                       "time":  "Năm 542",
+                       "title":  "Lý Bí khởi nghĩa"
+                   },
+                   {
+                       "lesson":  16,
+                       "time":  "Năm 544",
+                       "title":  "Lý Bí lập nước Vạn Xuân"
+                   },
+                   {
+                       "lesson":  18,
+                       "time":  "Năm 905",
+                       "title":  "Khúc Thừa Dụ giành quyền tự chủ"
+                   },
+                   {
+                       "lesson":  18,
+                       "time":  "Năm 931",
+                       "title":  "Dương Đình Nghệ đánh bại quân Nam Hán"
+                   },
+                   {
+                       "lesson":  18,
+                       "time":  "Năm 938",
+                       "title":  "Ngô Quyền chiến thắng trên sông Bạch Đằng"
+                   }
+               ]
+}

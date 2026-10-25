@@ -1,0 +1,4 @@
+<%@ page pageEncoding="UTF-8" %>
+
+</main><c:choose><c:when test="${publicPage}"><footer class="public-footer"><div><strong>Sử Việt.</strong><p>Kiến thức mở ra từ sự chủ động.</p></div><span>Khóa học · Luyện tập · Gia sư AI<br>AI là công cụ hỗ trợ, không thay thế giáo viên.</span></footer></c:when><c:when test="${not empty sessionScope.user}"><footer class="app-footer">Sử Việt <span>Học để hiểu, từng bước một.</span></footer></div></div></c:when></c:choose>
+<script src="${pageContext.request.contextPath}/assets/app.js" defer></script></body></html>

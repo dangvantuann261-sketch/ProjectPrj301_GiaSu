@@ -1,0 +1,92 @@
+Buildfile: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build.xml
+
+clean:
+   [delete] Deleting directory C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build
+   [delete] Deleting directory C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\dist
+
+standalone-init:
+    [mkdir] Created dir: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\web\WEB-INF\classes
+    [mkdir] Created dir: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\dist
+
+compile:
+    [javac] Compiling 25 source files to C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\web\WEB-INF\classes
+    [javac] ----------
+    [javac] 1. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\AdminServlet.java (at line 8)
+    [javac] 	public final class AdminServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^^
+    [javac] The serializable class AdminServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 2. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\AuthServlet.java (at line 12)
+    [javac] 	public final class AuthServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^
+    [javac] The serializable class AuthServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 3. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\BaseServlet.java (at line 6)
+    [javac] 	public abstract class BaseServlet extends HttpServlet {
+    [javac] 	                      ^^^^^^^^^^^
+    [javac] The serializable class BaseServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 4. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\ChatServlet.java (at line 10)
+    [javac] 	public final class ChatServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^
+    [javac] The serializable class ChatServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 5. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\ReviewServlet.java (at line 13)
+    [javac] 	public final class ReviewServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^^^
+    [javac] The serializable class ReviewServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 6. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\StudentServlet.java (at line 11)
+    [javac] 	public final class StudentServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^^^^
+    [javac] The serializable class StudentServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 7. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\controller\TeacherServlet.java (at line 10)
+    [javac] 	public final class TeacherServlet extends BaseServlet {
+    [javac] 	                   ^^^^^^^^^^^^^^
+    [javac] The serializable class TeacherServlet does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 8. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\model\User.java (at line 4)
+    [javac] 	public final class User implements Serializable {
+    [javac] 	                   ^^^^
+    [javac] The serializable class User does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] ----------
+    [javac] 9. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\src\java\vn\suviet\service\AIClient.java (at line 7)
+    [javac] 	final class AIException extends Exception {
+    [javac] 	            ^^^^^^^^^^^
+    [javac] The serializable class AIException does not declare a static final serialVersionUID field of type long
+    [javac] ----------
+    [javac] 9 problems (9 warnings)
+     [copy] Copying 1 file to C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\web\WEB-INF\classes
+     [copy] Copying 29 files to C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\web
+     [copy] Copying 4 files to C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\web\WEB-INF\lib
+
+dist:
+      [war] Building war: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\dist\SuVietTutor.war
+
+standalone-init:
+
+compile:
+
+test:
+    [mkdir] Created dir: C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\test\classes
+    [javac] Compiling 1 source file to C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\build\test\classes
+    [javac] ----------
+    [javac] 1. WARNING in C:\Users\Tuan\Documents\Codex\2026-10-05\files-mentioned-by-the-user-codex\outputs\SuVietTutor\test\vn\suviet\CoreTests.java (at line 4)
+    [javac] 	import java.util.*;
+    [javac] 	       ^^^^^^^^^
+    [javac] The import java.util is never used
+    [javac] ----------
+    [javac] 1 problem (1 warning)
+     [java] PASS: 11 core checks
+
+BUILD SUCCESSFUL
+Total time: 17 seconds

@@ -1,0 +1,5 @@
+57928d6e5a6edeb2abd3770a8f95ba44dce45f3b23b7a9dc2b309c581552a78b  lib/gson-2.11.0.jar
+e6933c0711e598a224060e52ed31392f720a4a7664e85d8ae37c52a85b67ebb0  lib/mssql-jdbc-12.8.1.jre11.jar
+d55951aefedb543cb16193a873b92d22c40c3b8ba26cfa7ed9229eb118bb9c9b  lib/jakarta.servlet.jsp.jstl-api-3.0.2.jar
+5cc6e60b9e74d38c25fe4f2d22dfd40577f5b8396bc885f7061cd2c525a43b86  lib/jakarta.servlet.jsp.jstl-3.0.1.jar
+c034eb1afb158987dbb53a5fea0cadf611c8dae8daadd59c44d9d5ab70129cef  lib/compile-only/jakarta.servlet-api-6.0.0.jar

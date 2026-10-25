@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="ProjectPrj_GiaSu" default="dist" basedir="." xmlns:webproject1="http://www.netbeans.org/ns/web-project/1">
+ <description>Java Web Application, Ant, JDK 17, Jakarta Servlet 6, Tomcat 10.1.</description>
+ <!-- Import chuẩn NetBeans để giữ các tác vụ IDE. Các target dưới chạy độc lập bằng Ant. -->
+ <import file="nbproject/build-impl.xml"/>
+ <target name="standalone-init" depends="-init-private,-init-user,-init-project,-init-macrodef-property">
+  <property environment="tutor.env"/>
+  <condition property="tutor.exe.suffix" value=".exe" else=""><os family="windows"/></condition>
+  <webproject1:property name="tutor.platform.home" value="platforms.${platform.active}.home"/>
+  <condition property="tutor.java.home" value="${tutor.platform.home}">
+   <available file="${tutor.platform.home}/bin/javac${tutor.exe.suffix}"/>
+  </condition>
+  <condition property="tutor.java.home" value="${tutor.env.JAVA_HOME}">
+   <available file="${tutor.env.JAVA_HOME}/bin/javac${tutor.exe.suffix}"/>
+  </condition>
+  <condition property="tutor.java.home" value="${java.home}">
+   <available file="${java.home}/bin/javac${tutor.exe.suffix}"/>
+  </condition>
+  <fail unless="tutor.java.home" message="Chưa tìm thấy JDK. Chọn JDK 17 trong Project Properties → Libraries, hoặc đặt JAVA_HOME tới JDK 17."/>
+  <property name="tutor.javac" location="${tutor.java.home}/bin/javac${tutor.exe.suffix}"/>
+  <property name="tutor.java" location="${tutor.java.home}/bin/java${tutor.exe.suffix}"/>
+  <exec executable="${tutor.javac}" failonerror="true" outputproperty="tutor.javac.version"><arg value="-version"/></exec>
+  <fail message="Dự án cần JDK 17 trở lên; trình biên dịch hiện tại: ${tutor.javac.version}. Chọn lại Java Platform hoặc JAVA_HOME.">
+   <condition><not><matches string="${tutor.javac.version}" pattern="^javac (1[7-9]|[2-9][0-9])([. ].*)?$"/></not></condition>
+  </fail>
+  <echo message="Compiler: ${tutor.javac.version} (${tutor.java.home})"/>
+  <mkdir dir="${build.classes.dir}"/><mkdir dir="${dist.dir}"/>
+  <available file="lib/gson-2.11.0.jar" property="deps.present"/>
+  <fail unless="deps.present" message="Thiếu thư viện. Xem lib/README.md hoặc chạy scripts/download-libs.ps1."/>
+ </target>
+ <target name="compile" depends="standalone-init">
+  <javac srcdir="src/java" destdir="${build.classes.dir}" fork="true" executable="${tutor.javac}" encoding="UTF-8" includeantruntime="false" debug="true">
+   <compilerarg value="--release"/><compilerarg value="17"/>
+   <classpath path="${javac.classpath}"/>
+  </javac>
+  <copy todir="${build.classes.dir}"><fileset dir="src/conf"/></copy>
+  <copy todir="${build.web.dir}"><fileset dir="web"/></copy>
+  <copy todir="${build.web.dir}/WEB-INF/lib"><fileset dir="lib" includes="*.jar"/></copy>
+ </target>
+ <target name="dist" depends="compile">
+  <copy todir="${build.web.dir}"><fileset dir="web"/></copy>
+  <copy todir="${build.web.dir}/WEB-INF/lib"><fileset dir="lib" includes="*.jar"/></copy>
+  <war destfile="${dist.war}" webxml="web/WEB-INF/web.xml"><fileset dir="${build.web.dir}" excludes="WEB-INF/web.xml"/></war>
+ </target>
+ <target name="clean"><delete dir="build"/><delete dir="dist"/></target>
+ <target name="test" depends="compile">
+  <mkdir dir="build/test/classes"/>
+  <javac srcdir="test" destdir="build/test/classes" fork="true" executable="${tutor.javac}" encoding="UTF-8" includeantruntime="false"><compilerarg value="--release"/><compilerarg value="17"/><classpath><pathelement location="${build.classes.dir}"/><pathelement path="${javac.classpath}"/></classpath></javac>
+  <java classname="vn.suviet.CoreTests" fork="true" jvm="${tutor.java}" failonerror="true"><classpath><pathelement location="build/test/classes"/><pathelement location="${build.classes.dir}"/><fileset dir="lib" includes="**/*.jar"/></classpath></java>
+  <java classname="vn.suviet.GeminiClientTests" fork="true" jvm="${tutor.java}" failonerror="true"><classpath><pathelement location="build/test/classes"/><pathelement location="${build.classes.dir}"/><fileset dir="lib" includes="**/*.jar"/></classpath></java>
+ </target>
+ <!-- NetBeans F6 dùng tác vụ triển khai chuẩn trong build-impl đã import. -->
+</project>

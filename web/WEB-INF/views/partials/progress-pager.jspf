@@ -1,0 +1,6 @@
+<%@ page pageEncoding="UTF-8" %>
+<c:if test="${pages gt 1}"><nav class="pagination-bar" aria-label="Phân trang tiến độ">
+<c:if test="${page gt 1}"><c:url var="prev" value=""><c:param name="page" value="${page-1}"/><c:param name="course" value="${selectedCourse}"/><c:param name="q" value="${param.q}"/><c:param name="status" value="${selectedStatus}"/><c:param name="learning" value="${selectedLearning}"/><c:param name="sort" value="${selectedSort}"/><c:param name="enrollment" value="${param.enrollment}"/></c:url><a class="btn btn-outline-secondary" href="${fn:escapeXml(prev)}">← Trước</a></c:if>
+<span>Trang ${page} / ${pages}</span>
+<c:if test="${page lt pages}"><c:url var="next" value=""><c:param name="page" value="${page+1}"/><c:param name="course" value="${selectedCourse}"/><c:param name="q" value="${param.q}"/><c:param name="status" value="${selectedStatus}"/><c:param name="learning" value="${selectedLearning}"/><c:param name="sort" value="${selectedSort}"/><c:param name="enrollment" value="${param.enrollment}"/></c:url><a class="btn btn-outline-secondary" href="${fn:escapeXml(next)}">Sau →</a></c:if>
+</nav></c:if>

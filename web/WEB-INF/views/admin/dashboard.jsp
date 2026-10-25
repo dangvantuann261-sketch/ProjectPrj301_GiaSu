@@ -1,0 +1,8 @@
+<%@ page pageEncoding="UTF-8" %>
+<%@ include file="../partials/header.jspf" %>
+
+<div class="page-heading"><div><div class="eyebrow">QUẢN TRỊ HỆ THỐNG</div><h1>Tổng quan</h1><p>Tài khoản, danh mục và cấu hình hệ thống.</p></div><a class="btn btn-primary" href="${ctx}/admin/users">Quản lý tài khoản →</a></div>
+<div class="stats-grid"><c:forEach var="entry" items="${stats}"><div class="stat-card"><span class="small-label"><c:choose><c:when test="${entry.key eq 'teachers'}">Giáo viên</c:when><c:when test="${entry.key eq 'students'}">Học sinh</c:when><c:when test="${entry.key eq 'lectures'}">Bài giảng</c:when><c:when test="${entry.key eq 'questions'}">Câu hỏi</c:when><c:otherwise>Lượt luyện tập</c:otherwise></c:choose></span><strong><c:out value="${entry.value}"/></strong></div></c:forEach></div>
+<div class="row g-4 mt-1"><div class="col-lg-7"><section class="feature-panel"><span class="eyebrow">DANH MỤC &amp; CẤU HÌNH</span><h2>Nền tảng vững, người dạy tập trung.</h2><p>Quản lý tài khoản, danh mục môn học/bài học/chủ đề, phân công giáo viên và cấu hình hệ thống. Giáo viên phụ trách toàn bộ nội dung học: khóa học, bài giảng, câu hỏi và luyện tập. Quản trị viên giám sát, ẩn/gỡ nội dung vi phạm kèm lý do và nhật ký; không trực tiếp soạn nội dung.</p><a class="btn btn-light" href="${ctx}/admin/catalog?entity=lessons">Mở danh mục →</a></section></div><div class="col-lg-5"><section class="surface h-100"><span class="eyebrow">GIA SƯ AI</span><h2>Một bước, một câu hỏi.</h2><p>Điều chỉnh cách gia sư gợi ý và phản hồi cho học sinh.</p><a href="${ctx}/admin/settings">Sửa hướng dẫn gia sư →</a></section></div></div>
+
+<%@ include file="../partials/footer.jspf" %>

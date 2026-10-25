@@ -1,0 +1,9 @@
+<%@ page pageEncoding="UTF-8" %>
+<%@ include file="../partials/header.jspf" %>
+
+<div class="page-heading"><div><div class="eyebrow">HÀNH TRÌNH HỌC TẬP</div><h1>${teacherView ? 'Kết quả luyện tập' : 'Lịch sử luyện tập'}</h1><p>Mỗi lần luyện tập là một cơ hội hiểu bài hơn.</p></div></div>
+<section class="surface"><div class="table-responsive"><table class="table align-middle"><thead><tr><th>Chủ đề</th><c:if test="${teacherView}"><th>Học sinh</th></c:if><th>Loại</th><th>Ngày làm</th><th>Tiến độ</th><th>Điểm / 10</th><th></th></tr></thead><tbody>
+<c:forEach var="row" items="${rows}"><tr><td><c:out value="${row.topic_title}"/></td><c:if test="${teacherView}"><td><c:out value="${row.full_name}"/></td></c:if><td>${row.kind eq 'MCQ' ? 'Trắc nghiệm' : 'Tự luận'}</td><td><fmt:formatDate value="${empty row.created_local ? row.created_at : row.created_local}" pattern="dd/MM/yyyy HH:mm"/></td><td><span class="pill">${row.current_pos}/${row.total} câu</span></td><td><c:choose><c:when test="${row.pending_grades gt 0}">Chờ chấm</c:when><c:when test="${row.current_pos eq row.total}"><strong><fmt:formatNumber value="${row.score}" maxFractionDigits="1"/></strong></c:when><c:otherwise>Chưa hoàn tất</c:otherwise></c:choose></td><td><a href="${ctx}/${teacherView ? 'results' : 'student/practice'}?id=${row.id}">${row.current_pos lt row.total and not teacherView ? 'Tiếp tục' : 'Chi tiết'} →</a></td></tr></c:forEach>
+<c:if test="${empty rows}"><tr><td colspan="7" class="empty-state">Chưa có lượt luyện tập. <c:if test="${not teacherView}"><a href="${ctx}/student/learn">Khám phá bài học →</a></c:if></td></tr></c:if></tbody></table></div><%@ include file="../partials/pager.jspf" %></section>
+
+<%@ include file="../partials/footer.jspf" %>

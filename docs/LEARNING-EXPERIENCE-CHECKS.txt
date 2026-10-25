@@ -1,0 +1,105 @@
+Learning experience verification - 2026-10-23
+Core: 30 checks passed. Gemini HTTP contract: 40 checks passed (local stub).
+Main database backup verified: SuVietTutor-before-learning-experience-20261023-105448.bak
+Migration 10: fingerprints of existing learning data unchanged.
+Content: 20 lessons, 20 videos, 100 MCQ, 40 new essays; separate synthetic demo learner.
+
+PASS 20 lessons available
+PASS Five chapters
+PASS Five MCQ and at least two essays in lesson 63
+PASS Five MCQ and at least two essays in lesson 64
+PASS Five MCQ and at least two essays in lesson 65
+PASS Five MCQ and at least two essays in lesson 66
+PASS Five MCQ and at least two essays in lesson 67
+PASS Five MCQ and at least two essays in lesson 68
+PASS Five MCQ and at least two essays in lesson 69
+PASS Five MCQ and at least two essays in lesson 70
+PASS Five MCQ and at least two essays in lesson 71
+PASS Five MCQ and at least two essays in lesson 72
+PASS Five MCQ and at least two essays in lesson 73
+PASS Five MCQ and at least two essays in lesson 74
+PASS Five MCQ and at least two essays in lesson 75
+PASS Five MCQ and at least two essays in lesson 76
+PASS Five MCQ and at least two essays in lesson 77
+PASS Five MCQ and at least two essays in lesson 78
+PASS Five MCQ and at least two essays in lesson 79
+PASS Five MCQ and at least two essays in lesson 80
+PASS Five MCQ and at least two essays in lesson 81
+PASS Five MCQ and at least two essays in lesson 82
+PASS Login STUDENT
+PASS Page /student/dashboard status 200
+PASS Overview has no duplicated statistics cards
+PASS Student sidebar exists
+PASS Exactly five student navigation links
+PASS Profile and password in account menu
+PASS Page /student/progress status 200
+PASS Page /student/mistakes status 200
+PASS Page /student/history status 200
+PASS Page /student/profile status 200
+PASS Page /student/lesson?id=63 status 200
+PASS Lesson links contextual tutor and flashcard
+PASS Page /course?id=16 status 200
+PASS Roadmap includes lesson search and timeline
+PASS Page /student/tutor?itemId=63 status 200
+PASS Tutor carries lesson context
+PASS Database lease blocks overlapping chats
+PASS Chat commits complete exchange
+PASS New DAO reads persistent chat
+PASS Chat isolated by learner
+PASS Login STUDENT
+PASS Page /api/chat?itemId=63 status 200
+PASS Chat survives another login session
+PASS Failed reset preserves original chat
+PASS Successful reset commits
+PASS Reset archives previous history
+PASS Wrong answer collected once
+PASS Page /student/review?id=99 status 200
+PASS Wrong review does not disclose answer
+PASS Page /student/practice?id=29 status 200
+PASS Summary shows total and per-question AI links
+PASS Trend uses completed attempt score
+PASS Login STUDENT
+PASS Other learner cannot read answer
+PASS Other learner cannot load answer chat
+PASS Repeated mistake retry resumes existing attempt
+PASS Correct retry removes mistake
+PASS Retry preserves original answer history
+PASS Essay grading claimed
+PASS Graded essay notification is owner scoped
+PASS Other user cannot mark notification read
+PASS Mark notification read is idempotent
+PASS Login ADMIN
+PASS Page /admin/dashboard status 200
+PASS Page /admin/courses status 200
+PASS Login TEACHER
+PASS Page /teacher/courses status 200
+PASS Teacher cannot enter student workspace
+PASS Student cannot enter manager workspaces
+PASS Page /student/lesson?id=103 status 200
+PASS Student reads exact teacher-authored content
+PASS Draft lesson not accessible to contextual tutor
+PASS Page /student/progress status 200
+PASS Page /student/notifications status 200
+PASS: 76 learning experience integration checks
+
+Production HTTP and live AI checks:
+PASS Demo learner dashboard
+PASS Quick AI question form
+PASS Five navigation entries
+PASS Single course opens roadmap directly
+PASS Five chapters rendered
+PASS Twenty lessons rendered
+PASS Teacher search removed
+PASS Page /student/progress
+PASS Demo score chart has real stored attempt data
+PASS Page /student/history
+PASS Page /student/mistakes
+PASS Page /student/profile
+PASS Page /student/lesson?id=63
+PASS Page /student/notifications
+PASS Perfect demo attempt counts five correct answers
+PASS Quick question arrives in contextual tutor
+PASS Live AI returned a contextual hint
+PASS Live AI exchange persisted
+
+Visual browser/device QA not completed: browser inventory was empty. Mobile menu and CSS implemented; HTTP and database checks do not replace visual QA.

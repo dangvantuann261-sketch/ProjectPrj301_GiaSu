@@ -1,0 +1,1552 @@
+{
+  "seed_key": "seed.history6.kntt.v1",
+  "grade": 6,
+  "book": "Kết nối tri thức với cuộc sống",
+  "entry_url": "https://loigiaihay.com/sach-giao-khoa-c1714.html",
+  "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+  "title": "Lịch sử 6 – Kết nối tri thức với cuộc sống",
+  "summary": "20 bài học thuộc 5 chương: khám phá quá khứ, xã hội nguyên thủy, các nền văn minh cổ đại và lịch sử Việt Nam đến đầu thế kỉ X. Mỗi bài có video xem tại chỗ và 5 câu ôn tập có giải thích.",
+  "objectives": "Đọc và đối chiếu sử liệu; sắp xếp sự kiện theo thời gian; giải thích quan hệ giữa tự nhiên, kinh tế và xã hội; nhận biết các quốc gia cổ đại và buổi đầu dựng nước, giữ nước.",
+  "lessons": [
+    {
+      "number": 1,
+      "title": "Bài 1. Lịch sử và cuộc sống",
+      "body": "MỤC TIÊU\nPhân biệt quá khứ với việc tìm hiểu quá khứ.\n\nKIẾN THỨC CỐT LÕI\nLịch sử bao gồm những việc đã diễn ra. Môn học này tìm hiểu đời sống con người qua thời gian bằng chứng cứ. Biết chuyện gia đình, quê hương giúp em hiểu nguồn gốc và trân trọng di sản.\n\nVẬN DỤNG\nChọn một bức ảnh cũ của trường. Ghi thời điểm, điều đã thay đổi và câu hỏi cần tìm hiểu thêm. Đừng biến một dự đoán thành sự thật khi chưa có bằng chứng.",
+      "questions": [
+        {
+          "prompt": "Sự việc nào thuộc quá khứ?",
+          "options": [
+            "Kế hoạch ngày mai",
+            "Dự báo tuần sau",
+            "Ước mơ tương lai",
+            "Lễ khai giảng năm trước"
+          ],
+          "answer": "D",
+          "explanation": "Một sự kiện đã diễn ra thuộc quá khứ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Môn Lịch sử tìm hiểu đối tượng nào?",
+          "options": [
+            "Chỉ phép tính",
+            "Chỉ khoáng vật",
+            "Xã hội loài người qua thời gian",
+            "Chỉ thời tiết"
+          ],
+          "answer": "C",
+          "explanation": "Lịch sử nghiên cứu hoạt động của con người.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Học về làng mình giúp em hiểu gì?",
+          "options": [
+            "Mọi chuyện tương lai",
+            "Nguồn gốc quê hương",
+            "Kết quả xổ số",
+            "Thời tiết năm tới"
+          ],
+          "answer": "B",
+          "explanation": "Hiểu quá khứ góp phần gắn bó với quê hương.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Gặp hai lời kể khác nhau, em nên làm gì?",
+          "options": [
+            "Tìm chứng cứ đối chiếu",
+            "Tin người nói to",
+            "Chọn chuyện hấp dẫn",
+            "Bỏ qua tất cả"
+          ],
+          "answer": "A",
+          "explanation": "Cần kiểm tra bằng chứng trước khi kết luận.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Hành động nào bảo vệ di sản?",
+          "options": [
+            "Viết tên lên bia",
+            "Mang cổ vật về",
+            "Bẻ đồ trưng bày",
+            "Giữ gìn hiện vật"
+          ],
+          "answer": "D",
+          "explanation": "Bảo vệ hiện vật giúp thế hệ sau tìm hiểu lịch sử.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 1. Vì sao phải học lịch sử",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-lich-su-va-cuoc-song-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90014.html",
+        "outline_url": "https://loigiaihay.com/bai-1lich-su-va-cuoc-song-e21872.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=kXQTBWEFXnw",
+        "video_title": "Lịch sử lớp 6 Bài 1: Lịch sử và cuộc sống - trang 9, 10 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 2,
+      "title": "Bài 2. Dựa vào đâu để biết và phục dựng lại lịch sử?",
+      "body": "MỤC TIÊU\nNhận diện các nguồn sử liệu.\n\nKIẾN THỨC CỐT LÕI\nĐồ vật và di tích cung cấp dấu vết vật chất; văn bản lưu thông tin bằng chữ; lời kể truyền qua nhiều thế hệ phản ánh ký ức cộng đồng. Tư liệu gốc gắn trực tiếp với sự kiện được nghiên cứu. Một hiện vật có chữ có thể thuộc nhiều nhóm.\n\nVẬN DỤNG\nVới mỗi nguồn, hãy hỏi: ai tạo ra, lúc nào, nhằm mục đích gì? So sánh nhiều chứng cứ trước khi giải thích quá khứ.",
+      "questions": [
+        {
+          "prompt": "Một chiếc rìu đá cổ là tư liệu gì?",
+          "options": [
+            "Giả thuyết",
+            "Truyền miệng",
+            "Hiện vật",
+            "Dự báo"
+          ],
+          "answer": "C",
+          "explanation": "Rìu đá là đồ vật còn lưu lại.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Chữ khắc trên bia cung cấp loại tư liệu nào?",
+          "options": [
+            "Truyền miệng",
+            "Chữ viết",
+            "Âm thanh",
+            "Dự báo"
+          ],
+          "answer": "B",
+          "explanation": "Thông tin được ghi bằng chữ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Truyện được kể từ đời này sang đời khác thuộc nhóm nào?",
+          "options": [
+            "Truyền miệng",
+            "Số liệu đo mới",
+            "Mẫu hóa chất",
+            "Bản đồ vệ tinh"
+          ],
+          "answer": "A",
+          "explanation": "Lời kể được lưu truyền giữa các thế hệ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Nhật ký viết ngay khi sự kiện xảy ra có thể là gì?",
+          "options": [
+            "Dự đoán tương lai",
+            "Truyện hư cấu bắt buộc",
+            "Bản sao hiện đại",
+            "Tư liệu gốc"
+          ],
+          "answer": "D",
+          "explanation": "Nhật ký đương thời cung cấp thông tin trực tiếp.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Vì sao cần đối chiếu nhiều nguồn?",
+          "options": [
+            "Loại hết hiện vật",
+            "Thay chứng cứ bằng ý thích",
+            "Kiểm tra độ tin cậy",
+            "Chọn nguồn dài nhất"
+          ],
+          "answer": "C",
+          "explanation": "Mỗi nguồn có góc nhìn và giới hạn riêng.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 1. Vì sao phải học lịch sử",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-cac-nha-su-hoc-dua-vao-dau-de-biet-va-dung-lai-lich-su-lich-su-6-ket-noi-tri-thuc-voi-cuoc-a90022.html",
+        "outline_url": "https://loigiaihay.com/bai-2cac-nha-su-hoc-dua-vao-dau-de-biet-va-phuc-dung-lich-su-e21873.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=0yY6nrAILik",
+        "video_title": "Lịch sử lớp 6 Bài 2: Dựa vào đâu để biết và phục dựng lại lịch sử - trang 11, 13 | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 3,
+      "title": "Bài 3. Thời gian trong lịch sử",
+      "body": "MỤC TIÊU\nĐọc niên đại và sắp xếp sự kiện.\n\nKIẾN THỨC CỐT LÕI\nTrục thời gian giúp thấy trước, sau. Âm lịch dựa trên chu kỳ Mặt Trăng; dương lịch dựa trên năm Mặt Trời. Một thế kỉ gồm 100 năm; một thiên niên kỉ gồm 1.000 năm. Năm 1–100 thuộc thế kỉ I, năm 101–200 thuộc thế kỉ II. Trong lịch truyền thống không có năm 0.\n\nVẬN DỤNG\nĐặt các năm 40, 248, 938 lên trục; đọc từ mốc sớm đến mốc muộn.",
+      "questions": [
+        {
+          "prompt": "Một thập kỉ có bao nhiêu năm?",
+          "options": [
+            "12",
+            "10",
+            "100",
+            "1000"
+          ],
+          "answer": "B",
+          "explanation": "Thập kỉ là khoảng mười năm.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Một thế kỉ có bao nhiêu năm?",
+          "options": [
+            "100",
+            "10",
+            "365",
+            "1000"
+          ],
+          "answer": "A",
+          "explanation": "Thế kỉ gồm một trăm năm.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Năm 938 thuộc thế kỉ nào?",
+          "options": [
+            "IX",
+            "VIII",
+            "XI",
+            "X"
+          ],
+          "answer": "D",
+          "explanation": "Thế kỉ X kéo dài từ năm 901 đến 1000.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Trong các mốc sau, mốc nào sớm nhất?",
+          "options": [
+            "Năm 1",
+            "Năm 100",
+            "200 TCN",
+            "100 TCN"
+          ],
+          "answer": "C",
+          "explanation": "Trước Công nguyên, số năm lớn hơn chỉ mốc xa hơn.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Sắp xếp nào đúng từ sớm đến muộn?",
+          "options": [
+            "40 → 938 → 248",
+            "40 → 248 → 938",
+            "938 → 248 → 40",
+            "248 → 40 → 938"
+          ],
+          "answer": "B",
+          "explanation": "Các năm Công nguyên tăng theo thời gian.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 1. Vì sao phải học lịch sử",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-thoi-gian-trong-lich-su-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90031.html",
+        "outline_url": "https://loigiaihay.com/bai-3-thoi-gian-trong-lich-su-e21874.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=fdu3PfAWfTo",
+        "video_title": "Lịch sử lớp 6 Bài 3: Thời gian trong lịch sử - trang 14,15 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 4,
+      "title": "Bài 4. Nguồn gốc loài người",
+      "body": "MỤC TIÊU\nDùng dấu tích để tìm hiểu người tiền sử.\n\nKIẾN THỨC CỐT LÕI\nLoài người hình thành qua quá trình tiến hóa lâu dài. Bài học khái quát từ vượn người cổ, Người tối cổ đến Người tinh khôn. Hóa thạch và công cụ giúp nghiên cứu quá trình này. Đông Nam Á có dấu tích tại Gia-va; ở Việt Nam có Thẩm Khuyên, Thẩm Hai, Núi Đọ và An Khê.\n\nVẬN DỤNG\nGhép một địa điểm khảo cổ với loại dấu tích tìm thấy. Niên đại khảo cổ thường được biểu thị bằng khoảng ước tính.",
+      "questions": [
+        {
+          "prompt": "Chứng cứ nào phục vụ nghiên cứu người tiền sử?",
+          "options": [
+            "Hóa thạch",
+            "Lịch quảng cáo",
+            "Dự báo kinh tế",
+            "Truyện khoa học viễn tưởng"
+          ],
+          "answer": "A",
+          "explanation": "Hóa thạch lưu dấu sinh vật cổ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Gia-va thuộc quốc gia nào?",
+          "options": [
+            "Ai Cập",
+            "Hy Lạp",
+            "Ấn Độ",
+            "In-đô-nê-xi-a"
+          ],
+          "answer": "D",
+          "explanation": "Gia-va là địa điểm phát hiện dấu tích người cổ ở Đông Nam Á.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Thẩm Khuyên và Thẩm Hai thuộc địa phương nào?",
+          "options": [
+            "Đà Nẵng",
+            "Bến Tre",
+            "Lạng Sơn",
+            "Cà Mau"
+          ],
+          "answer": "C",
+          "explanation": "Các hang ở Lạng Sơn lưu dấu người cổ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Công cụ đá An Khê cho biết điều gì?",
+          "options": [
+            "Đã có điện thoại",
+            "Con người từng sinh sống tại đây",
+            "Đã có máy hơi nước",
+            "Đã có chữ quốc ngữ"
+          ],
+          "answer": "B",
+          "explanation": "Công cụ là bằng chứng hoạt động của con người.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Cách hiểu nào đúng về tiến hóa?",
+          "options": [
+            "Diễn ra rất lâu dài",
+            "Hoàn tất trong một ngày",
+            "Không có biến đổi",
+            "Chỉ do học viết"
+          ],
+          "answer": "A",
+          "explanation": "Tiến hóa diễn ra qua nhiều thế hệ.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 2. Xã hội nguyên thủy",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-nguon-goc-loai-nguoi-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90033.html",
+        "outline_url": "https://loigiaihay.com/bai-4-nguon-goc-loai-nguoi-e21875.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=1TeOIfxSE6o",
+        "video_title": "Lịch sử lớp 6 Bài 4: Nguồn gốc loài người - trang 17, 19 | Kết nối tri thức (HAY NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 5,
+      "title": "Bài 5. Xã hội nguyên thủy",
+      "body": "MỤC TIÊU\nSo sánh sinh hoạt và tổ chức cộng đồng sơ khai.\n\nKIẾN THỨC CỐT LÕI\nCon người ban đầu sống thành bầy, kiếm thức ăn bằng hái lượm và săn bắt. Về sau, công cụ cải tiến, trồng trọt và chăn nuôi phát triển. Những nhóm cùng huyết thống tạo thành thị tộc; các thị tộc có quan hệ hợp thành bộ lạc. Hợp tác lao động giúp cộng đồng tồn tại. Trang sức, tranh vẽ và mai táng cho thấy đời sống tinh thần.\n\nVẬN DỤNG\nSo sánh việc hái quả rừng với gieo hạt và chăm sóc cây.",
+      "questions": [
+        {
+          "prompt": "Hoạt động kiếm thức ăn sớm là gì?",
+          "options": [
+            "Chạy nhà máy",
+            "Lập ngân hàng",
+            "In sách",
+            "Hái lượm"
+          ],
+          "answer": "D",
+          "explanation": "Hái lượm lấy thức ăn có sẵn trong tự nhiên.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Thị tộc thường gắn với quan hệ nào?",
+          "options": [
+            "Quốc tịch hiện đại",
+            "Cổ phần",
+            "Huyết thống",
+            "Hợp đồng công ty"
+          ],
+          "answer": "C",
+          "explanation": "Các thành viên thị tộc có quan hệ dòng máu.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Nhiều thị tộc có quan hệ tạo thành gì?",
+          "options": [
+            "Ngân hàng",
+            "Bộ lạc",
+            "Đế chế",
+            "Thành phố công nghiệp"
+          ],
+          "answer": "B",
+          "explanation": "Bộ lạc là cộng đồng gồm nhiều thị tộc.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Trồng trọt khác hái lượm ở điểm nào?",
+          "options": [
+            "Chủ động tạo nguồn thức ăn",
+            "Chỉ nhặt sản phẩm sẵn có",
+            "Không cần lao động",
+            "Không phụ thuộc tự nhiên"
+          ],
+          "answer": "A",
+          "explanation": "Trồng trọt làm tăng khả năng chủ động sản xuất.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Vật nào phản ánh nhu cầu làm đẹp?",
+          "options": [
+            "Rìu chặt cây",
+            "Mũi lao",
+            "Hòn kê",
+            "Vòng vỏ ốc"
+          ],
+          "answer": "D",
+          "explanation": "Trang sức phản ánh đời sống tinh thần.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 2. Xã hội nguyên thủy",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-xa-hoi-nguyen-thuy-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90034.html",
+        "outline_url": "https://loigiaihay.com/bai-5-xa-hoi-nguyen-thuy-e21876.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=mMm4jeb5oT4",
+        "video_title": "Lịch sử lớp 6 Bài 5: Xã hội nguyên thủy - trang 20, 23 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 6,
+      "title": "Bài 6. Sự chuyển biến và phân hóa của xã hội nguyên thủy",
+      "body": "MỤC TIÊU\nGiải thích quan hệ giữa công cụ và thay đổi xã hội.\n\nKIẾN THỨC CỐT LÕI\nViệc dùng kim loại tạo bước tiến trong sản xuất. Công cụ bền, sắc giúp khai phá đất, tạo thêm sản phẩm. Khi của cải dư thừa bị chiếm hữu không đều, khoảng cách giàu nghèo tăng và quan hệ cộng đồng biến đổi. Ở Việt Nam, các dấu tích Phùng Nguyên, Đồng Đậu, Gò Mun cho thấy sự phát triển luyện kim.\n\nVẬN DỤNG\nVẽ chuỗi: công cụ tốt hơn → năng suất tăng → sản phẩm dư thừa → phân hóa xã hội.",
+      "questions": [
+        {
+          "prompt": "Vật liệu nào tạo bước tiến sau đồ đá?",
+          "options": [
+            "Nhựa tổng hợp",
+            "Cao su công nghiệp",
+            "Kim loại",
+            "Giấy"
+          ],
+          "answer": "C",
+          "explanation": "Kim loại giúp chế tạo công cụ hiệu quả hơn.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Công cụ tốt hơn thường làm tăng điều gì?",
+          "options": [
+            "Lượng mưa",
+            "Năng suất",
+            "Số ngày trong năm",
+            "Độ dài thế kỉ"
+          ],
+          "answer": "B",
+          "explanation": "Cùng thời gian lao động có thể tạo nhiều sản phẩm hơn.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Dư thừa nghĩa là gì?",
+          "options": [
+            "Sản phẩm vượt nhu cầu dùng ngay",
+            "Không có thức ăn",
+            "Mất toàn bộ công cụ",
+            "Ngừng sản xuất"
+          ],
+          "answer": "A",
+          "explanation": "Dư thừa là phần sản phẩm còn lại sau nhu cầu trước mắt.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Chiếm hữu của cải không đều dẫn đến gì?",
+          "options": [
+            "Mọi người giàu như nhau",
+            "Mất mọi nghề",
+            "Không còn trao đổi",
+            "Phân hóa giàu nghèo"
+          ],
+          "answer": "D",
+          "explanation": "Tài sản tập trung không đều tạo chênh lệch.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Đồng Đậu và Gò Mun giúp tìm hiểu lĩnh vực nào?",
+          "options": [
+            "Hàng không",
+            "Internet",
+            "Luyện kim cổ",
+            "Điện hạt nhân"
+          ],
+          "answer": "C",
+          "explanation": "Hiện vật đồng phản ánh kỹ thuật luyện kim.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 2. Xã hội nguyên thủy",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-su-chuyen-bien-va-phan-hoa-cua-xa-hoi-nguyen-thuy-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90035.html",
+        "outline_url": "https://loigiaihay.com/bai-6su-chuyen-bien-va-phan-hoa-cua-xa-hoi-nguyen-thuy-e21877.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=0EcOuxxYxOs",
+        "video_title": "Lịch sử lớp 6 Bài 6: Sự chuyển biến và phân hoá của xã hội nguyên thuỷ - trang 24 | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Bài 7. Ai Cập và Lưỡng Hà cổ đại",
+      "body": "MỤC TIÊU\nLiên hệ dòng sông, kinh tế và văn minh.\n\nKIẾN THỨC CỐT LÕI\nAi Cập phát triển bên sông Nin; Lưỡng Hà nằm giữa Ti-grơ và Ơ-phrat. Nước và phù sa thuận lợi cho trồng trọt, nhưng cư dân cần hợp tác trị thủy. Ai Cập nổi bật với kim tự tháp và chữ tượng hình; Lưỡng Hà dùng chữ hình nêm. Những thành tựu toán học, lịch và kỹ thuật bắt nguồn từ nhu cầu đời sống.\n\nVẬN DỤNG\nGiải thích vì sao vừa cần sông vừa cần kiểm soát lũ.",
+      "questions": [
+        {
+          "prompt": "Dòng sông gắn với Ai Cập là gì?",
+          "options": [
+            "Hoàng Hà",
+            "Nin",
+            "Hồng",
+            "Hằng"
+          ],
+          "answer": "B",
+          "explanation": "Nin cung cấp nước và phù sa cho Ai Cập.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Lưỡng Hà nằm giữa hai sông nào?",
+          "options": [
+            "Ti-grơ và Ơ-phrat",
+            "Hồng và Mã",
+            "Ấn và Hằng",
+            "Nin và Hằng"
+          ],
+          "answer": "A",
+          "explanation": "Tên Lưỡng Hà chỉ vùng đất giữa hai sông.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Công trình tiêu biểu của Ai Cập là gì?",
+          "options": [
+            "Thành Cổ Loa",
+            "Tháp Chăm",
+            "Đấu trường La Mã",
+            "Kim tự tháp"
+          ],
+          "answer": "D",
+          "explanation": "Kim tự tháp là di sản kiến trúc Ai Cập.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Chữ hình nêm gắn với nơi nào?",
+          "options": [
+            "La Mã",
+            "Âu Lạc",
+            "Lưỡng Hà",
+            "Văn Lang"
+          ],
+          "answer": "C",
+          "explanation": "Dấu chữ được ấn lên đất sét.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Vì sao cư dân phải hợp tác trị thủy?",
+          "options": [
+            "Chấm dứt nông nghiệp",
+            "Điều tiết nước phục vụ canh tác",
+            "Ngăn Mặt Trời mọc",
+            "Xóa mọi dòng sông"
+          ],
+          "answer": "B",
+          "explanation": "Trị thủy giúp dẫn nước và hạn chế lũ.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 3. Xã hội cổ đại",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-ai-cap-va-luong-ha-co-dai-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90036.html",
+        "outline_url": "https://loigiaihay.com/bai-7-ai-cap-va-luong-ha-co-dai-e21878.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=ZTAphd0MH_E",
+        "video_title": "Lịch sử lớp 6 Bài 7: Ai Cập và Lưỡng Hà cổ đại - trang 29, 33 | Kết nối tri thức (HAY NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 8,
+      "title": "Bài 8. Ấn Độ cổ đại",
+      "body": "MỤC TIÊU\nNhận biết môi trường, xã hội và đóng góp văn hóa.\n\nKIẾN THỨC CỐT LÕI\nLưu vực sông Ấn và sông Hằng thuận lợi cho cư trú, canh tác. Xã hội cổ đại có sự phân chia đẳng cấp Va-na, tạo địa vị khác nhau. Ấn Độ là quê hương Phật giáo và Ấn Độ giáo; chữ Phạn, sử thi cùng hệ chữ số có ảnh hưởng rộng. Đặc biệt, chữ số 0 góp phần quan trọng trong toán học.\n\nVẬN DỤNG\nChọn một đóng góp văn hóa và giải thích dấu ấn của nó trong đời sống hôm nay.",
+      "questions": [
+        {
+          "prompt": "Hai sông lớn gắn với văn minh Ấn Độ là gì?",
+          "options": [
+            "Ấn và Hằng",
+            "Nin và Hồng",
+            "Ti-grơ và Mã",
+            "Hoàng Hà và Đà"
+          ],
+          "answer": "A",
+          "explanation": "Hai lưu vực là không gian văn minh quan trọng.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Va-na là chế độ phân chia gì?",
+          "options": [
+            "Múi giờ",
+            "Lịch học",
+            "Đơn vị tiền hiện đại",
+            "Đẳng cấp"
+          ],
+          "answer": "D",
+          "explanation": "Va-na quy định địa vị xã hội khác nhau.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Tôn giáo nào ra đời ở Ấn Độ?",
+          "options": [
+            "Thờ Thành hoàng Việt",
+            "Tín ngưỡng thờ cá Ông",
+            "Phật giáo",
+            "Thờ vua Hùng"
+          ],
+          "answer": "C",
+          "explanation": "Phật giáo hình thành tại Ấn Độ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Đóng góp toán học tiêu biểu là gì?",
+          "options": [
+            "Động cơ điện",
+            "Chữ số 0",
+            "Máy tính điện tử",
+            "Kính thiên văn vô tuyến"
+          ],
+          "answer": "B",
+          "explanation": "Chữ số 0 là đóng góp quan trọng của người Ấn Độ.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Chữ Phạn còn được gọi là gì?",
+          "options": [
+            "Sanskrit",
+            "Chữ quốc ngữ",
+            "Chữ La-tinh",
+            "Chữ hình nêm"
+          ],
+          "answer": "A",
+          "explanation": "Sanskrit là tên gọi của chữ Phạn.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 3. Xã hội cổ đại",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-an-do-co-dai-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90037.html",
+        "outline_url": "https://loigiaihay.com/bai-8-an-do-co-dai-e21879.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=Rgp9g8-TjNs",
+        "video_title": "Lịch sử lớp 6 Bài 8: Ấn Độ cổ đại - trang 34, 38 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 9,
+      "title": "Bài 9. Trung Quốc từ thời cổ đại đến thế kỉ VII",
+      "body": "MỤC TIÊU\nNắm mốc thống nhất và một số thành tựu.\n\nKIẾN THỨC CỐT LÕI\nHoàng Hà và Trường Giang tạo không gian nông nghiệp lớn. Năm 221 TCN, nhà Tần thống nhất Trung Quốc, tổ chức quyền lực tập trung và thống nhất nhiều quy định. Sau thời Tần, lịch sử tiếp diễn qua các giai đoạn Hán, chia cắt và Tùy. Chữ viết, sử học, nghề giấy và tơ lụa là những đóng góp nổi bật.\n\nVẬN DỤNG\nĐặt mốc 221 TCN lên trục và phân biệt trước Công nguyên với Công nguyên.",
+      "questions": [
+        {
+          "prompt": "Hai sông quan trọng của Trung Quốc cổ đại là gì?",
+          "options": [
+            "Nin và Hằng",
+            "Mã và Hồng",
+            "Ti-grơ và Ơ-phrat",
+            "Hoàng Hà và Trường Giang"
+          ],
+          "answer": "D",
+          "explanation": "Hai lưu vực có đồng bằng thuận lợi cho sản xuất.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Nhà Tần thống nhất Trung Quốc năm nào?",
+          "options": [
+            "938",
+            "40",
+            "221 TCN",
+            "221"
+          ],
+          "answer": "C",
+          "explanation": "Mốc thống nhất là năm 221 trước Công nguyên.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Ai gắn với việc thống nhất nhà Tần?",
+          "options": [
+            "Lý Bí",
+            "Tần Thủy Hoàng",
+            "Ngô Quyền",
+            "Hùng Vương"
+          ],
+          "answer": "B",
+          "explanation": "Tần Thủy Hoàng đứng đầu nhà Tần.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Thống nhất chữ viết giúp ích gì?",
+          "options": [
+            "Thuận tiện quản lý và giao tiếp",
+            "Xóa mọi khác biệt ngay",
+            "Ngăn mọi trao đổi",
+            "Chấm dứt ghi chép"
+          ],
+          "answer": "A",
+          "explanation": "Quy định chung hỗ trợ điều hành trên lãnh thổ rộng.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Thành tựu nào thuộc Trung Quốc cổ đại?",
+          "options": [
+            "Kim tự tháp Giza",
+            "Thành Cổ Loa",
+            "Trống đồng Ngọc Lũ",
+            "Kỹ thuật làm giấy"
+          ],
+          "answer": "D",
+          "explanation": "Nghề giấy là đóng góp kỹ thuật nổi bật.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 3. Xã hội cổ đại",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-trung-quoc-tu-thoi-co-dai-den-the-ki-vii-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90038.html",
+        "outline_url": "https://loigiaihay.com/bai-9-trung-quoc-tu-thoi-co-dai-den-the-ki-vii-e21880.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=YP9Lf8OD3QM",
+        "video_title": "Lịch sử lớp 6 Bài 9: Trung Quốc từ thời cổ đại đến thế kỉ VII",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 10,
+      "title": "Bài 10. Hy Lạp và La Mã cổ đại",
+      "body": "MỤC TIÊU\nLiên hệ biển với kinh tế và tổ chức nhà nước.\n\nKIẾN THỨC CỐT LÕI\nBờ biển, vũng vịnh và vị trí Địa Trung Hải thuận lợi cho thương mại. Hy Lạp có nhiều thành bang; A-ten nổi bật với nền dân chủ cổ đại nhưng không trao quyền bình đẳng cho mọi cư dân. La Mã phát triển thành đế chế rộng lớn. Di sản gồm chữ viết, luật pháp, toán học, kiến trúc và điêu khắc.\n\nVẬN DỤNG\nGiải thích vì sao không nên đồng nhất dân chủ cổ đại với quyền công dân hiện nay.",
+      "questions": [
+        {
+          "prompt": "Vùng biển gắn với Hy Lạp, La Mã là gì?",
+          "options": [
+            "Biển Đỏ",
+            "Bắc Băng Dương",
+            "Địa Trung Hải",
+            "Biển Đông"
+          ],
+          "answer": "C",
+          "explanation": "Địa Trung Hải là không gian giao thương quan trọng.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "A-ten là một ví dụ về gì?",
+          "options": [
+            "Làng thời hiện đại",
+            "Thành bang",
+            "Thị tộc Việt",
+            "Quận nhà Hán"
+          ],
+          "answer": "B",
+          "explanation": "Hy Lạp có nhiều thành bang độc lập.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "La Mã phát triển thành hình thức nào?",
+          "options": [
+            "Đế chế",
+            "Công xã nguyên thủy",
+            "Bầy người",
+            "Bộ lạc duy nhất"
+          ],
+          "answer": "A",
+          "explanation": "La Mã mở rộng lãnh thổ và xây dựng đế chế.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Ai bị loại khỏi quyền chính trị ở A-ten cổ đại?",
+          "options": [
+            "Mọi công dân nam",
+            "Tất cả chủ nô",
+            "Mọi quan chức",
+            "Nô lệ"
+          ],
+          "answer": "D",
+          "explanation": "Nền dân chủ cổ đại có giới hạn về đối tượng hưởng quyền.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Vũng vịnh kín gió thuận lợi cho việc gì?",
+          "options": [
+            "Khai thác sa mạc",
+            "Nuôi tuần lộc",
+            "Lập cảng biển",
+            "Trồng cây trên băng"
+          ],
+          "answer": "C",
+          "explanation": "Cảng tự nhiên hỗ trợ tàu thuyền và thương mại.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 3. Xã hội cổ đại",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-hy-lap-va-la-ma-co-dai-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90039.html",
+        "outline_url": "https://loigiaihay.com/bai-10-hy-lap-va-la-ma-co-dai-e21881.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=sd52ib_qD6k",
+        "video_title": "Lịch sử lớp 6 Bài 10: Hy Lạp và La Mã cổ đại - trang 44, 49 | Kết nối tri thức (HAY NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 11,
+      "title": "Bài 11. Các quốc gia sơ kì ở Đông Nam Á",
+      "body": "MỤC TIÊU\nHiểu điều kiện hình thành các quốc gia đầu tiên trong khu vực.\n\nKIẾN THỨC CỐT LÕI\nĐông Nam Á gồm lục địa và hải đảo. Khí hậu gió mùa, sông ngòi và đồng bằng thuận lợi cho lúa nước. Khu vực còn nằm trên tuyến hàng hải nối Ấn Độ Dương với Thái Bình Dương. Sản xuất, trao đổi và phân hóa xã hội góp phần hình thành các quốc gia sơ kì như Văn Lang, Chăm-pa, Phù Nam.\n\nVẬN DỤNG\nNêu một thuận lợi nông nghiệp và một thuận lợi thương mại của khu vực.",
+      "questions": [
+        {
+          "prompt": "Cây lương thực tiêu biểu của khu vực là gì?",
+          "options": [
+            "Lúa mì ôn đới duy nhất",
+            "Lúa nước",
+            "Ô liu",
+            "Chà là sa mạc"
+          ],
+          "answer": "B",
+          "explanation": "Gió mùa và đồng bằng thuận lợi cho lúa nước.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Đông Nam Á gồm hai bộ phận nào?",
+          "options": [
+            "Lục địa và hải đảo",
+            "Bắc cực và Nam cực",
+            "Sa mạc và băng hà",
+            "Đông Âu và Tây Âu"
+          ],
+          "answer": "A",
+          "explanation": "Đây là hai bộ phận địa lý lớn của khu vực.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Quốc gia nào thuộc Đông Nam Á cổ?",
+          "options": [
+            "Ai Cập",
+            "La Mã",
+            "Ba Tư",
+            "Phù Nam"
+          ],
+          "answer": "D",
+          "explanation": "Phù Nam là quốc gia sơ kì trong khu vực.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Vị trí nối hai đại dương thuận lợi cho gì?",
+          "options": [
+            "Chỉ săn thú vùng cực",
+            "Ngừng giao lưu",
+            "Thương mại biển",
+            "Cô lập tuyệt đối"
+          ],
+          "answer": "C",
+          "explanation": "Các tuyến hàng hải giúp trao đổi sản vật.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Quốc gia sơ kì xuất hiện gắn với yếu tố nào?",
+          "options": [
+            "Hàng không quốc tế",
+            "Sản xuất và xã hội biến đổi",
+            "Internet phát triển",
+            "Máy hơi nước ra đời"
+          ],
+          "answer": "B",
+          "explanation": "Biến đổi kinh tế, xã hội tạo điều kiện hình thành nhà nước.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 4. Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-cac-quoc-gia-so-ki-dong-nam-a-lich-su-6-ket-noi-tri-thuc-a90040.html",
+        "outline_url": "https://loigiaihay.com/bai-11-cac-quoc-gia-so-ki-o-dong-nam-a-e21883.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=ALkM-iY-r-g",
+        "video_title": "Lịch sử lớp 6 Bài 11: Các quốc gia sơ kì Đông Nam Á - trang 51, 53 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 12,
+      "title": "Bài 12. Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á",
+      "body": "MỤC TIÊU\nNhận biết thay đổi trong các thế kỉ VII–X.\n\nKIẾN THỨC CỐT LÕI\nTừ nền tảng quốc gia sơ kì, nhiều vương quốc phát triển với bộ máy quản lý chặt chẽ hơn. Vùng lục địa thường có thế mạnh nông nghiệp; các đảo và eo biển thuận lợi cho giao thương. Chân Lạp và Sri Vi-giay-a là những ví dụ tiêu biểu. Hương liệu, gia vị và thương cảng nối khu vực với các mạng lưới trao đổi.\n\nVẬN DỤNG\nSo sánh sinh kế của cư dân đồng bằng với cư dân gần eo biển.",
+      "questions": [
+        {
+          "prompt": "Bài học tập trung vào các thế kỉ nào?",
+          "options": [
+            "VII–X",
+            "XV–XVII",
+            "XIX–XX",
+            "XX–XXI"
+          ],
+          "answer": "A",
+          "explanation": "Phạm vi bài là từ thế kỉ VII đến thế kỉ X.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Vùng đồng bằng lục địa thuận lợi cho gì?",
+          "options": [
+            "Săn cá voi vùng cực",
+            "Khai thác băng",
+            "Đóng tàu vũ trụ",
+            "Nông nghiệp"
+          ],
+          "answer": "D",
+          "explanation": "Đất và nước thuận lợi cho trồng trọt.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Sri Vi-giay-a có thế mạnh nào?",
+          "options": [
+            "Hàng không",
+            "Khai thác tuyết",
+            "Thương mại biển",
+            "Công nghiệp ô tô"
+          ],
+          "answer": "C",
+          "explanation": "Vị trí hàng hải hỗ trợ trao đổi đường biển.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Mặt hàng nổi bật trên đường biển là gì?",
+          "options": [
+            "Ô tô điện",
+            "Gia vị",
+            "Điện thoại",
+            "Xăng máy bay"
+          ],
+          "answer": "B",
+          "explanation": "Gia vị là sản vật được thương nhân quan tâm.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Thương cảng có vai trò gì?",
+          "options": [
+            "Kết nối trao đổi hàng hóa và văn hóa",
+            "Ngăn mọi tiếp xúc",
+            "Chỉ phục vụ lễ hội",
+            "Thay thế mọi ruộng đất"
+          ],
+          "answer": "A",
+          "explanation": "Giao thương cũng tạo cơ hội giao lưu văn hóa.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 4. Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-su-hinh-thanh-va-buoc-dau-phat-trien-cua-cac-vuong-quoc-phong-kien-o-dong-nam-a-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90041.html",
+        "outline_url": "https://loigiaihay.com/bai-12-su-hinh-thanh-va-buoc-dau-phat-trien-cua-cac-vuong-quoc-phong-kien-o-dong-nam-a-tu-the-ki-vii-den-the-ki-x-e21884.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=9qhjKjx3qh8",
+        "video_title": "Lịch sử 6 Bài 12: Sự hình thành và bước đầu phát triển của các vương quốc PK ĐNA | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 13,
+      "title": "Bài 13. Giao lưu văn hóa ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+      "body": "MỤC TIÊU\nPhân biệt tiếp nhận văn hóa với sao chép thụ động.\n\nKIẾN THỨC CỐT LÕI\nGiao thương tạo điều kiện truyền bá Phật giáo, Ấn Độ giáo, chữ viết và nghệ thuật. Cư dân Đông Nam Á kết hợp yếu tố từ Ấn Độ, Trung Quốc với tín ngưỡng và truyền thống bản địa. Họ sáng tạo chữ viết, đền tháp, tượng và truyện kể mang nét riêng.\n\nVẬN DỤNG\nQuan sát một tháp Chăm: phân biệt ảnh hưởng tôn giáo với cách thể hiện của nghệ nhân địa phương.",
+      "questions": [
+        {
+          "prompt": "Hoạt động nào thúc đẩy giao lưu văn hóa?",
+          "options": [
+            "Cắt mọi liên lạc",
+            "Đóng mọi cảng",
+            "Cấm mọi đi lại",
+            "Buôn bán đường biển"
+          ],
+          "answer": "D",
+          "explanation": "Thương nhân mang theo hàng hóa và ý tưởng.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Hai tôn giáo ảnh hưởng lớn từ Ấn Độ là gì?",
+          "options": [
+            "Chỉ thờ tổ tiên",
+            "Chỉ thờ cá Ông",
+            "Phật giáo và Ấn Độ giáo",
+            "Thờ Hùng Vương và Thành hoàng"
+          ],
+          "answer": "C",
+          "explanation": "Hai tôn giáo lan truyền vào nhiều vùng Đông Nam Á.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Cư dân địa phương tiếp nhận văn hóa theo cách nào?",
+          "options": [
+            "Sao chép mọi thứ nguyên dạng",
+            "Chọn lọc và sáng tạo",
+            "Xóa hết bản sắc",
+            "Không tiếp xúc bao giờ"
+          ],
+          "answer": "B",
+          "explanation": "Yếu tố mới được kết hợp với truyền thống sẵn có.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Chữ Phạn có ảnh hưởng tới lĩnh vực nào?",
+          "options": [
+            "Chữ viết địa phương",
+            "Máy hơi nước",
+            "Bản đồ vệ tinh",
+            "Điện lực"
+          ],
+          "answer": "A",
+          "explanation": "Nhiều hệ chữ trong khu vực chịu ảnh hưởng chữ Ấn Độ.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Đền tháp và tượng thường phản ánh điều gì?",
+          "options": [
+            "Chỉ dự báo thời tiết",
+            "Chỉ dân số",
+            "Chỉ lịch thi",
+            "Tín ngưỡng và nghệ thuật"
+          ],
+          "answer": "D",
+          "explanation": "Kiến trúc, điêu khắc thể hiện đời sống văn hóa.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 4. Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-giao-luu-van-hoa-tu-dau-cong-nguyen-den-truoc-the-ki-x-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90042.html",
+        "outline_url": "https://loigiaihay.com/bai-13-giao-luu-van-hoa-o-dong-nam-a-tu-dau-cong-nguyen-den-the-ki-x-e21885.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=3h_uJJMQuz0",
+        "video_title": "Lịch sử lớp 6 Bài 13: Giao lưu thương mại và văn hóa ở Đông Nam Á - trang 56, 58 | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 14,
+      "title": "Bài 14. Nhà nước Văn Lang – Âu Lạc",
+      "body": "MỤC TIÊU\nNhận biết buổi đầu dựng nước của người Việt cổ.\n\nKIẾN THỨC CỐT LÕI\nKhoảng thế kỉ VII TCN, Văn Lang hình thành, đứng đầu là Hùng Vương. Nhu cầu sản xuất, trị thủy và tự vệ thúc đẩy liên kết cộng đồng. Sau đó, Âu Lạc do An Dương Vương đứng đầu, đặt kinh đô tại Cổ Loa. Cư dân trồng lúa, đúc đồng, sống trong nhà sàn và duy trì thờ cúng tổ tiên.\n\nVẬN DỤNG\nSo sánh người đứng đầu và trung tâm chính trị của hai nhà nước.",
+      "questions": [
+        {
+          "prompt": "Người đứng đầu Văn Lang được gọi là gì?",
+          "options": [
+            "Pha-ra-ông",
+            "Mai Hắc Đế",
+            "Hùng Vương",
+            "Hoàng đế La Mã"
+          ],
+          "answer": "C",
+          "explanation": "Hùng Vương là danh xưng người đứng đầu Văn Lang.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "An Dương Vương gắn với nhà nước nào?",
+          "options": [
+            "La Mã",
+            "Âu Lạc",
+            "Phù Nam",
+            "Nhà Hán"
+          ],
+          "answer": "B",
+          "explanation": "An Dương Vương đứng đầu Âu Lạc.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Kinh đô Âu Lạc ở đâu?",
+          "options": [
+            "Cổ Loa",
+            "Hoa Lư",
+            "Huế",
+            "Óc Eo"
+          ],
+          "answer": "A",
+          "explanation": "Cổ Loa là trung tâm của Âu Lạc.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Nghề kinh tế chính của cư dân là gì?",
+          "options": [
+            "Lắp máy tính",
+            "Khai thác dầu ngoài khơi",
+            "Sản xuất ô tô",
+            "Trồng lúa nước"
+          ],
+          "answer": "D",
+          "explanation": "Lúa nước giữ vai trò quan trọng trong đời sống.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Nhu cầu nào thúc đẩy nhà nước hình thành?",
+          "options": [
+            "Lập mạng xã hội",
+            "Phát hành tiền điện tử",
+            "Trị thủy và bảo vệ cộng đồng",
+            "Xây sân bay"
+          ],
+          "answer": "C",
+          "explanation": "Hợp tác chung đòi hỏi tổ chức điều hành.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-nha-nuoc-van-lang-au-lac-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90043.html",
+        "outline_url": "https://loigiaihay.com/bai-14-nha-nuoc-van-lang-au-lac-e21886.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=ksnsGMiIu6g",
+        "video_title": "Lịch sử lớp 6 Bài 14: Nhà nước Văn Lang - Âu Lạc - trang 60, 64 | Kết nối tri thức (HAY NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 15,
+      "title": "Bài 15. Chính sách cai trị của phong kiến phương Bắc và sự chuyển biến thời Bắc thuộc",
+      "body": "MỤC TIÊU\nNhận biết chính sách đô hộ và biến đổi xã hội.\n\nKIẾN THỨC CỐT LÕI\nChính quyền phương Bắc tổ chức bộ máy cai trị, thu thuế, đòi cống nạp và tìm cách đồng hóa cư dân. Kinh tế, kỹ thuật và các tầng lớp xã hội có biến đổi, nhưng làng xã và truyền thống người Việt vẫn có sức sống. Mâu thuẫn với chính quyền đô hộ là nguyên nhân quan trọng của đấu tranh giành độc lập.\n\nVẬN DỤNG\nPhân biệt bóc lột kinh tế với chính sách nhằm thay đổi bản sắc văn hóa.",
+      "questions": [
+        {
+          "prompt": "Cống nạp là biểu hiện chủ yếu của việc gì?",
+          "options": [
+            "Bảo tồn di sản",
+            "Bóc lột kinh tế",
+            "Tự do bầu cử",
+            "Ghi danh học tập"
+          ],
+          "answer": "B",
+          "explanation": "Cư dân bị buộc nộp sản vật cho chính quyền.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Đồng hóa nhằm tác động tới điều gì?",
+          "options": [
+            "Bản sắc văn hóa",
+            "Độ dài ngày đêm",
+            "Dòng thủy triều",
+            "Chu kỳ mùa"
+          ],
+          "answer": "A",
+          "explanation": "Đồng hóa tìm cách thay đổi văn hóa của cộng đồng bị trị.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Tổ chức nào giúp duy trì đời sống cộng đồng Việt?",
+          "options": [
+            "Công ty xuyên quốc gia",
+            "Nghị viện châu Âu",
+            "Liên hợp quốc",
+            "Làng xã"
+          ],
+          "answer": "D",
+          "explanation": "Làng xã là không gian duy trì phong tục.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Nguyên nhân quan trọng dẫn tới khởi nghĩa là gì?",
+          "options": [
+            "Không có mâu thuẫn",
+            "Không có cư dân",
+            "Ách cai trị và bóc lột",
+            "Mọi người đã bình đẳng"
+          ],
+          "answer": "C",
+          "explanation": "Áp bức tạo bất bình và ý chí giành độc lập.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Nhận định nào phù hợp về thời Bắc thuộc?",
+          "options": [
+            "Không có đấu tranh",
+            "Có biến đổi nhưng văn hóa Việt vẫn tồn tại",
+            "Mọi phong tục biến mất ngay",
+            "Không hề có giao lưu"
+          ],
+          "answer": "B",
+          "explanation": "Biến đổi xã hội diễn ra cùng quá trình giữ gìn bản sắc.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-chinh-sach-cai-tri-cua-trieu-dai-phong-kien-phuong-bac-va-su-chuyen-bien-trong-xa-hoi-au-lac-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90044.html",
+        "outline_url": "https://loigiaihay.com/bai-15-chinh-sach-cai-tri-cua-phong-kien-phuong-bac-va-su-chuyen-bien-cua-viet-nam-thoi-ki-bac-thuoc-e21892.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=YbzoE4OA94s",
+        "video_title": "Lịch sử 6 Bài 15: Chính sách cai trị của các triều đại phong kiến phương Bắc - trang 65, 69 | KNTT",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 16,
+      "title": "Bài 16. Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+      "body": "MỤC TIÊU\nGắn người lãnh đạo với mốc và ý nghĩa khởi nghĩa.\n\nKIẾN THỨC CỐT LÕI\nHai Bà Trưng khởi nghĩa năm 40; Bà Triệu năm 248. Lý Bí nổi dậy năm 542 và lập nước Vạn Xuân năm 544. Mai Thúc Loan, Phùng Hưng tiếp nối đấu tranh trong thời Đường. Kết quả từng cuộc khác nhau nhưng đều thể hiện ý chí tự chủ.\n\nVẬN DỤNG\nLập bảng ba cột: người lãnh đạo, thời điểm, kết quả. Chú ý phân biệt năm khởi nghĩa với năm thành lập nhà nước.",
+      "questions": [
+        {
+          "prompt": "Hai Bà Trưng khởi nghĩa năm nào?",
+          "options": [
+            "40",
+            "248",
+            "542",
+            "938"
+          ],
+          "answer": "A",
+          "explanation": "Cuộc khởi nghĩa bùng nổ vào năm 40.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Năm 248 gắn với ai?",
+          "options": [
+            "Ngô Quyền",
+            "Khúc Hạo",
+            "An Dương Vương",
+            "Bà Triệu"
+          ],
+          "answer": "D",
+          "explanation": "Bà Triệu lãnh đạo khởi nghĩa năm 248.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Lý Bí đặt tên nước là gì?",
+          "options": [
+            "Âu Lạc",
+            "Phù Nam",
+            "Vạn Xuân",
+            "Văn Lang"
+          ],
+          "answer": "C",
+          "explanation": "Vạn Xuân được thành lập năm 544.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Năm 542 và 544 khác nhau thế nào?",
+          "options": [
+            "Cùng là năm Văn Lang ra đời",
+            "Khởi nghĩa rồi lập nước",
+            "Lập nước rồi khởi nghĩa",
+            "Cùng là năm Bạch Đằng"
+          ],
+          "answer": "B",
+          "explanation": "Lý Bí khởi nghĩa năm 542, lập nước năm 544.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Điểm chung của các cuộc khởi nghĩa là gì?",
+          "options": [
+            "Ý chí giành độc lập",
+            "Mở thuộc địa ở châu Âu",
+            "Xây đế chế La Mã",
+            "Chấm dứt canh tác"
+          ],
+          "answer": "A",
+          "explanation": "Các cuộc nổi dậy khẳng định tinh thần tự chủ.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-cac-cuoc-khoi-nghia-tieu-bieu-gianh-doc-lap-truoc-the-ki-x-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90045.html",
+        "outline_url": "https://loigiaihay.com/bai-16cac-cuoc-khoi-nghia-tieu-bieu-gianh-doc-lap-truoc-the-ki-x-e21901.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=rA52EKEITBI",
+        "video_title": "Lịch sử lớp 6 Bài 16: Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 17,
+      "title": "Bài 17. Cuộc đấu tranh bảo tồn và phát triển văn hóa dân tộc của người Việt",
+      "body": "MỤC TIÊU\nGiải thích sức sống văn hóa thời Bắc thuộc.\n\nKIẾN THỨC CỐT LÕI\nNgười Việt tiếp tục sử dụng tiếng nói, gìn giữ thờ cúng tổ tiên và các phong tục trong gia đình, làng xã. Đồng thời, họ tiếp nhận chữ viết, kỹ thuật và tín ngưỡng bên ngoài một cách có chọn lọc. Bảo tồn và tiếp thu có thể cùng diễn ra, giúp văn hóa phát triển.\n\nVẬN DỤNG\nChọn một phong tục gia đình, tìm hiểu ý nghĩa và cách lưu truyền giữa các thế hệ.",
+      "questions": [
+        {
+          "prompt": "Yếu tố nào được người Việt tiếp tục gìn giữ?",
+          "options": [
+            "Mọi luật đô hộ nguyên vẹn",
+            "Toàn bộ thuế cống",
+            "Quyền của quan đô hộ",
+            "Tiếng nói dân tộc"
+          ],
+          "answer": "D",
+          "explanation": "Tiếng nói được truyền qua nhiều thế hệ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Thờ cúng tổ tiên thuộc lĩnh vực nào?",
+          "options": [
+            "Hàng hải",
+            "Tiền tệ",
+            "Tín ngưỡng",
+            "Cơ khí"
+          ],
+          "answer": "C",
+          "explanation": "Đây là một tín ngưỡng truyền thống.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Không gian quan trọng duy trì phong tục là gì?",
+          "options": [
+            "Sàn chứng khoán",
+            "Gia đình và làng xã",
+            "Sân bay",
+            "Nhà máy điện"
+          ],
+          "answer": "B",
+          "explanation": "Phong tục được thực hành trong cộng đồng.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Tiếp thu có chọn lọc nghĩa là gì?",
+          "options": [
+            "Học điều phù hợp rồi vận dụng",
+            "Nhận mọi thứ nguyên dạng",
+            "Từ bỏ toàn bộ truyền thống",
+            "Không học điều gì mới"
+          ],
+          "answer": "A",
+          "explanation": "Cộng đồng chủ động lựa chọn và biến đổi yếu tố mới.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Bảo tồn văn hóa có đồng nghĩa đóng cửa không?",
+          "options": [
+            "Có, phải ngừng mọi trao đổi",
+            "Có, phải bỏ chữ viết",
+            "Có, phải bỏ kỹ thuật",
+            "Không, vẫn có thể học hỏi"
+          ],
+          "answer": "D",
+          "explanation": "Giữ bản sắc vẫn có thể đi cùng giao lưu.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-cuoc-dau-tranh-bao-ton-va-phat-trien-van-hoa-dan-toc-cua-nguoi-viet-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90046.html",
+        "outline_url": "https://loigiaihay.com/bai-17-cuoc-dau-tranh-bao-ton-va-phat-trien-van-hoa-dan-toc-cua-nguoi-viet-e21907.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=JMFrWwI6V_0",
+        "video_title": "Lịch sử lớp 6 Bài 17: Cuộc đấu tranh bảo tồn và phát triển văn hóa - trang 78, 79 | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 18,
+      "title": "Bài 18. Bước ngoặt lịch sử đầu thế kỉ X",
+      "body": "MỤC TIÊU\nHiểu quá trình giành tự chủ và chiến thắng năm 938.\n\nKIẾN THỨC CỐT LÕI\nNăm 905, Khúc Thừa Dụ giành quyền tự chủ. Khúc Hạo củng cố quản lý; Dương Đình Nghệ đánh đuổi quân Nam Hán năm 931. Năm 938, Ngô Quyền bố trí cọc trên sông Bạch Đằng, phối hợp thủy triều và phục kích để đánh bại quân xâm lược. Chiến thắng mở ra thời kì độc lập lâu dài.\n\nVẬN DỤNG\nGiải thích vì sao thời điểm nước rút quan trọng với trận địa cọc.",
+      "questions": [
+        {
+          "prompt": "Năm 905 gắn với ai?",
+          "options": [
+            "Lý Bí",
+            "Hùng Vương",
+            "Khúc Thừa Dụ",
+            "Bà Triệu"
+          ],
+          "answer": "C",
+          "explanation": "Khúc Thừa Dụ giành quyền tự chủ năm 905.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Dương Đình Nghệ thắng quân Nam Hán năm nào?",
+          "options": [
+            "544",
+            "931",
+            "40",
+            "248"
+          ],
+          "answer": "B",
+          "explanation": "Chiến thắng năm 931 củng cố nền tự chủ.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Ai chỉ huy Bạch Đằng năm 938?",
+          "options": [
+            "Ngô Quyền",
+            "Trưng Nhị",
+            "Mai Thúc Loan",
+            "Phùng Hưng"
+          ],
+          "answer": "A",
+          "explanation": "Ngô Quyền tổ chức trận đánh năm 938.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Yếu tố tự nhiên được khai thác là gì?",
+          "options": [
+            "Bão tuyết",
+            "Núi lửa",
+            "Sa mạc",
+            "Thủy triều"
+          ],
+          "answer": "D",
+          "explanation": "Mực nước lên xuống hỗ trợ trận địa cọc.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Ý nghĩa lớn của chiến thắng 938 là gì?",
+          "options": [
+            "Lập nước Văn Lang",
+            "Thống nhất La Mã",
+            "Mở thời kì độc lập lâu dài",
+            "Mở đầu Bắc thuộc"
+          ],
+          "answer": "C",
+          "explanation": "Chiến thắng chấm dứt thời kỳ đô hộ kéo dài.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-buoc-ngoat-lich-su-dau-the-ki-x-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90047.html",
+        "outline_url": "https://loigiaihay.com/bai18-buoc-ngoat-lich-su-dau-the-ki-x-e21908.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=wImBKJhmeGM",
+        "video_title": "Lịch sử 6 Bài 18: Bước ngoặt lịch sử ở đầu thế kỉ X - trang 80, 85 | Kết nối tri thức (DỄ HIỂU NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 19,
+      "title": "Bài 19. Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+      "body": "MỤC TIÊU\nNhận diện quá trình hình thành và di sản Chăm-pa.\n\nKIẾN THỨC CỐT LÕI\nNăm 192, Khu Liên lãnh đạo cư dân Tượng Lâm nổi dậy, hình thành Lâm Ấp, gắn với khởi đầu Chăm-pa. Cư dân trồng lúa, làm nghề thủ công, khai thác sản vật và giao thương biển. Chữ Chăm phát triển trên cơ sở tiếp nhận chữ Ấn Độ. Mỹ Sơn và các tháp Chăm phản ánh nghệ thuật cùng đời sống tôn giáo.\n\nVẬN DỤNG\nTìm vị trí miền Trung trên bản đồ, liên hệ đường bờ biển với trao đổi hàng hóa.",
+      "questions": [
+        {
+          "prompt": "Khu Liên gắn với mốc nào?",
+          "options": [
+            "1009",
+            "192",
+            "40",
+            "938"
+          ],
+          "answer": "B",
+          "explanation": "Cuộc nổi dậy ở Tượng Lâm diễn ra năm 192.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Tên nước ban đầu được nhắc đến là gì?",
+          "options": [
+            "Lâm Ấp",
+            "Vạn Xuân",
+            "Văn Lang",
+            "Đại Cồ Việt"
+          ],
+          "answer": "A",
+          "explanation": "Lâm Ấp gắn với khởi đầu Chăm-pa.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Di tích nào gắn với Chăm-pa?",
+          "options": [
+            "Cổ Loa",
+            "Kim tự tháp Giza",
+            "Đấu trường Cô-li-dê",
+            "Mỹ Sơn"
+          ],
+          "answer": "D",
+          "explanation": "Mỹ Sơn lưu dấu kiến trúc tôn giáo Chăm.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Bờ biển dài tạo thuận lợi cho gì?",
+          "options": [
+            "Khai thác tuyết",
+            "Nuôi tuần lộc",
+            "Giao thương đường biển",
+            "Trồng lúa trên băng"
+          ],
+          "answer": "C",
+          "explanation": "Đường biển kết nối thương nhân và sản vật.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Chữ Chăm cổ cho thấy điều gì?",
+          "options": [
+            "Chỉ dùng chữ La-tinh cổ",
+            "Tiếp thu và sáng tạo văn hóa",
+            "Không có chữ viết",
+            "Không có giao lưu"
+          ],
+          "answer": "B",
+          "explanation": "Người Chăm phát triển chữ riêng từ ảnh hưởng bên ngoài.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-vuong-quoc-cham-pa-tu-the-ki-ii-den-the-ki-x-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90048.html",
+        "outline_url": "https://loigiaihay.com/bai-19-vuong-quoc-cham-pa-e21909.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=iqEICX7ydK0",
+        "video_title": "Lịch sử lớp 6 Bài 19: Vương quốc Cham-pa từ thế kỉ II đến thế kỉ X - trang 86, 90 | Kết nối tri thức",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    },
+    {
+      "number": 20,
+      "title": "Bài 20. Vương quốc Phù Nam",
+      "body": "MỤC TIÊU\nHiểu vai trò giao thương của Phù Nam.\n\nKIẾN THỨC CỐT LÕI\nPhù Nam hình thành khoảng thế kỉ I, gắn với văn hóa Óc Eo ở Nam Bộ và vùng lân cận. Cư dân làm nông, thủ công và buôn bán. Óc Eo là cảng thị kết nối trao đổi quốc tế. Phật giáo và Ấn Độ giáo góp phần tạo dấu ấn nghệ thuật. Nhà sàn, ghe thuyền thể hiện sự thích nghi với môi trường sông nước.\n\nVẬN DỤNG\nMột đồng tiền ngoại nhập tại di tích có thể gợi ý điều gì về giao thương?",
+      "questions": [
+        {
+          "prompt": "Phù Nam gắn với nền văn hóa nào?",
+          "options": [
+            "Óc Eo",
+            "Đông Sơn duy nhất",
+            "Hy Lạp",
+            "La Mã"
+          ],
+          "answer": "A",
+          "explanation": "Văn hóa Óc Eo gắn với Phù Nam.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Phù Nam hình thành khoảng thế kỉ nào?",
+          "options": [
+            "X",
+            "XV",
+            "XX",
+            "I"
+          ],
+          "answer": "D",
+          "explanation": "Mốc khái quát là khoảng thế kỉ I.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Óc Eo nổi bật với vai trò gì?",
+          "options": [
+            "Thành của Âu Lạc",
+            "Đảo băng",
+            "Cảng thị giao thương",
+            "Kinh đô nhà Tần"
+          ],
+          "answer": "C",
+          "explanation": "Óc Eo kết nối trao đổi hàng hóa.",
+          "difficulty": "EASY"
+        },
+        {
+          "prompt": "Ghe thuyền phù hợp với môi trường nào?",
+          "options": [
+            "Đỉnh núi cao",
+            "Sông nước",
+            "Hoang mạc khô",
+            "Băng tuyết"
+          ],
+          "answer": "B",
+          "explanation": "Ghe thuyền thuận tiện trên kênh rạch.",
+          "difficulty": "MEDIUM"
+        },
+        {
+          "prompt": "Hiện vật ngoại nhập có thể gợi ý điều gì?",
+          "options": [
+            "Có liên hệ trao đổi bên ngoài",
+            "Không có giao lưu",
+            "Mọi người cùng nghề",
+            "Chắc chắn có máy bay"
+          ],
+          "answer": "A",
+          "explanation": "Cần kết hợp bối cảnh khảo cổ để nghiên cứu giao thương.",
+          "difficulty": "MEDIUM"
+        }
+      ],
+      "section": "Chương 5. Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X",
+      "source": {
+        "source_url": "https://loigiaihay.com/ly-thuyet-vuong-quoc-phu-nam-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90049.html",
+        "outline_url": "https://loigiaihay.com/bai-20-vuong-quoc-phu-nam-e21910.html",
+        "book_url": "https://loigiaihay.com/sgk-lich-su-va-dia-li-6-pdf-lich-su-va-dia-li-6-ket-noi-tri-thuc-a176369.html",
+        "video_url": "https://www.youtube.com/watch?v=0vzHHHqyQMc",
+        "video_title": "Lịch sử lớp 6 Bài 20: Vương quốc Phù Nam - trang 91, 94 | Kết nối tri thức (HAY NHẤT)",
+        "video_author": "VietJack Tiểu học & THCS",
+        "checked_on": "2026-10-08"
+      }
+    }
+  ]
+}

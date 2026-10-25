@@ -1,0 +1,198 @@
+001. PASS GET /admin/dashboard [200]
+002. PASS JSP rendered /admin/dashboard
+003. PASS Guest protected redirect
+004. PASS GET /login [200]
+005. PASS JSP rendered /login
+006. PASS POST /login [200]
+007. PASS Login admin@suviet.local
+008. PASS GET /login [200]
+009. PASS JSP rendered /login
+010. PASS POST /login [200]
+011. PASS Login student@suviet.local
+012. PASS GET /login [200]
+013. PASS JSP rendered /login
+014. PASS POST /login [200]
+015. PASS Login teacher@suviet.local
+016. PASS GET /admin/dashboard [200]
+017. PASS JSP rendered /admin/dashboard
+018. PASS GET /admin/users [200]
+019. PASS JSP rendered /admin/users
+020. PASS GET /admin/users?edit=2 [200]
+021. PASS JSP rendered /admin/users?edit=2
+022. PASS GET /admin/settings [200]
+023. PASS JSP rendered /admin/settings
+024. PASS GET /teacher/results [200]
+025. PASS JSP rendered /teacher/results
+026. PASS GET /teacher/catalog?entity=subjects [200]
+027. PASS JSP rendered /teacher/catalog?entity=subjects
+028. PASS GET /teacher/catalog?entity=lessons [200]
+029. PASS JSP rendered /teacher/catalog?entity=lessons
+030. PASS GET /teacher/catalog?entity=topics [200]
+031. PASS JSP rendered /teacher/catalog?entity=topics
+032. PASS GET /teacher/catalog?entity=lectures [200]
+033. PASS JSP rendered /teacher/catalog?entity=lectures
+034. PASS GET /teacher/catalog?entity=questions [200]
+035. PASS JSP rendered /teacher/catalog?entity=questions
+036. PASS GET /teacher/generate [200]
+037. PASS JSP rendered /teacher/generate
+038. PASS GET /teacher/students [200]
+039. PASS JSP rendered /teacher/students
+040. PASS GET /teacher/results [200]
+041. PASS JSP rendered /teacher/results
+042. PASS GET /student/learn [200]
+043. PASS JSP rendered /student/learn
+044. PASS GET /student/learn?lesson=1 [200]
+045. PASS JSP rendered /student/learn?lesson=1
+046. PASS GET /student/topic?id=1 [200]
+047. PASS JSP rendered /student/topic?id=1
+048. PASS GET /student/history [200]
+049. PASS JSP rendered /student/history
+050. PASS GET /student/tutor [200]
+051. PASS JSP rendered /student/tutor
+052. PASS GET /admin/dashboard [403]
+053. PASS GET /admin [403]
+054. PASS GET /teacher/catalog [403]
+055. PASS GET /teacher [403]
+056. PASS GET /admin/settings [403]
+057. PASS POST /student/start [403]
+058. PASS GET /admin/users?q=%27%20OR%201%3D1-- [200]
+059. PASS JSP rendered /admin/users?q=%27%20OR%201%3D1--
+060. PASS SQL injection search treated as value
+061. PASS GET /teacher/catalog?entity=users [400]
+062. PASS POST /admin/users [200]
+063. PASS POST /admin/users [200]
+064. PASS POST /admin/users [200]
+065. PASS POST /admin/users [200]
+066. PASS POST /admin/users [200]
+067. PASS POST /admin/users [200]
+068. PASS POST /admin/users [200]
+069. PASS POST /admin/users [200]
+070. PASS POST /admin/users [200]
+071. PASS POST /admin/users [200]
+072. PASS POST /admin/users [200]
+073. PASS GET /admin/users?page=2 [200]
+074. PASS JSP rendered /admin/users?page=2
+075. PASS User pagination
+076. PASS GET /admin/users?q=test0@ [200]
+077. PASS JSP rendered /admin/users?q=test0@
+078. PASS POST /admin/users [200]
+079. PASS GET /admin/users?q=test0@ [200]
+080. PASS JSP rendered /admin/users?q=test0@
+081. PASS Stored XSS escaped
+082. PASS POST /admin/users [200]
+083. PASS POST /admin/users [200]
+084. PASS POST /admin/users [200]
+085. PASS POST /teacher/catalog [200]
+086. PASS POST /teacher/catalog [200]
+087. PASS POST /teacher/catalog [200]
+088. PASS POST /teacher/catalog [400]
+089. PASS POST /teacher/catalog [400]
+090. PASS POST /teacher/generate [200]
+091. PASS Generated exactly two drafts
+092. PASS POST /teacher/generate [200]
+093. PASS POST /teacher/generate [400]
+094. PASS POST /student/start [200]
+095. PASS No correct answer serialized before submit
+096. PASS POST /student/practice [400]
+097. PASS POST /student/practice [200]
+098. PASS Wrong answer auto-starts tutor
+099. PASS POST /student/practice [400]
+100. PASS GET /results?id=1 [200]
+101. PASS JSP rendered /results?id=1
+102. PASS GET /review?id=1 [200]
+103. PASS JSP rendered /review?id=1
+104. PASS GET /results?id=1 [200]
+105. PASS JSP rendered /results?id=1
+106. PASS Chat Giúp em bước đầu. [200]
+107. PASS Chat Em nghĩ đến hiện vật. [200]
+108. PASS Session preserves multi-turn conversation
+109. PASS Chat TEST_MALFORMED [502]
+110. PASS Chat TEST_429 [502]
+111. PASS Chat TEST_TIMEOUT [502]
+112. PASS GET /student/practice?id=1 [200]
+113. PASS JSP rendered /student/practice?id=1
+114. PASS POST /student/practice [200]
+115. PASS GET /student/practice?id=1 [200]
+116. PASS JSP rendered /student/practice?id=1
+117. PASS POST /student/practice [200]
+118. PASS GET /student/practice?id=1 [200]
+119. PASS JSP rendered /student/practice?id=1
+120. PASS POST /student/practice [200]
+121. PASS GET /student/practice?id=1 [200]
+122. PASS JSP rendered /student/practice?id=1
+123. PASS POST /student/practice [200]
+124. PASS GET /student/practice?id=1 [200]
+125. PASS JSP rendered /student/practice?id=1
+126. PASS Quiz completes
+127. PASS GET /student/history [200]
+128. PASS JSP rendered /student/history
+129. PASS GET /register [200]
+130. PASS JSP rendered /register
+131. PASS POST /register [200]
+132. PASS GET /login [200]
+133. PASS JSP rendered /login
+134. PASS POST /login [200]
+135. PASS Login new@test.local
+136. PASS Registration cannot elevate role
+137. PASS GET /student/review?id=1 [404]
+138. PASS GET /results?id=1 [404]
+139. PASS POST /student/start [200]
+140. PASS POST /student/practice [400]
+141. PASS POST /student/practice [200]
+142. PASS AI grade persisted
+143. PASS Owner can read uploaded image
+144. PASS GET /upload?id=6 [404]
+145. PASS Teacher can read essay image
+146. PASS POST /admin/users [200]
+147. PASS Lock revokes active session
+148. PASS POST /admin/users [200]
+149. PASS HttpClient sends history
+150. PASS HttpClient sends vision image as inlineData
+151. PASS HttpClient sends system instructions
+152. PASS GET /login [200]
+153. PASS JSP rendered /login
+154. PASS POST /login [200]
+155. PASS Login admin@suviet.local
+156. PASS GET /login [200]
+157. PASS JSP rendered /login
+158. PASS POST /login [200]
+159. PASS Login teacher@suviet.local
+160. PASS GET /login [200]
+161. PASS JSP rendered /login
+162. PASS POST /login [200]
+163. PASS Login student@suviet.local
+164. PASS POST /teacher/catalog [200]
+165. PASS POST /teacher/catalog [200]
+166. PASS POST /teacher/catalog [200]
+167. PASS POST /teacher/catalog [200]
+168. PASS POST /teacher/catalog [200]
+169. PASS POST /teacher/catalog [200]
+170. PASS GET /student/topic?id=6 [200]
+171. PASS JSP rendered /student/topic?id=6
+172. PASS Lecture text escaped
+173. PASS YouTube iframe only trusted embed
+174. PASS POST /teacher/catalog [200]
+175. PASS POST /teacher/catalog [200]
+176. PASS POST /teacher/catalog [200]
+177. PASS POST /student/start [200]
+178. PASS Original snapshot displayed
+179. PASS POST /teacher/catalog [200]
+180. PASS POST /student/practice [200]
+181. PASS Live bank edit does not change grading snapshot
+182. PASS POST /teacher/catalog [200]
+183. PASS POST /teacher/catalog [200]
+184. PASS POST /teacher/catalog [200]
+185. PASS POST /teacher/catalog [200]
+186. PASS POST /teacher/catalog [200]
+187. PASS POST /teacher/catalog [200]
+188. PASS GET /student/review?id=8 [200]
+189. PASS JSP rendered /student/review?id=8
+190. PASS Past answer survives bank deletion
+191. PASS GET /admin/settings [200]
+192. PASS JSP rendered /admin/settings
+193. PASS POST /admin/settings [200]
+194. PASS GET /admin/settings [200]
+195. PASS JSP rendered /admin/settings
+196. PASS Admin system prompt saved
+197. PASS POST /admin/settings [200]
+198. PASS POST /admin/users [409]

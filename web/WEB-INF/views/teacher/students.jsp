@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+<%@ include file="../partials/header.jspf" %>
+
+<div class="page-heading"><div><div class="eyebrow">THEO DÕI HỌC TẬP</div><h1>Học sinh</h1><p>${sessionScope.user.role eq 'ADMIN' ? 'Danh sách học sinh toàn hệ thống.' : 'Chỉ hiển thị học sinh ghi danh vào khóa được phân công. Bài luyện tự do là dữ liệu riêng tư.'}</p></div></div>
+<section class="surface"><c:if test="${sessionScope.user.role eq 'ADMIN'}"><form class="search-form mb-4"><input name="q" class="form-control" aria-label="Tìm học sinh" placeholder="Tìm tên hoặc email" value="${fn:escapeXml(param.q)}"><button class="btn btn-outline-primary">Tìm</button></form></c:if><div class="table-responsive"><table class="table align-middle"><thead><tr><th>Học sinh</th><th>Email</th><th>Học tập</th></tr></thead><tbody><c:forEach var="row" items="${rows}"><tr><td><c:out value="${row.full_name}"/></td><td><c:out value="${row.email}"/></td><td><c:choose><c:when test="${sessionScope.user.role eq 'ADMIN'}"><a href="${ctx}/teacher/results?student=${row.id}">Xem bài làm →</a></c:when><c:otherwise><a href="${ctx}/teacher/courses">Tiến độ trong khóa →</a></c:otherwise></c:choose></td></tr></c:forEach><c:if test="${empty rows}"><tr><td colspan="3">Chưa có học sinh phù hợp.</td></tr></c:if></tbody></table></div><%@ include file="../partials/pager.jspf" %></section>
+
+<%@ include file="../partials/footer.jspf" %>

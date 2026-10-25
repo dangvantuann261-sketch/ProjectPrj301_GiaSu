@@ -1,0 +1,15 @@
+<%@ page pageEncoding="UTF-8" %><span id="tutor-chat"></span>
+<c:if test="${not teacherView}">
+<c:if test="${answer.grading_status eq 'AI_GRADED' and answer.score lt 10}">
+<section class="surface" data-essay data-answer-id="${answer.id}"><h2>Luyện tự luận từng bước</h2>
+<p class="text-secondary">Mỗi bước chỉ có một công thức hoặc khung có chỗ trống. Em tự điền, gia sư kiểm tra rồi mới sang bước tiếp.</p>
+<div class="chat-messages" data-essay-messages aria-live="polite" aria-label="Các bước tự luận"></div>
+<p class="small" data-essay-status role="status">Đang tải bước hiện tại…</p>
+<button class="btn btn-primary" type="button" data-essay-start hidden>Bắt đầu bước đầu tiên</button>
+<form data-essay-form hidden><label for="essay-value" class="form-label">Đáp số / ý em tự điền</label><textarea id="essay-value" name="value" class="form-control mb-3" rows="3" maxlength="1000" required></textarea><button class="btn btn-primary" type="submit">Kiểm tra bước này</button></form>
+<button class="btn btn-outline-secondary mt-3" type="button" data-essay-reload>Tải lại bước hiện tại</button></section></c:if>
+<c:if test="${answer.grading_status eq 'MANUAL_REQUIRED' or (answer.grading_status eq 'AI_GRADED' and answer.score lt 10)}">
+<section class="surface mt-4" data-essay-resubmit ${essayState.phase eq 'RESUBMIT' or answer.grading_status eq 'MANUAL_REQUIRED' ? '' : 'hidden'}><h2>Làm lại và nộp ảnh mới</h2><p>Tự trình bày lại toàn bộ bài trên giấy, chụp ảnh rõ nét rồi nộp lại. Ảnh và kết quả lần trước được giữ trong lịch sử.</p>
+<form method="post" action="${ctx}/student/resubmit" enctype="multipart/form-data" data-busy="Đang lưu ảnh…"><%@ include file="csrf.jspf" %><input type="hidden" name="id" value="${answer.id}"><input type="hidden" name="revision" value="${essayState.revision}"><label class="form-label" for="resubmit-image">Ảnh bài làm mới (JPG/PNG, tối đa 5 MB)</label><input id="resubmit-image" type="file" name="image" accept="image/jpeg,image/png" class="form-control mb-3" required><button class="btn btn-primary">Nộp lại ảnh bài làm</button></form></section></c:if>
+</c:if>
+<c:if test="${not empty revisions}"><section class="surface mt-4"><h2>Các lần nộp trước</h2><c:forEach var="revision" items="${revisions}"><details class="mb-3"><summary>Lần ${revision.revision} · ${empty revision.score ? 'Chưa có điểm' : revision.score}</summary><p class="prose mt-3"><c:out value="${revision.feedback}"/></p><a href="${ctx}/upload?id=${answer.id}&amp;revision=${revision.revision}" target="_blank" rel="noopener">Xem ảnh lần ${revision.revision} ↗</a></details></c:forEach></section></c:if>
